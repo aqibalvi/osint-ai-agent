@@ -2,8 +2,6 @@
 
 An AI-powered OSINT (Open Source Intelligence) investigation platform that automates the discovery, analysis, and synthesis of public information about entities (e.g., people, companies). Built using LangGraph, Gemini, Claude, and GPT-4o.
 
-&#x20;
-
 ---
 
 ## ✨ Features
@@ -154,7 +152,11 @@ Models are passed via JSON:
 
 ## 🎉 Future Enhancements
 
--
+- Add latency benchmarks (per-step duration stats)
+- Chart view for credibility scores (radar or bar)
+- Graph visualization of sources on the frontend using react-force-graph
+- Export final report to PDF or Markdown
+- Memory persistence
 
 ---
 
