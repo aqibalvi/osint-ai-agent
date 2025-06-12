@@ -1,3 +1,4 @@
+osintenv/
 # Node / Frontend
 node_modules/
 frontend/dist/
@@ -40,6 +41,8 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 *$py.class
+*.pkl
+*.pyc
 uv.lock
 
 # C extensions
