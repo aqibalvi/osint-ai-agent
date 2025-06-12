@@ -1,0 +1,1151 @@
+{
+  "query": "Investigate Arooba Ahmed a Pakistani female living in Oman",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Arooba Ahmed",
+    "keywords": [
+      "Pakistani",
+      "female",
+      "Oman"
+    ],
+    "affiliation": null,
+    "location": "Oman",
+    "nationality": "Pakistani"
+  },
+  "tasks": [
+    "Search LinkedIn for Arooba Ahmed with Pakistani nationality working in Oman",
+    "Check Oman Ministry of Manpower database for work permit records of Arooba Ahmed",
+    "Search Times of Oman and Oman Observer archives for news articles mentioning Arooba Ahmed",
+    "Look up Oman Commercial Registry for business registrations under Arooba Ahmed",
+    "Search Facebook and Instagram for profiles of Arooba Ahmed located in Oman",
+    "Check Pakistani embassy Oman consular services records for Arooba Ahmed",
+    "Search Oman court records and legal databases for cases involving Arooba Ahmed",
+    "Look up property ownership records in Oman land registry for Arooba Ahmed",
+    "Search academic databases and university records in Oman for Arooba Ahmed",
+    "Check professional licensing boards in Oman for certifications under Arooba Ahmed",
+    "Search Twitter and professional networks for Arooba Ahmed with Oman location tags",
+    "Look up Oman Chamber of Commerce membership directories for Arooba Ahmed"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for Arooba Ahmed with Pakistani nationality working in Oman",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:05.397319",
+      "data": "I searched for information on a Pakistani national named Arooba Ahmed working in Oman but did not find any publicly available details. It's possible that she maintains a low online profile or that her professional information isn't publicly accessible.\n\nHowever, the Pakistani community in Oman is active in various sectors. For instance, the Pakistan School Muscat has achieved notable academic success, with students excelling in the Cambridge International General Certificate of Secondary Education (IGCSE) examinations. ([rssfeeds.timesofoman.com](https://rssfeeds.timesofoman.com/article/15467-oman-education-pakistan-school-muscat-students-excel-in-examination?utm_source=openai)) Additionally, the Young Pakistan Forum Oman (YPFO) was established to showcase the talents of Pakistani youth in the region. ([timesofoman.com](https://timesofoman.com/article/40638-are-you-a-young-pakistani-in-oman-youll-want-to-be-part-of-this?utm_source=openai))\n\nIf you have more specific information or context about Arooba Ahmed, such as her profession or industry, I can assist further in locating relevant details. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "4528839229229fc2d3786873ba4bf16fbaefc7ef98e3033c46b1c32f270de459",
+      "citations": [
+        {
+          "url": "https://rssfeeds.timesofoman.com/article/15467-oman-education-pakistan-school-muscat-students-excel-in-examination?utm_source=openai",
+          "title": "Oman education: Pakistan School Muscat students excel in examination - Times of Oman",
+          "start": 525,
+          "end": 687
+        },
+        {
+          "url": "https://timesofoman.com/article/40638-are-you-a-young-pakistani-in-oman-youll-want-to-be-part-of-this?utm_source=openai",
+          "title": "Are you a young Pakistani in Oman? You'll want to be part of this - Times of Oman",
+          "start": 813,
+          "end": 953
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Oman Ministry of Manpower database for work permit records of Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:12.564215",
+      "data": "I'm unable to access individual work permit records from the Oman Ministry of Manpower, as such information is confidential and not publicly available. The Ministry maintains a database of work permits, but access is restricted to authorized personnel to protect personal privacy.\n\nIn Oman, the employment of non-Omani workers is regulated under the kafala (visa-sponsorship) system, which ties a worker's legal status to a specific employer. This system grants employers significant control over their employees, including the authority to approve or deny transfers to other employers. For instance, domestic workers cannot change employers without their current employer's permission, often in the form of a \"no-objection certificate\" or \"release.\" The Ministry of Manpower oversees these regulations and enforces compliance. ([hrw.org](https://www.hrw.org/report/2016/07/13/i-was-sold/abuse-and-exploitation-migrant-domestic-workers-oman?utm_source=openai))\n\nAdditionally, the Ministry has established procedures for reporting absconding non-Omani workers. Employers can file reports if a worker leaves their position without authorization. However, there are specific conditions under which such reports are permissible, and the Ministry has set guidelines to ensure fair treatment of workers. ([gulfmigration.grc.net](https://gulfmigration.grc.net/category/database_legal/?utm_source=openai))\n\nFor individuals seeking information about their own work permit status or related matters, it's advisable to contact the Ministry of Manpower directly or consult their official website for guidance. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "872b6bea8e5cd4c61ca14f9ffe0be24f33a1d63b00cbee0fc425ed48d6d04b38",
+      "citations": [
+        {
+          "url": "https://www.hrw.org/report/2016/07/13/i-was-sold/abuse-and-exploitation-migrant-domestic-workers-oman?utm_source=openai",
+          "title": "“I Was Sold”: Abuse and Exploitation of Migrant Domestic Workers in Oman | HRW",
+          "start": 828,
+          "end": 960
+        },
+        {
+          "url": "https://gulfmigration.grc.net/category/database_legal/?utm_source=openai",
+          "title": "Legal Database - GLMM",
+          "start": 1298,
+          "end": 1397
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Times of Oman and Oman Observer archives for news articles mentioning Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:16.046727",
+      "data": "After searching the archives of the Times of Oman and Oman Observer, I found no news articles mentioning \"Arooba Ahmed.\" The only relevant information is from an external source, FindTutors, which lists an individual named Arooba Ahmed as an English tutor based in London. ([findtutors.co.uk](https://www.findtutors.co.uk/tutor/arooba-ahmed.htm?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "678ca822151539b0be9db2132b6d3362c6b86d37fcdab157f821b0cc5a67a6af",
+      "citations": [
+        {
+          "url": "https://www.findtutors.co.uk/tutor/arooba-ahmed.htm?utm_source=openai",
+          "title": "Arooba Ahmed | FindTutors",
+          "start": 273,
+          "end": 364
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Look up Oman Commercial Registry for business registrations under Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:19.747644",
+      "data": "I searched the Oman Commercial Registry for business registrations under the name \"Arooba Ahmed\" but did not find any listings associated with this name. It's possible that the business is registered under a different name or that the information is not publicly accessible.\n\nFor more accurate and up-to-date information, I recommend contacting the Oman Ministry of Commerce, Industry, and Investment Promotion directly or visiting their official website. They maintain the official records of business registrations in Oman and can provide detailed information upon request.\n\nPlease note that access to certain business registration details may require specific permissions or may be subject to privacy regulations. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "a948a14e82d003d6971f200df5e2aa63a5ce11de8f3b63cef9e11af2eb019a0f",
+      "citations": []
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search Facebook and Instagram for profiles of Arooba Ahmed located in Oman",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:22.908011",
+      "data": "I searched for Facebook and Instagram profiles of individuals named \"Arooba Ahmed\" located in Oman but did not find any publicly available profiles matching that name in the region. It's possible that such profiles exist but are set to private or use different name variations.\n\nHowever, I did come across a beauty brand named \"Arooba Beauty,\" which offers a range of beauty products and has been featured in publications like Harper's Bazaar Vietnam. ([aroobabeauty.com](https://www.aroobabeauty.com/collections/frontpage?utm_source=openai)) While the brand shares the name \"Arooba,\" there is no indication that it is associated with an individual named \"Arooba Ahmed\" in Oman.\n\nIf you have more specific information or alternative spellings, I can assist further in locating the desired profiles. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "42bac70c3ae79c3ebc55cfc9f098f4ea29bae8515c93160c7a6067bfde8162ed",
+      "citations": [
+        {
+          "url": "https://www.aroobabeauty.com/collections/frontpage?utm_source=openai",
+          "title": "Home page – Arooba Beauty",
+          "start": 452,
+          "end": 542
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Check Pakistani embassy Oman consular services records for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:27.661602",
+      "data": "I'm unable to access individual consular records due to privacy and confidentiality regulations. However, if you need assistance regarding consular services at the Pakistani Embassy in Muscat, Oman, you can contact the Community Welfare Attaché, Mr. Ateeq-ur-Rehman Khan, at:\n\n- **Office Phone**: +968 24601206\n- **Mobile**: +968 93864151\n- **WhatsApp**: +92 301 4242451\n- **Fax**: +968 24697462\n- **Email**: cwaparepmuscat@gmail.com\n\nFor more information on consular services, you can visit the official website of the Pakistani Embassy in Muscat: ([mofa.gov.pk](https://mofa.gov.pk/muscat-consular-affairs?utm_source=openai))\n\nPlease note that consular records are confidential, and access is typically restricted to authorized individuals. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "e9643d0a577559b87478caeddd488ac32be5a0b828746beec8e385b4599c0029",
+      "citations": [
+        {
+          "url": "https://mofa.gov.pk/muscat-consular-affairs?utm_source=openai",
+          "title": "Muscat Consular Affairs",
+          "start": 549,
+          "end": 627
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search Oman court records and legal databases for cases involving Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:30.647126",
+      "data": "After conducting a thorough search of Omani court records and legal databases, I found no publicly available information regarding cases involving an individual named Arooba Ahmed. Oman's legal system maintains strict confidentiality, and detailed case information is not typically accessible to the public. Therefore, without specific case numbers or additional identifying details, it is challenging to locate records pertaining to a particular individual.\n\nFor more precise information, you may consider contacting the Omani Ministry of Justice or consulting with a legal professional in Oman who can provide guidance on accessing specific legal records. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "c60c768e667a0162e88947542f33fcd41ba70a3f3183ca1f1a1a5e2406093481",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Look up property ownership records in Oman land registry for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:34.068939",
+      "data": "Accessing property ownership records in Oman is restricted to protect individual privacy. The Ministry of Housing and Urban Planning maintains an electronic database for land registrations, but this system is primarily accessible to property owners for their own records. General browsing or searching for properties owned by others is not permitted. ([index.okfn.org](https://index.okfn.org/place/om/land.html?utm_source=openai))\n\nTo verify property ownership, individuals can consult the Ministry of Housing and Urban Planning, which is responsible for land and property registration in Oman. They can confirm whether a title deed is registered in their system and matches their records. ([sandsofwealth.com](https://sandsofwealth.com/blogs/news/oman-title-deed?utm_source=openai))\n\nGiven these privacy protections, obtaining information about property ownership for individuals other than oneself, such as for Arooba Ahmed, is not feasible through public channels. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "07027539de8de6ed0f6184040f490921540a0f8600eebcf949052e12840e2d3c",
+      "citations": [
+        {
+          "url": "https://index.okfn.org/place/om/land.html?utm_source=openai",
+          "title": "Entry for Oman / Land Ownership - Global Open Data Index",
+          "start": 351,
+          "end": 430
+        },
+        {
+          "url": "https://sandsofwealth.com/blogs/news/oman-title-deed?utm_source=openai",
+          "title": "How to verify the property title deed in Oman – Sands Of Wealth",
+          "start": 690,
+          "end": 783
+        }
+      ]
+    },
+    "task_9": {
+      "source": "web_search_preview",
+      "query_used": "Search academic databases and university records in Oman for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:37.518620",
+      "data": "After searching academic databases and university records in Oman, I did not find any publications or records associated with an individual named \"Arooba Ahmed.\" It's possible that the name is spelled differently, or the individual may not have publicly available academic records in Oman. If you can provide additional details, such as alternative spellings, specific institutions, or fields of study, I would be happy to assist you further. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "c1938ab7559160330f6dc2ec819048390bb6be0d7a8f8c9155867ab1e724ea48",
+      "citations": []
+    },
+    "task_10": {
+      "source": "web_search_preview",
+      "query_used": "Check professional licensing boards in Oman for certifications under Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:44.002222",
+      "data": "I searched the available professional licensing boards and certification registers in Oman for any records pertaining to an individual named \"Arooba Ahmed.\" Unfortunately, I did not find any publicly accessible information confirming certifications or licenses under that name.\n\nThe Oman Medical Specialty Board (OMSB) is responsible for verifying and accrediting health professionals in Oman. Their Professional Competence Department ensures the competency and fitness of all professionals working in the Sultanate through verification and equivalence of health professional certificates, occupational classification testing, and professional competence assurance. ([omsb.gov.om](https://omsb.gov.om/home/infoPage?id=607&utm_source=openai))\n\nAdditionally, the Oman National CERT (OCERT) maintains a list of professional ambassadors in the field of cybersecurity. A review of their publicly available records did not reveal any individuals named \"Arooba Ahmed.\" ([ambassadors.cert.gov.om](https://ambassadors.cert.gov.om/professionals_en.aspx?utm_source=openai))\n\nPlease note that the absence of publicly available information does not necessarily indicate a lack of certification or licensure. Some records may not be accessible online or may require specific permissions to view. For more detailed information, you may consider contacting the relevant professional licensing boards directly. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "fb540ab4453be27a51791e1188bc66cb19363a7c1b7987a6b3a576555bb83a74",
+      "citations": [
+        {
+          "url": "https://omsb.gov.om/home/infoPage?id=607&utm_source=openai",
+          "title": "Overview",
+          "start": 666,
+          "end": 741
+        },
+        {
+          "url": "https://ambassadors.cert.gov.om/professionals_en.aspx?utm_source=openai",
+          "title": "OCERT Professional Ambassadors",
+          "start": 962,
+          "end": 1062
+        }
+      ]
+    },
+    "task_11": {
+      "source": "web_search_preview",
+      "query_used": "Search Twitter and professional networks for Arooba Ahmed with Oman location tags",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:47.994851",
+      "data": "After searching Twitter and professional networks, I found limited information about an individual named Arooba Ahmed associated with Oman. The available data pertains to an individual named Arooba Ahmed, a journalist contributing to publications like Phys.org and bioRxiv. However, there is no indication that this person is based in Oman. ([muckrack.com](https://muckrack.com/arooba-ahmed?utm_source=openai))\n\nAdditionally, a search for GitHub users in Oman did not yield any profiles under the name Arooba Ahmed. ([github.com](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/oman.md?utm_source=openai))\n\nGiven the commonality of the name, it's possible that the individual you're seeking has a limited online presence or uses different platforms. If you have more specific details, such as a middle name, profession, or affiliated organization, I can assist further in locating information about Arooba Ahmed in Oman. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "5ea8b76ec627e01c2bf27a00226c55df0041a1a8613cdfcd91122e41f046b2b6",
+      "citations": [
+        {
+          "url": "https://muckrack.com/arooba-ahmed?utm_source=openai",
+          "title": "Arooba Ahmed’s Profile | Phys.org, bioRxiv Journalist | Muck Rack",
+          "start": 341,
+          "end": 410
+        },
+        {
+          "url": "https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/oman.md?utm_source=openai",
+          "title": "top-github-users/markdown/followers/oman.md at main · gayanvoice/top-github-users · GitHub",
+          "start": 516,
+          "end": 633
+        }
+      ]
+    },
+    "task_12": {
+      "source": "web_search_preview",
+      "query_used": "Look up Oman Chamber of Commerce membership directories for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:52.707297",
+      "data": "I searched the available membership directories of the Oman Chamber of Commerce and Industry (OCCI) and related organizations but did not find any information regarding an individual named Arooba Ahmed. The OCCI's official website and its membership directory do not appear to be publicly accessible, which limits the ability to verify individual memberships. Additionally, other business directories and resources reviewed did not list an individual by that name.\n\nFor more accurate and up-to-date information, I recommend contacting the Oman Chamber of Commerce and Industry directly through their official channels. Their contact details are as follows:\n\n- **Address**: P.O. Box 1400, Ruwi, Muscat, Oman\n- **Phone**: +968 24707674 / 24707684\n- **Fax**: +968 24708497\n- **Email**: info@chamberoman.com\n- **Website**: [www.chamberoman.com](http://www.chamberoman.com)\n\nPlease note that access to specific membership information may be restricted due to privacy policies. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "f1b49797a2af08367027e6d23ad14c38949ab30c84d4bd9a103cd162760e87da",
+      "citations": []
+    }
+  },
+  "report": "## OSINT Intelligence Report: Arooba Ahmed\n\n**Report Date:** June 11, 2025\n\n### Executive Summary\n\nArooba Ahmed is a likely common name, with multiple individuals sharing it.  The OSINT investigation yielded a potential match for an English tutor based in London, UK ([findtutors.co.uk](https://www.findtutors.co.uk/tutor/arooba-ahmed.htm)). No verifiable information connecting an Arooba Ahmed to Oman was found. There are no immediate red flags associated with the identified individual.\n\n\n### Thematic Summary of Key Findings\n\n**Professional / Career Background**\n- Potentially an English tutor based in London, UK. ([findtutors.co.uk](https://www.findtutors.co.uk/tutor/arooba-ahmed.htm)).  No professional background information related to Oman was discovered.\n\n\n**Business & Financial Activity**\n- No business registrations or financial affiliations were found in Oman. A beauty brand named \"Arooba Beauty\" exists ([aroobabeauty.com](https://www.aroobabeauty.com/collections/frontpage)), but no connection to the individual named Arooba Ahmed has been established.\n\n**Legal or Criminal Mentions**\n- No records of legal cases or criminal activity were found in Oman.\n\n**Academic / Public Recognition**\n- No academic achievements or public recognitions related to Oman were found.\n\n**Online / Social Presence**\n- No verifiable social media presence (Facebook, Instagram, LinkedIn) was found for an Arooba Ahmed in Oman. The London-based tutor listing provides contact information through the FindTutors platform.\n\n**Other Notable Mentions**\n- Searches across various Omani databases (Ministry of Manpower, land registry, Chamber of Commerce, professional licensing boards) yielded no results.\n\n### Risk Profile\n\nBased on the available evidence, the reputational risk associated with the Arooba Ahmed identified as an English tutor in London is **low**. The lack of information regarding an Arooba Ahmed in Oman prevents a risk assessment for an individual in that region.  It's important to note that the commonality of the name increases the possibility of mistaken identity.\n",
+  "judgement": {
+    "credibility_score": "8",
+    "flagged_issues": [
+      "The report correctly identifies the lack of verifiable information about Arooba Ahmed in Oman, but could be more explicit about the limitations of the search. The connection to the London-based tutor is properly cited but should note this may be a different individual. The report could benefit from more explicit statements about the commonality of the name and the resulting challenges in identification."
+    ],
+    "revised_report": "## OSINT Intelligence Report: Arooba Ahmed\n\n**Report Date:** June 11, 2025\n\n### Executive Summary\n\nArooba Ahmed appears to be a common name, with multiple individuals potentially sharing it. The OSINT investigation yielded no verifiable information about an individual named Arooba Ahmed residing or working in Oman. A potential match was identified for an English tutor based in London, UK¹, though this may be an entirely different individual. The absence of information in Omani databases and public records suggests either: (a) no such individual exists in Oman, (b) the individual maintains an extremely low public profile, or (c) the search parameters did not match the actual name variations or spellings used.\n\n### Thematic Summary of Key Findings\n\n**Professional / Career Background**\n- No professional records found in Oman across multiple databases\n- One potential match identified: English tutor based in London, UK¹\n- No work permit records accessible through Oman Ministry of Manpower²\n- No professional licenses or certifications found in Omani licensing boards¹⁰\n\n**Business & Financial Activity**\n- No business registrations found in Oman Commercial Registry⁴\n- No membership records in Oman Chamber of Commerce¹²\n- A beauty brand named \"Arooba Beauty\" exists⁵, but no verified connection to any individual named Arooba Ahmed\n\n**Legal or Criminal Mentions**\n- No court records or legal cases found in Omani legal databases⁷\n- No criminal activity records identified\n\n**Academic / Public Recognition**\n- No academic records or publications found in Omani universities or academic databases⁹\n- No public recognition or awards identified\n\n**Online / Social Presence**\n- No publicly accessible Facebook or Instagram profiles for Arooba Ahmed in Oman⁵\n- No LinkedIn profile found for a Pakistani national named Arooba Ahmed working in Oman¹\n- No mentions in Times of Oman or Oman Observer archives³\n\n**Property & Assets**\n- No property ownership records accessible (note: Oman land registry restricts public access)⁸\n\n### Investigation Limitations\n\n1. **Privacy Restrictions**: Several Omani databases (Ministry of Manpower², Pakistani Embassy records⁶, land registry⁸) restrict public access to personal information\n2. **Name Commonality**: \"Arooba Ahmed\" may be a common name, increasing the risk of mistaken identity\n3. **Alternative Spellings**: The individual may use different name variations not captured in searches\n4. **Low Digital Footprint**: The subject may intentionally maintain minimal online presence\n\n### Risk Profile\n\nBased on available evidence:\n- **Reputational Risk**: **Low to None** - No negative information found\n- **Identity Verification Risk**: **High** - Unable to confirm the existence or identity of a specific Arooba Ahmed in Oman\n- **Due Diligence Completeness**: **Moderate** - Comprehensive searches conducted but limited by access restrictions\n\n### Recommendations\n\n1. If seeking a specific Arooba Ahmed, provide additional identifying information (date of birth, passport number, employer name)\n2. Consider direct verification through official channels if this is for employment or business purposes\n3. Be aware of potential mistaken identity given the name's apparent commonality\n\n---\n\n### Footnotes\n\n¹ FindTutors UK listing for Arooba Ahmed, English tutor in London (findtutors.co.uk/tutor/arooba-ahmed.htm)\n² Oman Ministry of Manpower - Individual work permit records are confidential and not publicly accessible\n³ Times of Oman and Oman Observer archives search conducted June 11, 2025\n⁴ Oman Commercial Registry search conducted June 11, 2025\n⁵ Arooba Beauty brand identified (aroobabeauty.com) - no verified connection to individual\n⁶ Pakistani Embassy Muscat - Consular records are confidential\n⁷ Omani court records maintain strict confidentiality\n⁸ Oman land registry - Property records restricted to protect privacy (index.okfn.org/place/om/land.html)\n⁹ Academic databases and university records search conducted June 11, 2025\n¹⁰ Oman Medical Specialty Board (OMSB) and Oman National CERT (OCERT) records checked\n¹² Oman Chamber of Commerce and Industry membership directories not publicly accessible"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "the Young Pakistan Forum Oman",
+        "label": "entity"
+      },
+      {
+        "id": "Oman",
+        "label": "entity"
+      },
+      {
+        "id": "the Cambridge International General Certificate of Secondary Education",
+        "label": "entity"
+      },
+      {
+        "id": "the Pakistan School Muscat",
+        "label": "entity"
+      },
+      {
+        "id": "Arooba Ahmed",
+        "label": "entity"
+      },
+      {
+        "id": "YPFO",
+        "label": "entity"
+      },
+      {
+        "id": "the Ministry of Manpower",
+        "label": "entity"
+      },
+      {
+        "id": "The Ministry of Manpower",
+        "label": "entity"
+      },
+      {
+        "id": "the Oman Ministry of Manpower",
+        "label": "entity"
+      },
+      {
+        "id": "the Times of Oman",
+        "label": "entity"
+      },
+      {
+        "id": "Oman Observer",
+        "label": "entity"
+      },
+      {
+        "id": "FindTutors",
+        "label": "entity"
+      },
+      {
+        "id": "London",
+        "label": "entity"
+      },
+      {
+        "id": "Investment Promotion",
+        "label": "entity"
+      },
+      {
+        "id": "the Oman Ministry of Commerce, Industry",
+        "label": "entity"
+      },
+      {
+        "id": "the Oman Commercial Registry",
+        "label": "entity"
+      },
+      {
+        "id": "Bazaar Vietnam",
+        "label": "entity"
+      },
+      {
+        "id": "Arooba",
+        "label": "entity"
+      },
+      {
+        "id": "Harper",
+        "label": "entity"
+      },
+      {
+        "id": "Ateeq-ur-Rehman Khan",
+        "label": "entity"
+      },
+      {
+        "id": "the Pakistani Embassy",
+        "label": "entity"
+      },
+      {
+        "id": "the Community Welfare Attaché",
+        "label": "entity"
+      },
+      {
+        "id": "Muscat",
+        "label": "entity"
+      },
+      {
+        "id": "the Omani Ministry of Justice",
+        "label": "entity"
+      },
+      {
+        "id": "The Ministry of Housing and Urban Planning",
+        "label": "entity"
+      },
+      {
+        "id": "the Ministry of Housing and Urban Planning",
+        "label": "entity"
+      },
+      {
+        "id": "The Oman Medical Specialty Board",
+        "label": "entity"
+      },
+      {
+        "id": "Sultanate",
+        "label": "entity"
+      },
+      {
+        "id": "the Oman National CERT",
+        "label": "entity"
+      },
+      {
+        "id": "Their Professional Competence Department",
+        "label": "entity"
+      },
+      {
+        "id": "OCCI",
+        "label": "entity"
+      },
+      {
+        "id": "P.O. Box 1400",
+        "label": "entity"
+      },
+      {
+        "id": "the Oman Chamber of Commerce and Industry",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "the Young Pakistan Forum Oman",
+        "target": "Oman",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Young Pakistan Forum Oman",
+        "target": "the Cambridge International General Certificate of Secondary Education",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Young Pakistan Forum Oman",
+        "target": "the Pakistan School Muscat",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Young Pakistan Forum Oman",
+        "target": "Arooba Ahmed",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Young Pakistan Forum Oman",
+        "target": "YPFO",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Oman",
+        "target": "the Cambridge International General Certificate of Secondary Education",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Oman",
+        "target": "the Pakistan School Muscat",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Oman",
+        "target": "Arooba Ahmed",
+        "weight": 6.900000000000001,
+        "task": "task_1"
+      },
+      {
+        "source": "Oman",
+        "target": "YPFO",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Oman",
+        "target": "the Ministry of Manpower",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Oman",
+        "target": "The Ministry of Manpower",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Oman",
+        "target": "the Oman Ministry of Manpower",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Oman",
+        "target": "Investment Promotion",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Oman",
+        "target": "the Oman Ministry of Commerce, Industry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Oman",
+        "target": "the Oman Commercial Registry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Oman",
+        "target": "Bazaar Vietnam",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Oman",
+        "target": "Arooba",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Oman",
+        "target": "Harper",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Oman",
+        "target": "Ateeq-ur-Rehman Khan",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Oman",
+        "target": "the Pakistani Embassy",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Oman",
+        "target": "the Community Welfare Attaché",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Oman",
+        "target": "Muscat",
+        "weight": 1.8,
+        "task": "task_6"
+      },
+      {
+        "source": "Oman",
+        "target": "the Omani Ministry of Justice",
+        "weight": 0.8,
+        "task": "task_7"
+      },
+      {
+        "source": "Oman",
+        "target": "The Ministry of Housing and Urban Planning",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Oman",
+        "target": "the Ministry of Housing and Urban Planning",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Oman",
+        "target": "The Oman Medical Specialty Board",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Oman",
+        "target": "Sultanate",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Oman",
+        "target": "the Oman National CERT",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Oman",
+        "target": "Their Professional Competence Department",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Oman",
+        "target": "OCCI",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Oman",
+        "target": "P.O. Box 1400",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Oman",
+        "target": "the Oman Chamber of Commerce and Industry",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "the Cambridge International General Certificate of Secondary Education",
+        "target": "the Pakistan School Muscat",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Cambridge International General Certificate of Secondary Education",
+        "target": "Arooba Ahmed",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Cambridge International General Certificate of Secondary Education",
+        "target": "YPFO",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan School Muscat",
+        "target": "Arooba Ahmed",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan School Muscat",
+        "target": "YPFO",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "YPFO",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Times of Oman",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Oman Observer",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "FindTutors",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Investment Promotion",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Oman Ministry of Commerce, Industry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Oman Commercial Registry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Bazaar Vietnam",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Arooba",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Harper",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Omani Ministry of Justice",
+        "weight": 0.8,
+        "task": "task_7"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "The Ministry of Housing and Urban Planning",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Ministry of Housing and Urban Planning",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "The Oman Medical Specialty Board",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Sultanate",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Oman National CERT",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Their Professional Competence Department",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "OCCI",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "P.O. Box 1400",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "Muscat",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Arooba Ahmed",
+        "target": "the Oman Chamber of Commerce and Industry",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "the Ministry of Manpower",
+        "target": "The Ministry of Manpower",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Ministry of Manpower",
+        "target": "the Oman Ministry of Manpower",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "The Ministry of Manpower",
+        "target": "the Oman Ministry of Manpower",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Times of Oman",
+        "target": "Oman Observer",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "the Times of Oman",
+        "target": "FindTutors",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "the Times of Oman",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Oman Observer",
+        "target": "FindTutors",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Oman Observer",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "FindTutors",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Investment Promotion",
+        "target": "the Oman Ministry of Commerce, Industry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Investment Promotion",
+        "target": "the Oman Commercial Registry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "the Oman Ministry of Commerce, Industry",
+        "target": "the Oman Commercial Registry",
+        "weight": 0.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Bazaar Vietnam",
+        "target": "Arooba",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bazaar Vietnam",
+        "target": "Harper",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Arooba",
+        "target": "Harper",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ateeq-ur-Rehman Khan",
+        "target": "the Pakistani Embassy",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ateeq-ur-Rehman Khan",
+        "target": "the Community Welfare Attaché",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ateeq-ur-Rehman Khan",
+        "target": "Muscat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistani Embassy",
+        "target": "the Community Welfare Attaché",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistani Embassy",
+        "target": "Muscat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Community Welfare Attaché",
+        "target": "Muscat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muscat",
+        "target": "OCCI",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Muscat",
+        "target": "P.O. Box 1400",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "Muscat",
+        "target": "the Oman Chamber of Commerce and Industry",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "The Ministry of Housing and Urban Planning",
+        "target": "the Ministry of Housing and Urban Planning",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Oman Medical Specialty Board",
+        "target": "Sultanate",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "The Oman Medical Specialty Board",
+        "target": "the Oman National CERT",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "The Oman Medical Specialty Board",
+        "target": "Their Professional Competence Department",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Sultanate",
+        "target": "the Oman National CERT",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "Sultanate",
+        "target": "Their Professional Competence Department",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "the Oman National CERT",
+        "target": "Their Professional Competence Department",
+        "weight": 0.9,
+        "task": "task_10"
+      },
+      {
+        "source": "OCCI",
+        "target": "P.O. Box 1400",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "OCCI",
+        "target": "the Oman Chamber of Commerce and Industry",
+        "weight": 0.9,
+        "task": "task_12"
+      },
+      {
+        "source": "P.O. Box 1400",
+        "target": "the Oman Chamber of Commerce and Industry",
+        "weight": 0.9,
+        "task": "task_12"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for Arooba Ahmed with Pakistani nationality working in Oman",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:05.397319",
+      "data": "I searched for information on a Pakistani national named Arooba Ahmed working in Oman but did not find any publicly available details. It's possible that she maintains a low online profile or that her professional information isn't publicly accessible.\n\nHowever, the Pakistani community in Oman is active in various sectors. For instance, the Pakistan School Muscat has achieved notable academic success, with students excelling in the Cambridge International General Certificate of Secondary Education (IGCSE) examinations. ([rssfeeds.timesofoman.com](https://rssfeeds.timesofoman.com/article/15467-oman-education-pakistan-school-muscat-students-excel-in-examination?utm_source=openai)) Additionally, the Young Pakistan Forum Oman (YPFO) was established to showcase the talents of Pakistani youth in the region. ([timesofoman.com](https://timesofoman.com/article/40638-are-you-a-young-pakistani-in-oman-youll-want-to-be-part-of-this?utm_source=openai))\n\nIf you have more specific information or context about Arooba Ahmed, such as her profession or industry, I can assist further in locating relevant details. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "4528839229229fc2d3786873ba4bf16fbaefc7ef98e3033c46b1c32f270de459",
+      "citations": [
+        {
+          "url": "https://rssfeeds.timesofoman.com/article/15467-oman-education-pakistan-school-muscat-students-excel-in-examination?utm_source=openai",
+          "title": "Oman education: Pakistan School Muscat students excel in examination - Times of Oman",
+          "start": 525,
+          "end": 687
+        },
+        {
+          "url": "https://timesofoman.com/article/40638-are-you-a-young-pakistani-in-oman-youll-want-to-be-part-of-this?utm_source=openai",
+          "title": "Are you a young Pakistani in Oman? You'll want to be part of this - Times of Oman",
+          "start": 813,
+          "end": 953
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Oman Ministry of Manpower database for work permit records of Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:12.564215",
+      "data": "I'm unable to access individual work permit records from the Oman Ministry of Manpower, as such information is confidential and not publicly available. The Ministry maintains a database of work permits, but access is restricted to authorized personnel to protect personal privacy.\n\nIn Oman, the employment of non-Omani workers is regulated under the kafala (visa-sponsorship) system, which ties a worker's legal status to a specific employer. This system grants employers significant control over their employees, including the authority to approve or deny transfers to other employers. For instance, domestic workers cannot change employers without their current employer's permission, often in the form of a \"no-objection certificate\" or \"release.\" The Ministry of Manpower oversees these regulations and enforces compliance. ([hrw.org](https://www.hrw.org/report/2016/07/13/i-was-sold/abuse-and-exploitation-migrant-domestic-workers-oman?utm_source=openai))\n\nAdditionally, the Ministry has established procedures for reporting absconding non-Omani workers. Employers can file reports if a worker leaves their position without authorization. However, there are specific conditions under which such reports are permissible, and the Ministry has set guidelines to ensure fair treatment of workers. ([gulfmigration.grc.net](https://gulfmigration.grc.net/category/database_legal/?utm_source=openai))\n\nFor individuals seeking information about their own work permit status or related matters, it's advisable to contact the Ministry of Manpower directly or consult their official website for guidance. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "872b6bea8e5cd4c61ca14f9ffe0be24f33a1d63b00cbee0fc425ed48d6d04b38",
+      "citations": [
+        {
+          "url": "https://www.hrw.org/report/2016/07/13/i-was-sold/abuse-and-exploitation-migrant-domestic-workers-oman?utm_source=openai",
+          "title": "“I Was Sold”: Abuse and Exploitation of Migrant Domestic Workers in Oman | HRW",
+          "start": 828,
+          "end": 960
+        },
+        {
+          "url": "https://gulfmigration.grc.net/category/database_legal/?utm_source=openai",
+          "title": "Legal Database - GLMM",
+          "start": 1298,
+          "end": 1397
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Times of Oman and Oman Observer archives for news articles mentioning Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:16.046727",
+      "data": "After searching the archives of the Times of Oman and Oman Observer, I found no news articles mentioning \"Arooba Ahmed.\" The only relevant information is from an external source, FindTutors, which lists an individual named Arooba Ahmed as an English tutor based in London. ([findtutors.co.uk](https://www.findtutors.co.uk/tutor/arooba-ahmed.htm?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "678ca822151539b0be9db2132b6d3362c6b86d37fcdab157f821b0cc5a67a6af",
+      "citations": [
+        {
+          "url": "https://www.findtutors.co.uk/tutor/arooba-ahmed.htm?utm_source=openai",
+          "title": "Arooba Ahmed | FindTutors",
+          "start": 273,
+          "end": 364
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Look up Oman Commercial Registry for business registrations under Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:19.747644",
+      "data": "I searched the Oman Commercial Registry for business registrations under the name \"Arooba Ahmed\" but did not find any listings associated with this name. It's possible that the business is registered under a different name or that the information is not publicly accessible.\n\nFor more accurate and up-to-date information, I recommend contacting the Oman Ministry of Commerce, Industry, and Investment Promotion directly or visiting their official website. They maintain the official records of business registrations in Oman and can provide detailed information upon request.\n\nPlease note that access to certain business registration details may require specific permissions or may be subject to privacy regulations. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "a948a14e82d003d6971f200df5e2aa63a5ce11de8f3b63cef9e11af2eb019a0f",
+      "citations": []
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search Facebook and Instagram for profiles of Arooba Ahmed located in Oman",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:22.908011",
+      "data": "I searched for Facebook and Instagram profiles of individuals named \"Arooba Ahmed\" located in Oman but did not find any publicly available profiles matching that name in the region. It's possible that such profiles exist but are set to private or use different name variations.\n\nHowever, I did come across a beauty brand named \"Arooba Beauty,\" which offers a range of beauty products and has been featured in publications like Harper's Bazaar Vietnam. ([aroobabeauty.com](https://www.aroobabeauty.com/collections/frontpage?utm_source=openai)) While the brand shares the name \"Arooba,\" there is no indication that it is associated with an individual named \"Arooba Ahmed\" in Oman.\n\nIf you have more specific information or alternative spellings, I can assist further in locating the desired profiles. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "42bac70c3ae79c3ebc55cfc9f098f4ea29bae8515c93160c7a6067bfde8162ed",
+      "citations": [
+        {
+          "url": "https://www.aroobabeauty.com/collections/frontpage?utm_source=openai",
+          "title": "Home page – Arooba Beauty",
+          "start": 452,
+          "end": 542
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Check Pakistani embassy Oman consular services records for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:27.661602",
+      "data": "I'm unable to access individual consular records due to privacy and confidentiality regulations. However, if you need assistance regarding consular services at the Pakistani Embassy in Muscat, Oman, you can contact the Community Welfare Attaché, Mr. Ateeq-ur-Rehman Khan, at:\n\n- **Office Phone**: +968 24601206\n- **Mobile**: +968 93864151\n- **WhatsApp**: +92 301 4242451\n- **Fax**: +968 24697462\n- **Email**: cwaparepmuscat@gmail.com\n\nFor more information on consular services, you can visit the official website of the Pakistani Embassy in Muscat: ([mofa.gov.pk](https://mofa.gov.pk/muscat-consular-affairs?utm_source=openai))\n\nPlease note that consular records are confidential, and access is typically restricted to authorized individuals. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "e9643d0a577559b87478caeddd488ac32be5a0b828746beec8e385b4599c0029",
+      "citations": [
+        {
+          "url": "https://mofa.gov.pk/muscat-consular-affairs?utm_source=openai",
+          "title": "Muscat Consular Affairs",
+          "start": 549,
+          "end": 627
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search Oman court records and legal databases for cases involving Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:30.647126",
+      "data": "After conducting a thorough search of Omani court records and legal databases, I found no publicly available information regarding cases involving an individual named Arooba Ahmed. Oman's legal system maintains strict confidentiality, and detailed case information is not typically accessible to the public. Therefore, without specific case numbers or additional identifying details, it is challenging to locate records pertaining to a particular individual.\n\nFor more precise information, you may consider contacting the Omani Ministry of Justice or consulting with a legal professional in Oman who can provide guidance on accessing specific legal records. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "c60c768e667a0162e88947542f33fcd41ba70a3f3183ca1f1a1a5e2406093481",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Look up property ownership records in Oman land registry for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:34.068939",
+      "data": "Accessing property ownership records in Oman is restricted to protect individual privacy. The Ministry of Housing and Urban Planning maintains an electronic database for land registrations, but this system is primarily accessible to property owners for their own records. General browsing or searching for properties owned by others is not permitted. ([index.okfn.org](https://index.okfn.org/place/om/land.html?utm_source=openai))\n\nTo verify property ownership, individuals can consult the Ministry of Housing and Urban Planning, which is responsible for land and property registration in Oman. They can confirm whether a title deed is registered in their system and matches their records. ([sandsofwealth.com](https://sandsofwealth.com/blogs/news/oman-title-deed?utm_source=openai))\n\nGiven these privacy protections, obtaining information about property ownership for individuals other than oneself, such as for Arooba Ahmed, is not feasible through public channels. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "07027539de8de6ed0f6184040f490921540a0f8600eebcf949052e12840e2d3c",
+      "citations": [
+        {
+          "url": "https://index.okfn.org/place/om/land.html?utm_source=openai",
+          "title": "Entry for Oman / Land Ownership - Global Open Data Index",
+          "start": 351,
+          "end": 430
+        },
+        {
+          "url": "https://sandsofwealth.com/blogs/news/oman-title-deed?utm_source=openai",
+          "title": "How to verify the property title deed in Oman – Sands Of Wealth",
+          "start": 690,
+          "end": 783
+        }
+      ]
+    },
+    "task_9": {
+      "source": "web_search_preview",
+      "query_used": "Search academic databases and university records in Oman for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:37.518620",
+      "data": "After searching academic databases and university records in Oman, I did not find any publications or records associated with an individual named \"Arooba Ahmed.\" It's possible that the name is spelled differently, or the individual may not have publicly available academic records in Oman. If you can provide additional details, such as alternative spellings, specific institutions, or fields of study, I would be happy to assist you further. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "c1938ab7559160330f6dc2ec819048390bb6be0d7a8f8c9155867ab1e724ea48",
+      "citations": []
+    },
+    "task_10": {
+      "source": "web_search_preview",
+      "query_used": "Check professional licensing boards in Oman for certifications under Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:44.002222",
+      "data": "I searched the available professional licensing boards and certification registers in Oman for any records pertaining to an individual named \"Arooba Ahmed.\" Unfortunately, I did not find any publicly accessible information confirming certifications or licenses under that name.\n\nThe Oman Medical Specialty Board (OMSB) is responsible for verifying and accrediting health professionals in Oman. Their Professional Competence Department ensures the competency and fitness of all professionals working in the Sultanate through verification and equivalence of health professional certificates, occupational classification testing, and professional competence assurance. ([omsb.gov.om](https://omsb.gov.om/home/infoPage?id=607&utm_source=openai))\n\nAdditionally, the Oman National CERT (OCERT) maintains a list of professional ambassadors in the field of cybersecurity. A review of their publicly available records did not reveal any individuals named \"Arooba Ahmed.\" ([ambassadors.cert.gov.om](https://ambassadors.cert.gov.om/professionals_en.aspx?utm_source=openai))\n\nPlease note that the absence of publicly available information does not necessarily indicate a lack of certification or licensure. Some records may not be accessible online or may require specific permissions to view. For more detailed information, you may consider contacting the relevant professional licensing boards directly. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "fb540ab4453be27a51791e1188bc66cb19363a7c1b7987a6b3a576555bb83a74",
+      "citations": [
+        {
+          "url": "https://omsb.gov.om/home/infoPage?id=607&utm_source=openai",
+          "title": "Overview",
+          "start": 666,
+          "end": 741
+        },
+        {
+          "url": "https://ambassadors.cert.gov.om/professionals_en.aspx?utm_source=openai",
+          "title": "OCERT Professional Ambassadors",
+          "start": 962,
+          "end": 1062
+        }
+      ]
+    },
+    "task_12": {
+      "source": "web_search_preview",
+      "query_used": "Look up Oman Chamber of Commerce membership directories for Arooba Ahmed",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T16:42:52.707297",
+      "data": "I searched the available membership directories of the Oman Chamber of Commerce and Industry (OCCI) and related organizations but did not find any information regarding an individual named Arooba Ahmed. The OCCI's official website and its membership directory do not appear to be publicly accessible, which limits the ability to verify individual memberships. Additionally, other business directories and resources reviewed did not list an individual by that name.\n\nFor more accurate and up-to-date information, I recommend contacting the Oman Chamber of Commerce and Industry directly through their official channels. Their contact details are as follows:\n\n- **Address**: P.O. Box 1400, Ruwi, Muscat, Oman\n- **Phone**: +968 24707674 / 24707684\n- **Fax**: +968 24708497\n- **Email**: info@chamberoman.com\n- **Website**: [www.chamberoman.com](http://www.chamberoman.com)\n\nPlease note that access to specific membership information may be restricted due to privacy policies. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "f1b49797a2af08367027e6d23ad14c38949ab30c84d4bd9a103cd162760e87da",
+      "citations": []
+    }
+  }
+}

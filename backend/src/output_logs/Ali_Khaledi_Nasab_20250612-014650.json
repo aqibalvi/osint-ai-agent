@@ -1,0 +1,2609 @@
+{
+  "query": "Investigate Ali Khaledi Nasab an Irani AI Researcher working for Amazon",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Ali Khaledi Nasab",
+    "keywords": [
+      "AI",
+      "researcher",
+      "Amazon",
+      "Iranian"
+    ],
+    "affiliation": "Amazon",
+    "location": null,
+    "nationality": "Iranian"
+  },
+  "tasks": [
+    "Search LinkedIn for Ali Khaledi Nasab current employment at Amazon and AI research roles",
+    "Search Google Scholar and academic databases for publications by Ali Khaledi Nasab in artificial intelligence",
+    "Search GitHub and GitLab repositories associated with Ali Khaledi Nasab username or contributions",
+    "Search Amazon Web Services research publications and technical papers authored by Ali Khaledi Nasab",
+    "Search IEEE Xplore and ACM Digital Library for conference papers by Ali Khaledi Nasab",
+    "Search news articles mentioning Ali Khaledi Nasab in relation to Amazon AI research or Iranian tech talent",
+    "Search ResearchGate and ORCID profiles for Ali Khaledi Nasab academic and research history",
+    "Search university websites and faculty directories for Ali Khaledi Nasab previous academic affiliations"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for Ali Khaledi Nasab current employment at Amazon and AI research roles",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:25.411770",
+      "data": "Dr. Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon Rufus, focusing on generative AI products. He joined Amazon in October 2022 as a research scientist in the AWS network capacity team. In 2024, he transitioned to Amazon Rufus to work on their latest generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nBefore joining Amazon, Dr. Khaledi Nasab completed his Ph.D. at Ohio University, where he worked on the collective dynamics of excitable tree networks. Following his Ph.D., he held a research position at Stanford University's Department of Neurosurgery, focusing on stimulation methods for treating neurological disorders. He also worked at CODA Biotherapeutics, a gene therapy startup developing treatments for epilepsy. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nIn addition to his professional roles, Dr. Khaledi Nasab has been involved in various research projects, including publishing papers on the dynamics of phase oscillator networks and the depolarization of echo chambers by random dynamical nudge. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "8fe76f75c0423fe64f0ca009b7cecf27fc94c094e43606c27616c638e0fe6193",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 304,
+          "end": 369
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 793,
+          "end": 858
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Search Google Scholar and academic databases for publications by Ali Khaledi Nasab in artificial intelligence",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:30.263818",
+      "data": "Ali Khaledi-Nasab is a researcher affiliated with Amazon, specializing in machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. His work has been cited over 400 times, with an h-index of 10 and a g-index of 21, indicating a significant impact in his field. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nOne of his notable publications is \"Potato extract as reducing agent and stabiliser in a facile green one-step synthesis of ZnO nanoparticles,\" co-authored with F. Buazar, M. Bavi, F. Kroushawi, M. Halvani, and S.A. Hossieni. Published in the Journal of Experimental Nanoscience in 2016, this study explores the use of potato extract in the green synthesis of zinc oxide nanoparticles, highlighting its potential as a reducing agent and stabilizer. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAnother significant work is \"Size-dependent intersubband optical properties of dome-shaped InAs/GaAs quantum dots with wetting layer,\" co-authored with M. Sabaeian. This 2012 preprint examines the optical properties of quantum dots, focusing on the effects of size and the presence of a wetting layer, contributing to the understanding of quantum dot behavior in optoelectronic applications. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nThese publications reflect Khaledi-Nasab's contributions to the fields of nanotechnology and quantum physics, particularly in the application of artificial intelligence and machine learning techniques to complex scientific problems. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b351ce56b84db1bf83a23dd729f62da81eb606b65de8a01295a21886ca4045d0",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 308,
+          "end": 404
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 855,
+          "end": 951
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search GitHub and GitLab repositories associated with Ali Khaledi Nasab username or contributions",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:35.614336",
+      "data": "I couldn't locate any GitHub or GitLab repositories directly associated with the username \"Ali Khaledi Nasab.\" However, I found a GitHub profile under the username \"imseyed,\" which belongs to Seyed Ali Khalili. This profile features several projects, including:\n\n- **Auth2FA**: A PHP library for Two-Factor Authentication (2FA) that provides TOTP and HOTP generation, along with random secret key generation functionalities.\n\n- **js-music-player**: A beautifully designed JavaScript music player.\n\n- **PHP-whois-domain**: A PHP script that retrieves domain WHOIS information and IP details via API.\n\n- **navicat_remote_MySQL**: A script that enables Navicat to connect to a remote MySQL tunnel via mysqli, compatible with PHP 8.\n\nThese projects showcase a focus on data mining, IoT, machine learning, and communication technologies. ([github.com](https://github.com/imseyed?utm_source=openai))\n\nAdditionally, there is a GitHub profile under the username \"Alikhalkhali,\" associated with Ali Khalkhali. This profile includes:\n\n- **programs-watcher**: A Python script designed to monitor bug bounty programs for any changes and promptly notify users.\n\n- **active-ip**: A tool with several scanning techniques that extracts live IP addresses from a list of IP addresses or CIDR notations.\n\nThese projects indicate a focus on cybersecurity and network monitoring. ([github.com](https://github.com/Alikhalkhali?utm_source=openai))\n\nWhile these profiles may not be directly linked to \"Ali Khaledi Nasab,\" they reflect the diverse interests and expertise in the fields of data mining, machine learning, and network security. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "106282de6ae94e9266db2edab6cd4f725ade55a1d9b580154741baf153a60625",
+      "citations": [
+        {
+          "url": "https://github.com/imseyed?utm_source=openai",
+          "title": "imseyed (Ali Khalili) · GitHub",
+          "start": 833,
+          "end": 893
+        },
+        {
+          "url": "https://github.com/Alikhalkhali?utm_source=openai",
+          "title": "Alikhalkhali (Ali Khalkhali) · GitHub",
+          "start": 1359,
+          "end": 1424
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Search Amazon Web Services research publications and technical papers authored by Ali Khaledi Nasab",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:40.541218",
+      "data": "Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon Rufus. He has a diverse background in physics, neuroscience, and artificial intelligence, with expertise in nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences. His research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nIn 2022, he joined Amazon Web Services (AWS) as a research scientist in the Network Capacity Planning organization. During his tenure at AWS, he worked on various projects, including the development of generative AI products. In 2024, he transitioned to Amazon Rufus to focus on their latest generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nPrior to his work at AWS, Dr. Khaledi Nasab held positions at Stanford University School of Medicine's Department of Neurosurgery and at CODA Biotherapeutics, a gene therapy startup. His academic journey began with a Ph.D. in physics from Ohio University, where he conducted research on the collective dynamics of excitable tree networks. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nDr. Khaledi Nasab has authored several publications in the fields of physics and neuroscience. Notably, he published a paper titled \"Depolarization of echo chambers by random dynamical nudge\" in *Scientific Reports* in 2022. Additionally, he has contributed to the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for \"significant contributions\" in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nFor a comprehensive overview of his work and publications, you can visit his personal website. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "526ee13279938e1d8e1b9412fd41db3a8ebab76e47b2a29bd114f5b60f454d01",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 429,
+          "end": 494
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 811,
+          "end": 876
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search IEEE Xplore and ACM Digital Library for conference papers by Ali Khaledi Nasab",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:44.803710",
+      "data": "Ali Khaledi-Nasab has contributed to several conference papers in the fields of machine learning, artificial intelligence, and computational neuroscience. Notable works include:\n\n- \"Potato extract as reducing agent and stabiliser in a facile green one-step synthesis of ZnO nanoparticles\" (2016), which has been cited 129 times. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\n- \"Size-dependent intersubband optical properties of dome-shaped InAs/GaAs quantum dots with wetting layer\" (2012), cited 97 times. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\n- \"Facile one‐pot phytosynthesis of magnetic nanoparticles using potato extract and their catalytic activity\" (2016), cited 90 times. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nThese publications highlight his expertise in nanotechnology and quantum dot research. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "bbb1b037e78199c47a878807a77498b171452e202e1866afb0f55b34d8906f03",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 329,
+          "end": 425
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 559,
+          "end": 655
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search news articles mentioning Ali Khaledi Nasab in relation to Amazon AI research or Iranian tech talent",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:47.879663",
+      "data": "I couldn't find any news articles mentioning Ali Khaledi Nasab in relation to Amazon's AI research or highlighting his role as an Iranian tech talent. However, Ali Khaledi Nasab has contributed to neuroscience research, including a 2021 study titled \"Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation,\" co-authored with Justus A. Kromer and Peter A. Tass. ([patrinum.ch](https://patrinum.ch/record/489579?utm_source=openai))\n\nAdditionally, in 2017, TechRasa highlighted several successful Iranian-American entrepreneurs in Silicon Valley, such as Hadi Partovi, co-founder of Code.org, and Ali Partovi, an investor in Dropbox, Airbnb, and Facebook. ([techrasa.com](https://techrasa.com/2017/08/30/list-successful-iranian-entrepreneurs-silicon-valley/?utm_source=openai))\n\nWhile these sources showcase the achievements of Iranian tech professionals, there is no specific information about Ali Khaledi Nasab's involvement with Amazon's AI research or his prominence in the Iranian tech community. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "93230e4da485409026922f22b18b1dd36ff904085dd7b33d1c098aaca0b4b7b3",
+      "citations": [
+        {
+          "url": "https://patrinum.ch/record/489579?utm_source=openai",
+          "title": "Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation",
+          "start": 392,
+          "end": 460
+        },
+        {
+          "url": "https://techrasa.com/2017/08/30/list-successful-iranian-entrepreneurs-silicon-valley/?utm_source=openai",
+          "title": "A List of Successful Iranian Entrepreneurs in Silicon Valley - TechRasa",
+          "start": 684,
+          "end": 805
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search ResearchGate and ORCID profiles for Ali Khaledi Nasab academic and research history",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:52.061330",
+      "data": "Ali Khaledi Nasab is a physicist specializing in computational neuroscience and nonlinear dynamics. He earned his Ph.D. in Physics and Astronomy from Ohio University, where he conducted research on the dynamics of excitable tree networks, particularly focusing on sensory neurons with tree-like structures. His work aimed to understand the mechanisms of spike generation and information coding in these neurons. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nIn 2019, Khaledi Nasab received the American Physical Society (APS) Division of Biological Physics Student Travel Award, which supported his attendance at the APS annual meeting in Boston, where he presented his research. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nFollowing his doctoral studies, he joined Amazon as a Senior Researcher, focusing on machine learning, artificial intelligence, and network dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nHis academic contributions include publications on topics such as the optical properties of quantum dots and the dynamics of neuronal networks. For instance, he co-authored a paper titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements,\" published in Scientific Reports in 2017. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAdditionally, Khaledi Nasab has shared personal reflections on his experiences as an international student in the United States, discussing challenges related to immigration policies and the importance of institutional support for international scholars. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nFor a comprehensive overview of his publications and academic history, you can refer to his Google Scholar profile. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "6613e6b4861e590672a6d6d1915a7cb4bf4ea296cd1b1c8d3a0627a1352b68b3",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 412,
+          "end": 546
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 770,
+          "end": 904
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Search university websites and faculty directories for Ali Khaledi Nasab previous academic affiliations",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:54.936746",
+      "data": "Dr. Ali Khaledi Nasab has held several academic positions:\n\n- **Ohio University**: He completed his Ph.D. in Physics & Astronomy, focusing on the collective dynamics of excitable tree networks. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\n- **Stanford University**: After his Ph.D., he joined the Department of Neurosurgery as a researcher, working on stimulation methods for treating neurological disorders. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\n- **College of Wooster**: In October 2017, he delivered a colloquium talk titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\n- **Ohio University**: In February 2018, he presented a seminar on \"Collective dynamics of random tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai))\n\nThese roles highlight his expertise in physics, neuroscience, and their applications in medical research. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "54bae49c04addd05c4b2f45f52460959c4704f087250e784333136eeb64a94b7",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 194,
+          "end": 264
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 436,
+          "end": 506
+        }
+      ]
+    }
+  },
+  "report": "## OSINT Intelligence Report: Ali Khaledi Nasab\n\n**Report Date:** June 12, 2025\n\n### Executive Summary\n\nAli Khaledi Nasab is a physicist and AI scientist currently employed at Amazon Rufus, working on generative AI products. He has a strong academic background with a Ph.D. from Ohio University and research experience at Stanford University, focusing on computational neuroscience and nonlinear dynamics.  No red flags were identified in the provided OSINT sources.\n\n### Thematic Summary of Key Findings\n\n**Professional / Career Background**\n\n* **Current:** AI Scientist at Amazon Rufus (since 2024), working on generative AI products.\n* **Previous:** Research Scientist, AWS Network Capacity team, Amazon (2022-2024). Researcher, Department of Neurosurgery, Stanford University (post-Ph.D.).\n* **Ph.D.:** Physics and Astronomy, Ohio University. Research focus: Collective dynamics of excitable tree networks.\n\n**Business & Financial Activity**\n\n* No specific business or financial affiliations were identified beyond his employment at Amazon.\n\n**Legal or Criminal Mentions**\n\n* No mentions of legal issues or criminal activity were found.\n\n**Academic / Public Recognition**\n\n* Ph.D. in Physics and Astronomy, Ohio University.\n* Over 400 citations on Google Scholar, h-index of 10, g-index of 21.\n* Publication: \"Potato extract as reducing agent and stabiliser in a facile green one-step synthesis of ZnO nanoparticles.\"\n* Publication: \"Size-dependent intersubband optical properties of dome-shaped InAs/GaAs quantum dots with wetting layer.\"\n* Publication: \"Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation.\"\n* Received the American Physical Society (APS) travel award in 2019.\n* Delivered a colloquium talk at the College of Wooster in 2017 titled \"Emergent synchronization in neuronal networks.\"\n\n**Online / Social Presence**\n\n* Maintains a personal website: alikhaledi.com.\n* No confirmed GitHub or GitLab accounts directly linked to his name were found. A GitHub profile under \"imseyed\" (Seyed Ali Khalili) was identified, but cannot be definitively linked to Ali Khaledi Nasab.\n\n\n**Other Notable Mentions**\n\n* Research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics.\n\n\n### Risk Profile\n\nBased on the available OSINT data, Ali Khaledi Nasab presents a **low reputational risk**.  His background exhibits strong academic credentials, consistent career progression in relevant fields, and no indications of legal or ethical concerns.\n",
+  "judgement": {
+    "credibility_score": "9",
+    "flagged_issues": [
+      "Minor inconsistency: Report states 'Delivered a colloquium talk at the College of Wooster in 2017' but evidence shows the title was 'Emergent stochastic oscillations and signal detection in tree networks of excitable elements', not 'Emergent synchronization in neuronal networks' as stated in the report",
+      "Missing detail: The report doesn't mention his work at CODA Biotherapeutics, a gene therapy startup for epilepsy treatment",
+      "Missing publication: 'Emergent stochastic oscillations and signal detection in tree networks of excitable elements' (Scientific Reports, 2017) not included in the academic recognition section",
+      "GitHub attribution uncertainty is appropriately noted but could be clearer that these profiles cannot be confirmed as belonging to the subject"
+    ],
+    "revised_report": "## OSINT Intelligence Report: Ali Khaledi Nasab\n\n**Report Date:** June 12, 2025\n\n### Executive Summary\n\nAli Khaledi Nasab is a physicist and AI scientist currently employed at Amazon Rufus, working on generative AI products. He has a strong academic background with a Ph.D. from Ohio University and research experience at Stanford University, focusing on computational neuroscience and nonlinear dynamics. No red flags were identified in the provided OSINT sources.\n\n### Thematic Summary of Key Findings\n\n**Professional / Career Background**\n\n* **Current:** AI Scientist at Amazon Rufus (since 2024), working on generative AI products¹\n* **Previous:** \n  - Research Scientist, AWS Network Capacity team, Amazon (2022-2024)¹\n  - Researcher, Department of Neurosurgery, Stanford University (post-Ph.D.)¹\n  - Researcher at CODA Biotherapeutics, a gene therapy startup developing treatments for epilepsy¹\n* **Ph.D.:** Physics and Astronomy, Ohio University. Research focus: Collective dynamics of excitable tree networks⁷\n\n**Business & Financial Activity**\n\n* No specific business or financial affiliations were identified beyond his employment at Amazon.\n\n**Legal or Criminal Mentions**\n\n* No mentions of legal issues or criminal activity were found.\n\n**Academic / Public Recognition**\n\n* Ph.D. in Physics and Astronomy, Ohio University⁸\n* Over 400 citations on Google Scholar, h-index of 10, g-index of 21²\n* Key Publications:\n  - \"Potato extract as reducing agent and stabiliser in a facile green one-step synthesis of ZnO nanoparticles\" (2016) - 129 citations²⁵\n  - \"Size-dependent intersubband optical properties of dome-shaped InAs/GaAs quantum dots with wetting layer\" (2012) - 97 citations²⁵\n  - \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\" (Scientific Reports, 2017)⁷\n  - \"Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation\" (2021)⁶\n  - \"Facile one‐pot phytosynthesis of magnetic nanoparticles using potato extract and their catalytic activity\" (2016) - 90 citations⁵\n* Received the American Physical Society (APS) Division of Biological Physics Student Travel Award in 2019⁷\n* Delivered a colloquium talk at the College of Wooster in October 2017 titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\"⁸\n* Presented a seminar at Ohio University in February 2018 on \"Collective dynamics of random tree networks of excitable elements\"⁸\n\n**Online / Social Presence**\n\n* Maintains a personal website: alikhaledi.com¹\n* No confirmed GitHub or GitLab accounts directly linked to his name were found. GitHub profiles under \"imseyed\" (Seyed Ali Khalili) and \"Alikhalkhali\" (Ali Khalkhali) were identified but cannot be definitively linked to Ali Khaledi Nasab³\n\n**Other Notable Mentions**\n\n* Research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics²\n* Has shared personal reflections on experiences as an international student in the United States, discussing challenges related to immigration policies⁷\n\n### Risk Profile\n\nBased on the available OSINT data, Ali Khaledi Nasab presents a **low reputational risk**. His background exhibits strong academic credentials, consistent career progression in relevant fields, and no indications of legal or ethical concerns.\n\n### Data Sources\n¹ alikhaledi.com  \n² Google Scholar (scholar.google.com/citations?user=Ash32BAAAAAJ)  \n³ GitHub profiles (unconfirmed attribution)  \n⁵ Google Scholar citations  \n⁶ patrinum.ch/record/489579  \n⁷ ohio-forum.com, academia.edu  \n⁸ ohio-forum.com, alikhaledi.com"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "CODA Biotherapeutics",
+        "label": "entity"
+      },
+      {
+        "id": "AI",
+        "label": "entity"
+      },
+      {
+        "id": "Ohio University",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon Rufus",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University's Department of Neurosurgery",
+        "label": "entity"
+      },
+      {
+        "id": "AWS",
+        "label": "entity"
+      },
+      {
+        "id": "the Journal of Experimental Nanoscience",
+        "label": "entity"
+      },
+      {
+        "id": "F. Buazar",
+        "label": "entity"
+      },
+      {
+        "id": "M. Halvani",
+        "label": "entity"
+      },
+      {
+        "id": "InAs",
+        "label": "entity"
+      },
+      {
+        "id": "ZnO",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi-Nasab's",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi-Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "M. Sabaeian",
+        "label": "entity"
+      },
+      {
+        "id": "F. Kroushawi",
+        "label": "entity"
+      },
+      {
+        "id": "S.A. Hossieni",
+        "label": "entity"
+      },
+      {
+        "id": "M. Bavi",
+        "label": "entity"
+      },
+      {
+        "id": "quantum physics",
+        "label": "entity"
+      },
+      {
+        "id": "github.com](https://github.com",
+        "label": "entity"
+      },
+      {
+        "id": "GitHub",
+        "label": "entity"
+      },
+      {
+        "id": "CIDR",
+        "label": "entity"
+      },
+      {
+        "id": "PHP",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khalkhali",
+        "label": "entity"
+      },
+      {
+        "id": "PHP 8",
+        "label": "entity"
+      },
+      {
+        "id": "Seyed Ali Khalili",
+        "label": "entity"
+      },
+      {
+        "id": "API",
+        "label": "entity"
+      },
+      {
+        "id": "IoT",
+        "label": "entity"
+      },
+      {
+        "id": "Alikhalkhali",
+        "label": "entity"
+      },
+      {
+        "id": "Two-Factor Authentication",
+        "label": "entity"
+      },
+      {
+        "id": "WHOIS",
+        "label": "entity"
+      },
+      {
+        "id": "Navicat",
+        "label": "entity"
+      },
+      {
+        "id": "IP",
+        "label": "entity"
+      },
+      {
+        "id": "JavaScript",
+        "label": "entity"
+      },
+      {
+        "id": "Dropbox",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi Nasab's",
+        "label": "entity"
+      },
+      {
+        "id": "Code.org",
+        "label": "entity"
+      },
+      {
+        "id": "Justus A. Kromer",
+        "label": "entity"
+      },
+      {
+        "id": "Hadi Partovi",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Partovi",
+        "label": "entity"
+      },
+      {
+        "id": "Peter A. Tass",
+        "label": "entity"
+      },
+      {
+        "id": "Boston",
+        "label": "entity"
+      },
+      {
+        "id": "Biological Physics Student Travel Award",
+        "label": "entity"
+      },
+      {
+        "id": "Scientific Reports",
+        "label": "entity"
+      },
+      {
+        "id": "the United States",
+        "label": "entity"
+      },
+      {
+        "id": "Google Scholar",
+        "label": "entity"
+      },
+      {
+        "id": "the American Physical Society",
+        "label": "entity"
+      },
+      {
+        "id": "APS",
+        "label": "entity"
+      },
+      {
+        "id": "Ohio University*",
+        "label": "entity"
+      },
+      {
+        "id": "the Department of Neurosurgery",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Ali Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Dropbox",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Khaledi Nasab's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Code.org",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Justus A. Kromer",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Amazon",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Ali Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Boston",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Scientific Reports",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Amazon",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Ali Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Boston",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Scientific Reports",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Khaledi Nasab",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "the Journal of Experimental Nanoscience",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "F. Buazar",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "M. Halvani",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "InAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Dropbox",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Khaledi Nasab's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Code.org",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Justus A. Kromer",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Boston",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "Scientific Reports",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Amazon",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "CIDR",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Ali Khalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "PHP 8",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Dropbox",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Ali Khaledi Nasab's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Code.org",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Justus A. Kromer",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Boston",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Scientific Reports",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Ohio University*",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "F. Buazar",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "M. Halvani",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "InAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Journal of Experimental Nanoscience",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "M. Halvani",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "InAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Buazar",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "InAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Halvani",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "ZnO",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "InAs",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "M. Sabaeian",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Sabaeian",
+        "target": "F. Kroushawi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Sabaeian",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Sabaeian",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Sabaeian",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Kroushawi",
+        "target": "S.A. Hossieni",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Kroushawi",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "F. Kroushawi",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "S.A. Hossieni",
+        "target": "M. Bavi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "S.A. Hossieni",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "M. Bavi",
+        "target": "quantum physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "CIDR",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Ali Khalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "PHP 8",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "CIDR",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "Ali Khalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "PHP 8",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "GitHub",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "Ali Khalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "PHP 8",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "CIDR",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "Ali Khalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "PHP 8",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "PHP 8",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khalkhali",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "Seyed Ali Khalili",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "PHP 8",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "API",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Seyed Ali Khalili",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "IoT",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "API",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IoT",
+        "target": "Alikhalkhali",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IoT",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IoT",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IoT",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IoT",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IoT",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alikhalkhali",
+        "target": "Two-Factor Authentication",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alikhalkhali",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alikhalkhali",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alikhalkhali",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alikhalkhali",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Two-Factor Authentication",
+        "target": "WHOIS",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Two-Factor Authentication",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Two-Factor Authentication",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Two-Factor Authentication",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "WHOIS",
+        "target": "Navicat",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "WHOIS",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "WHOIS",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Navicat",
+        "target": "IP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Navicat",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "IP",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Dropbox",
+        "target": "Ali Khaledi Nasab's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Dropbox",
+        "target": "Code.org",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Dropbox",
+        "target": "Justus A. Kromer",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Dropbox",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Dropbox",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Dropbox",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab's",
+        "target": "Code.org",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab's",
+        "target": "Justus A. Kromer",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab's",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab's",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Khaledi Nasab's",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Code.org",
+        "target": "Justus A. Kromer",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Code.org",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Code.org",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Code.org",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Justus A. Kromer",
+        "target": "Hadi Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Justus A. Kromer",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Justus A. Kromer",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hadi Partovi",
+        "target": "Ali Partovi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hadi Partovi",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ali Partovi",
+        "target": "Peter A. Tass",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Boston",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Boston",
+        "target": "Scientific Reports",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Boston",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Boston",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Boston",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Boston",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Biological Physics Student Travel Award",
+        "target": "Scientific Reports",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Biological Physics Student Travel Award",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Biological Physics Student Travel Award",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Biological Physics Student Travel Award",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Biological Physics Student Travel Award",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Scientific Reports",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Scientific Reports",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Scientific Reports",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Scientific Reports",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the United States",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the United States",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the United States",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Ohio University*",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio University*",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_8"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for Ali Khaledi Nasab current employment at Amazon and AI research roles",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:25.411770",
+      "data": "Dr. Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon Rufus, focusing on generative AI products. He joined Amazon in October 2022 as a research scientist in the AWS network capacity team. In 2024, he transitioned to Amazon Rufus to work on their latest generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nBefore joining Amazon, Dr. Khaledi Nasab completed his Ph.D. at Ohio University, where he worked on the collective dynamics of excitable tree networks. Following his Ph.D., he held a research position at Stanford University's Department of Neurosurgery, focusing on stimulation methods for treating neurological disorders. He also worked at CODA Biotherapeutics, a gene therapy startup developing treatments for epilepsy. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nIn addition to his professional roles, Dr. Khaledi Nasab has been involved in various research projects, including publishing papers on the dynamics of phase oscillator networks and the depolarization of echo chambers by random dynamical nudge. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "8fe76f75c0423fe64f0ca009b7cecf27fc94c094e43606c27616c638e0fe6193",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 304,
+          "end": 369
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 793,
+          "end": 858
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Search Google Scholar and academic databases for publications by Ali Khaledi Nasab in artificial intelligence",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:30.263818",
+      "data": "Ali Khaledi-Nasab is a researcher affiliated with Amazon, specializing in machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. His work has been cited over 400 times, with an h-index of 10 and a g-index of 21, indicating a significant impact in his field. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nOne of his notable publications is \"Potato extract as reducing agent and stabiliser in a facile green one-step synthesis of ZnO nanoparticles,\" co-authored with F. Buazar, M. Bavi, F. Kroushawi, M. Halvani, and S.A. Hossieni. Published in the Journal of Experimental Nanoscience in 2016, this study explores the use of potato extract in the green synthesis of zinc oxide nanoparticles, highlighting its potential as a reducing agent and stabilizer. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAnother significant work is \"Size-dependent intersubband optical properties of dome-shaped InAs/GaAs quantum dots with wetting layer,\" co-authored with M. Sabaeian. This 2012 preprint examines the optical properties of quantum dots, focusing on the effects of size and the presence of a wetting layer, contributing to the understanding of quantum dot behavior in optoelectronic applications. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nThese publications reflect Khaledi-Nasab's contributions to the fields of nanotechnology and quantum physics, particularly in the application of artificial intelligence and machine learning techniques to complex scientific problems. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b351ce56b84db1bf83a23dd729f62da81eb606b65de8a01295a21886ca4045d0",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 308,
+          "end": 404
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 855,
+          "end": 951
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search GitHub and GitLab repositories associated with Ali Khaledi Nasab username or contributions",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:35.614336",
+      "data": "I couldn't locate any GitHub or GitLab repositories directly associated with the username \"Ali Khaledi Nasab.\" However, I found a GitHub profile under the username \"imseyed,\" which belongs to Seyed Ali Khalili. This profile features several projects, including:\n\n- **Auth2FA**: A PHP library for Two-Factor Authentication (2FA) that provides TOTP and HOTP generation, along with random secret key generation functionalities.\n\n- **js-music-player**: A beautifully designed JavaScript music player.\n\n- **PHP-whois-domain**: A PHP script that retrieves domain WHOIS information and IP details via API.\n\n- **navicat_remote_MySQL**: A script that enables Navicat to connect to a remote MySQL tunnel via mysqli, compatible with PHP 8.\n\nThese projects showcase a focus on data mining, IoT, machine learning, and communication technologies. ([github.com](https://github.com/imseyed?utm_source=openai))\n\nAdditionally, there is a GitHub profile under the username \"Alikhalkhali,\" associated with Ali Khalkhali. This profile includes:\n\n- **programs-watcher**: A Python script designed to monitor bug bounty programs for any changes and promptly notify users.\n\n- **active-ip**: A tool with several scanning techniques that extracts live IP addresses from a list of IP addresses or CIDR notations.\n\nThese projects indicate a focus on cybersecurity and network monitoring. ([github.com](https://github.com/Alikhalkhali?utm_source=openai))\n\nWhile these profiles may not be directly linked to \"Ali Khaledi Nasab,\" they reflect the diverse interests and expertise in the fields of data mining, machine learning, and network security. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "106282de6ae94e9266db2edab6cd4f725ade55a1d9b580154741baf153a60625",
+      "citations": [
+        {
+          "url": "https://github.com/imseyed?utm_source=openai",
+          "title": "imseyed (Ali Khalili) · GitHub",
+          "start": 833,
+          "end": 893
+        },
+        {
+          "url": "https://github.com/Alikhalkhali?utm_source=openai",
+          "title": "Alikhalkhali (Ali Khalkhali) · GitHub",
+          "start": 1359,
+          "end": 1424
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search IEEE Xplore and ACM Digital Library for conference papers by Ali Khaledi Nasab",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:44.803710",
+      "data": "Ali Khaledi-Nasab has contributed to several conference papers in the fields of machine learning, artificial intelligence, and computational neuroscience. Notable works include:\n\n- \"Potato extract as reducing agent and stabiliser in a facile green one-step synthesis of ZnO nanoparticles\" (2016), which has been cited 129 times. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\n- \"Size-dependent intersubband optical properties of dome-shaped InAs/GaAs quantum dots with wetting layer\" (2012), cited 97 times. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\n- \"Facile one‐pot phytosynthesis of magnetic nanoparticles using potato extract and their catalytic activity\" (2016), cited 90 times. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nThese publications highlight his expertise in nanotechnology and quantum dot research. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "bbb1b037e78199c47a878807a77498b171452e202e1866afb0f55b34d8906f03",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 329,
+          "end": 425
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 559,
+          "end": 655
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search news articles mentioning Ali Khaledi Nasab in relation to Amazon AI research or Iranian tech talent",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:47.879663",
+      "data": "I couldn't find any news articles mentioning Ali Khaledi Nasab in relation to Amazon's AI research or highlighting his role as an Iranian tech talent. However, Ali Khaledi Nasab has contributed to neuroscience research, including a 2021 study titled \"Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation,\" co-authored with Justus A. Kromer and Peter A. Tass. ([patrinum.ch](https://patrinum.ch/record/489579?utm_source=openai))\n\nAdditionally, in 2017, TechRasa highlighted several successful Iranian-American entrepreneurs in Silicon Valley, such as Hadi Partovi, co-founder of Code.org, and Ali Partovi, an investor in Dropbox, Airbnb, and Facebook. ([techrasa.com](https://techrasa.com/2017/08/30/list-successful-iranian-entrepreneurs-silicon-valley/?utm_source=openai))\n\nWhile these sources showcase the achievements of Iranian tech professionals, there is no specific information about Ali Khaledi Nasab's involvement with Amazon's AI research or his prominence in the Iranian tech community. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "93230e4da485409026922f22b18b1dd36ff904085dd7b33d1c098aaca0b4b7b3",
+      "citations": [
+        {
+          "url": "https://patrinum.ch/record/489579?utm_source=openai",
+          "title": "Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation",
+          "start": 392,
+          "end": 460
+        },
+        {
+          "url": "https://techrasa.com/2017/08/30/list-successful-iranian-entrepreneurs-silicon-valley/?utm_source=openai",
+          "title": "A List of Successful Iranian Entrepreneurs in Silicon Valley - TechRasa",
+          "start": 684,
+          "end": 805
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search ResearchGate and ORCID profiles for Ali Khaledi Nasab academic and research history",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:52.061330",
+      "data": "Ali Khaledi Nasab is a physicist specializing in computational neuroscience and nonlinear dynamics. He earned his Ph.D. in Physics and Astronomy from Ohio University, where he conducted research on the dynamics of excitable tree networks, particularly focusing on sensory neurons with tree-like structures. His work aimed to understand the mechanisms of spike generation and information coding in these neurons. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nIn 2019, Khaledi Nasab received the American Physical Society (APS) Division of Biological Physics Student Travel Award, which supported his attendance at the APS annual meeting in Boston, where he presented his research. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nFollowing his doctoral studies, he joined Amazon as a Senior Researcher, focusing on machine learning, artificial intelligence, and network dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nHis academic contributions include publications on topics such as the optical properties of quantum dots and the dynamics of neuronal networks. For instance, he co-authored a paper titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements,\" published in Scientific Reports in 2017. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAdditionally, Khaledi Nasab has shared personal reflections on his experiences as an international student in the United States, discussing challenges related to immigration policies and the importance of institutional support for international scholars. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nFor a comprehensive overview of his publications and academic history, you can refer to his Google Scholar profile. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "6613e6b4861e590672a6d6d1915a7cb4bf4ea296cd1b1c8d3a0627a1352b68b3",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 412,
+          "end": 546
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 770,
+          "end": 904
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Search university websites and faculty directories for Ali Khaledi Nasab previous academic affiliations",
+      "published": "2025-06-12",
+      "retrieved": "2025-06-12T01:45:54.936746",
+      "data": "Dr. Ali Khaledi Nasab has held several academic positions:\n\n- **Ohio University**: He completed his Ph.D. in Physics & Astronomy, focusing on the collective dynamics of excitable tree networks. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\n- **Stanford University**: After his Ph.D., he joined the Department of Neurosurgery as a researcher, working on stimulation methods for treating neurological disorders. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\n- **College of Wooster**: In October 2017, he delivered a colloquium talk titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\n- **Ohio University**: In February 2018, he presented a seminar on \"Collective dynamics of random tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai))\n\nThese roles highlight his expertise in physics, neuroscience, and their applications in medical research. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "54bae49c04addd05c4b2f45f52460959c4704f087250e784333136eeb64a94b7",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 194,
+          "end": 264
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 436,
+          "end": 506
+        }
+      ]
+    }
+  },
+  "retrieval_model": "gpt-4o-mini-search-preview",
+  "synthesis_model": "gemini-1.5-pro"
+}

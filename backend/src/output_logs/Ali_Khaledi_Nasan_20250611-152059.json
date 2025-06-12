@@ -1,0 +1,2287 @@
+{
+  "query": "Investigate about Ali Khaledi Nasan, an AI researcher.",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Ali Khaledi Nasan",
+    "keywords": [
+      "AI",
+      "researcher"
+    ],
+    "affiliation": null,
+    "location": null,
+    "nationality": null
+  },
+  "tasks": [
+    "Search LinkedIn for Ali Khaledi Nasan's current employment and professional connections in AI research",
+    "Search Google Scholar and ResearchGate for academic publications by Ali Khaledi Nasan in artificial intelligence",
+    "Search GitHub and GitLab repositories for code contributions by Ali Khaledi Nasan",
+    "Search university faculty directories and research institute staff pages for Ali Khaledi Nasan",
+    "Search IEEE Xplore and ACM Digital Library for conference papers authored by Ali Khaledi Nasan",
+    "Search corporate records and business registries for companies associated with Ali Khaledi Nasan",
+    "Search patent databases (USPTO, Google Patents) for AI-related patents filed by Ali Khaledi Nasan",
+    "Search Twitter, Facebook, and Instagram for social media profiles of Ali Khaledi Nasan",
+    "Search news articles and press releases mentioning Ali Khaledi Nasan in AI research context",
+    "Search academic conference speaker lists and program committees featuring Ali Khaledi Nasan",
+    "Search professional AI organization membership directories for Ali Khaledi Nasan",
+    "Search court records and legal databases for any litigation involving Ali Khaledi Nasan"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for Ali Khaledi Nasan's current employment and professional connections in AI research",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:10.736915",
+      "data": "As of 2024, Dr. Ali Khaledi is a physicist and AI scientist at Amazon Rufus, focusing on generative AI products. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) He joined Amazon in October 2022 as a research scientist in the AWS Network Capacity Planning organization. Prior to Amazon, Dr. Khaledi worked at CODA Biotherapeutics, a gene therapy startup, and held a research position in the Department of Neurosurgery at Stanford University School of Medicine. He earned his Ph.D. in physics from Ohio University in 2019. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nDr. Khaledi's professional connections in AI research include collaborations with colleagues at Amazon and previous affiliations with Stanford University and CODA Biotherapeutics. He has also been involved in editing the Brain Development section of the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for significant contributions in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "112e60b70925b8e52d5fc3cd2d3622adb86588c2bd81a938945af2b0f7def10b",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 113,
+          "end": 178
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 539,
+          "end": 609
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 1000,
+          "end": 1065
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Search Google Scholar and ResearchGate for academic publications by Ali Khaledi Nasan in artificial intelligence",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:16.458278",
+      "data": "Ali Khaledi-Nasab is a researcher specializing in machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. His work encompasses various applications of artificial intelligence (AI) across multiple domains.\n\nOne of his notable contributions is the study titled \"Depolarization of echo chambers by random dynamical nudge,\" published in *Scientific Reports* in 2022. This research explores the use of random dynamical interventions to reduce polarization within echo chambers, highlighting the potential of AI in understanding and influencing complex social dynamics.\n\nIn the field of computational neuroscience, Khaledi-Nasab has co-authored several studies focusing on neural network desynchronization. For instance, the 2021 paper \"Long-lasting desynchronization of plastic neural networks by random reset stimulation,\" published in *Frontiers in Physiology*, investigates methods to achieve sustained desynchronization in neural networks, which has implications for treating neurological disorders.\n\nAdditionally, his 2020 publication \"Impact of number of stimulation sites on long-lasting desynchronization effects of coordinated reset stimulation\" in *Chaos: An Interdisciplinary Journal of Nonlinear Science* examines how varying the number of stimulation sites affects the efficacy of coordinated reset stimulation in neural networks.\n\nThese works demonstrate Khaledi-Nasab's significant contributions to applying AI and machine learning techniques in understanding and manipulating complex systems, particularly within social and neural networks. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "ab2f826b894dae492fad3423716be60106c1a3ade35c9fd3ea0c53d22476e24c",
+      "citations": []
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search GitHub and GitLab repositories for code contributions by Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:21.274192",
+      "data": "After searching GitHub and GitLab repositories, I couldn't locate any code contributions by Ali Khaledi Nasan. It's possible that his work is not publicly available on these platforms or is published under a different name.\n\nHowever, according to his personal website, Dr. Ali Khaledi is a physicist and AI scientist currently working at Amazon Rufus. He has a background in physics and neuroscience, with expertise in machine learning, deep learning, nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences. His research interests include using computation to understand the world, and he has been involved in various interdisciplinary projects. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nFor more detailed information about his work and publications, you can visit his personal website. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "e83ad7d5fdfec1a2136f7cab1592468b6151622e1c8e91f80243058492f465e9",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 697,
+          "end": 762
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 863,
+          "end": 928
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Search university faculty directories and research institute staff pages for Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:27.674528",
+      "data": "Ali Khaledi-Nasab is a physicist and AI scientist currently working at Amazon Rufus. Originally from Iran, he moved to the United States in 2014 to pursue a Ph.D. in Physics at Ohio University, where he completed his thesis titled \"Collective Dynamics of Excitable Tree Networks\" under the supervision of Dr. Alexander Neiman. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nAfter earning his doctorate, Dr. Khaledi-Nasab joined the Department of Neurosurgery at Stanford University School of Medicine as a postdoctoral researcher. His work there focused on designing stimulation methods for treating neurological disorders, including Parkinson's disease. Notably, he contributed to the development of Coordinated Reset (CR) stimulation, a technique aimed at counteracting abnormal neural synchronization. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nIn 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup dedicated to developing treatments for epilepsy. Following CODA's closure due to funding challenges in 2022, Dr. Khaledi-Nasab joined Amazon Web Services (AWS) as a research scientist in the Network Capacity Planning organization. In 2024, he moved to Amazon Rufus to work on their latest Generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nDr. Khaledi-Nasab's research interests encompass machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. He has authored several publications in these areas, including:\n\n- \"Depolarization of echo chambers by random dynamical nudge\"\n- \"Dynamics of phase oscillator networks with synaptic weight and structural plasticity\"\n- \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\"\n\n([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nIn addition to his professional roles, Dr. Khaledi-Nasab is committed to continuous learning, dedicating daily time to reading and coursework. He also engages in independent research projects, referred to as \"night science,\" focusing on problems at the intersection of nonlinear dynamics, computer science, and AI. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nAs of 2024, he holds an adjunct professorship in Physics at Ohio University. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "40a66547fd45dcc83f27acc2ee2ba4a7285f1e950c2f0f5fe17d800a9a6bd5a6",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 327,
+          "end": 397
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 830,
+          "end": 900
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 1287,
+          "end": 1352
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1822,
+          "end": 1918
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 2235,
+          "end": 2305
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 2384,
+          "end": 2449
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search IEEE Xplore and ACM Digital Library for conference papers authored by Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:34.693305",
+      "data": "I searched for conference papers authored by Ali Khaledi-Nasab in IEEE Xplore and the ACM Digital Library but did not find any publications in these databases. However, according to his Google Scholar profile, Ali Khaledi-Nasab has authored several papers in other venues. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nOne of his notable works is titled \"Depolarization of echo chambers by random dynamical nudge,\" published in *Scientific Reports* in 2022. In this study, Khaledi-Nasab and his co-authors investigate methods to reduce polarization in social networks by introducing random dynamical interventions, aiming to disrupt echo chambers and promote diverse viewpoints. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAnother significant publication is \"Long-lasting desynchronization of plastic neural networks by random reset stimulation,\" published in *Frontiers in Physiology* in 2021. This research explores the effects of random reset stimulation on neural networks, demonstrating that such interventions can lead to sustained desynchronization, which has potential applications in treating neurological disorders. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAdditionally, Khaledi-Nasab co-authored \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements,\" published in *Scientific Reports* in 2017. This paper examines the emergence of stochastic oscillations in tree-like networks of excitable elements and their implications for signal detection, contributing to the understanding of complex network dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nWhile these publications are not conference papers from IEEE or ACM, they highlight Ali Khaledi-Nasab's contributions to the fields of computational neuroscience and network dynamics. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "e0f54c29090a4101bebc1c4802d4a400370d9611c449afd24a3d7518254f21f5",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 273,
+          "end": 369
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 731,
+          "end": 827
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1232,
+          "end": 1328
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1722,
+          "end": 1818
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search corporate records and business registries for companies associated with Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:37.866357",
+      "data": "After searching corporate records and business registries, I found no information linking an individual named Ali Khaledi Nasan to any companies. It's possible that the name is uncommon, misspelled, or that the individual does not have publicly available corporate affiliations.\n\nIf you can provide additional details, such as the correct spelling of the name, associated locations, or specific industries, I can conduct a more targeted search to assist you further. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "302dd324dac5ffd37ed13b70bae97690203903bf36979b6637ff869d8d5a75f8",
+      "citations": []
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search patent databases (USPTO, Google Patents) for AI-related patents filed by Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:42.165035",
+      "data": "I searched the USPTO and Google Patents databases for AI-related patents filed by Ali Khaledi Nasan but did not find any patents associated with this individual. It's possible that the name is misspelled or that the patents are filed under a different name. Could you please verify the spelling or provide additional information to assist in locating the relevant patents? ",
+      "confidence": 0.6,
+      "decayed_score": 0.6,
+      "hash": "4a830c34b70b23d99ee68bc0dae676621d5d54449148fbd5f8c17cc202118064",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Search Twitter, Facebook, and Instagram for social media profiles of Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:46.491168",
+      "data": "I searched for social media profiles of Ali Khaledi Nasan on Twitter, Facebook, and Instagram but did not find any publicly available accounts associated with that name. It's possible that such profiles exist under different names, are set to private, or are not present on these platforms.\n\nHowever, I did find a website associated with an individual named Ali Khaledi, which includes a contact page. The page provides a Gmail address for contact and mentions the option to leave anonymous feedback. ([alikhaledi.com](https://www.alikhaledi.com/contact-ali?utm_source=openai))\n\nIf you have more specific information or alternative spellings of the name, I can assist further in locating the desired profiles. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "39b226e1c9ba18d7e79f5f400a48b78e00ffecd5aa25f5408049df97debc4e30",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/contact-ali?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - Contact Ali",
+          "start": 501,
+          "end": 577
+        }
+      ]
+    },
+    "task_9": {
+      "source": "web_search_preview",
+      "query_used": "Search news articles and press releases mentioning Ali Khaledi Nasan in AI research context",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:52.509950",
+      "data": "Ali Khaledi-Nasab is a physicist and AI scientist currently working at Amazon Rufus, focusing on generative AI products. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) He holds a Ph.D. in physics from Ohio University, where his research centered on the collective dynamics of excitable tree networks. Following his doctoral studies, he conducted postdoctoral research at Stanford University's Department of Neurosurgery, developing stimulation methods for neurological disorders like Parkinson's disease. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nIn 2022, Khaledi-Nasab joined Amazon Web Services (AWS) as a research scientist in the Network Capacity Planning organization. By 2024, he transitioned to Amazon Rufus to work on generative AI products. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) His research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nOne of his notable publications is \"Depolarization of echo chambers by random dynamical nudge,\" published in *Scientific Reports* in 2022. This study explores methods to reduce polarization in social networks through random dynamical interventions. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nKhaledi-Nasab's interdisciplinary background in physics, neuroscience, and AI positions him at the forefront of developing innovative AI solutions, particularly in the realm of generative AI. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "bcffcf8c17177f89325f0e7534f5a5d7da10376cce7c5a1e512819ec8b46fba6",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 121,
+          "end": 186
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 524,
+          "end": 594
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 799,
+          "end": 864
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1001,
+          "end": 1097
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1348,
+          "end": 1444
+        }
+      ]
+    },
+    "task_10": {
+      "source": "web_search_preview",
+      "query_used": "Search academic conference speaker lists and program committees featuring Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:55.641059",
+      "data": "After reviewing the available information, I couldn't find any records of Dr. Ali Khaledi Nasan serving as a speaker or a member of program committees at academic conferences. The search results did not include his name in any conference speaker lists or organizing committees.\n\nIf you have more specific details about Dr. Nasan's professional background, such as his field of expertise, affiliated institutions, or particular conferences he might have attended, please provide them. This information could help in conducting a more targeted search to find relevant records. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "e2b847bdd6e726de43d5dc5ffde3b72fd05843a1b3a493c0f839a56c6db09b41",
+      "citations": []
+    },
+    "task_11": {
+      "source": "web_search_preview",
+      "query_used": "Search professional AI organization membership directories for Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:59.299396",
+      "data": "Based on the available information, there is no specific mention of Ali Khaledi Nasan's memberships in professional AI organizations. However, his professional background indicates significant involvement in the AI field. Dr. Khaledi holds a Ph.D. in physics and neuroscience and has worked as an AI scientist at Amazon Rufus. His expertise encompasses machine learning, deep learning, generative AI, nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences. He has also served as an adjunct professor of physics at Ohio University and contributed as an editor for the Brain Development section of the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for significant contributions in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "2a3f099681fa6170f077ef835dc13423934c47544348baa65bf6db3fef9a15d6",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 786,
+          "end": 851
+        }
+      ]
+    },
+    "task_12": {
+      "source": "web_search_preview",
+      "query_used": "Search court records and legal databases for any litigation involving Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:20:01.828986",
+      "data": "After searching court records and legal databases, I found no litigation involving an individual named \"Ali Khaledi Nasan.\" It's possible that the name is misspelled or that the individual is not involved in any publicly available legal proceedings.\n\nIf you can provide additional details, such as the correct spelling of the name, specific jurisdictions, or the nature of the case, I can assist you further in locating relevant information. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "e68484858dec58b5eb38be3bc310d80acab016261aaeec26c553d1413b947a4d",
+      "citations": []
+    }
+  },
+  "report": "## OSINT Intelligence Report: Ali Khaledi Nasan\n\n**Report Date:** June 11, 2025\n\n### Executive Summary\n\nAli Khaledi Nasan (also known as Ali Khaledi) is a physicist and AI scientist currently employed at Amazon Rufus, specializing in generative AI products. He has a strong academic background and professional experience in physics, neuroscience, and AI. No red flags were identified in this investigation.\n\n\n### Thematic Summary of Key Findings\n\n**Professional / Career Background**\n\n* Currently employed at Amazon Rufus as a physicist and AI scientist focused on generative AI products (as of 2024).\n* Joined Amazon in October 2022 as a Research Scientist in the AWS Network Capacity Planning organization.\n* Previously worked at CODA Biotherapeutics, a gene therapy startup.\n* Held a research position in the Department of Neurosurgery at Stanford University School of Medicine, focusing on stimulation methods for neurological disorders.\n* Completed a Postdoctoral Fellowship at Stanford University School of Medicine.\n* Earned a Ph.D. in Physics from Ohio University in 2019. Thesis title: \"Collective Dynamics of Excitable Tree Networks,\" supervised by Dr. Alexander Neiman.\n\n\n**Business & Financial Activity**\n\n* No business affiliations or financial transactions were identified in public records.\n\n\n**Legal or Criminal Mentions**\n\n* No legal proceedings or criminal records were found associated with Ali Khaledi Nasan.\n\n**Academic / Public Recognition**\n\n* Authored multiple publications, including \"Depolarization of echo chambers by random dynamical nudge\" in *Scientific Reports* (2022).\n* Google Scholar profile exists, confirming publications in scientific journals.\n* No publications were identified in IEEE Xplore or ACM Digital Library.\n\n**Online / Social Presence**\n\n* Maintains a personal website: alikhaledi.com.\n* No public social media profiles were found on Twitter, Facebook, or Instagram.\n* Provides a Gmail address for contact and anonymous feedback on his website.\n\n\n**Other Notable Mentions**\n\n* Originally from Iran and moved to the United States in 2014 for doctoral studies.\n* Expertise in machine learning, deep learning, nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences.\n\n\n### Risk Profile\n\nBased on the available information, Ali Khaledi Nasan presents a **low reputational risk**. He has a strong academic background, consistent professional trajectory, and no indications of legal or criminal issues. The lack of public social media presence is not unusual for individuals in technical fields.  His research interests and publications indicate expertise and engagement in socially relevant areas.\n",
+  "judgement": {
+    "credibility_score": "9",
+    "flagged_issues": [
+      "Minor inconsistency in name variations (Ali Khaledi Nasan vs Ali Khaledi-Nasab vs Ali Khaledi) not fully explained",
+      "2024 PROSE Award mention for Encyclopedia editing lacks verification in retrieval evidence",
+      "Adjunct professorship at Ohio University (2024) mentioned but not independently verified",
+      "No verification of 'low reputational risk' assessment methodology"
+    ],
+    "revised_report": "## OSINT Intelligence Report: Ali Khaledi Nasan\n\n**Report Date:** June 11, 2025\n\n### Executive Summary\n\nAli Khaledi Nasan (also appearing as Ali Khaledi-Nasab or Ali Khaledi in various sources) is a physicist and AI scientist currently employed at Amazon Rufus, specializing in generative AI products. He has a strong academic background and professional experience in physics, neuroscience, and AI. No red flags were identified in this investigation.\n\n### Thematic Summary of Key Findings\n\n**Professional / Career Background**\n\n* Currently employed at Amazon Rufus as a physicist and AI scientist focused on generative AI products (as of 2024)¹\n* Joined Amazon in October 2022 as a Research Scientist in the AWS Network Capacity Planning organization¹\n* Previously worked at CODA Biotherapeutics, a gene therapy startup (2021-2022)⁴\n* Held a postdoctoral research position in the Department of Neurosurgery at Stanford University School of Medicine, focusing on Coordinated Reset (CR) stimulation methods for neurological disorders including Parkinson's disease⁴\n* Earned a Ph.D. in Physics from Ohio University in 2019. Thesis title: \"Collective Dynamics of Excitable Tree Networks,\" supervised by Dr. Alexander Neiman⁴\n\n**Business & Financial Activity**\n\n* No business affiliations or financial transactions were identified in public records⁶\n\n**Legal or Criminal Mentions**\n\n* No legal proceedings or criminal records were found associated with Ali Khaledi Nasan¹²\n\n**Academic / Public Recognition**\n\n* Authored multiple peer-reviewed publications, including:\n  - \"Depolarization of echo chambers by random dynamical nudge\" in *Scientific Reports* (2022)²,⁵,⁹\n  - \"Long-lasting desynchronization of plastic neural networks by random reset stimulation\" in *Frontiers in Physiology* (2021)²,⁵\n  - \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\" in *Scientific Reports* (2017)⁵\n  - \"Dynamics of phase oscillator networks with synaptic weight and structural plasticity\"⁴\n* Google Scholar profile confirmed (user ID: Ash32BAAAAAJ)⁴,⁵,⁹\n* No publications were identified in IEEE Xplore or ACM Digital Library⁵\n* No patents found in USPTO or Google Patents databases⁷\n\n**Online / Social Presence**\n\n* Maintains a personal website: alikhaledi.com¹,³,⁴,⁸,⁹\n* No public social media profiles were found on Twitter, Facebook, or Instagram⁸\n* Provides a Gmail address for contact and anonymous feedback option on his website⁸\n\n**Other Notable Mentions**\n\n* Originally from Iran and moved to the United States in 2014 for doctoral studies⁴\n* Expertise in machine learning, deep learning, nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences³,⁹\n* Engages in independent research projects referred to as \"night science,\" focusing on problems at the intersection of nonlinear dynamics, computer science, and AI⁴\n* No GitHub or GitLab repositories found under his name³\n\n### Risk Profile\n\nBased on the available information, Ali Khaledi Nasan presents a **low reputational risk**. He has a verifiable academic background, consistent professional trajectory at reputable institutions (Stanford, Amazon), and no indications of legal or criminal issues. The lack of public social media presence is not unusual for individuals in technical fields. His research interests and publications indicate legitimate expertise and engagement in socially relevant areas.\n\n### Areas Requiring Further Investigation\n\n* Verification of reported 2024 PROSE Award for Encyclopedia editing contribution\n* Confirmation of reported adjunct professorship at Ohio University (2024)\n* Clarification of name variations used in different contexts\n* Conference speaking engagements or committee memberships (none found in current search)\n\n---\n\n**Footnotes:**\n¹ Task 1: Web search preview - alikhaledi.com\n² Task 2: Web search preview - Google Scholar publications\n³ Task 3: Web search preview - GitHub/GitLab search\n⁴ Task 4: Web search preview - University directories\n⁵ Task 5: Web search preview - IEEE/ACM search\n⁶ Task 6: Web search preview - Corporate records\n⁷ Task 7: Web search preview - Patent databases\n⁸ Task 8: Web search preview - Social media search\n⁹ Task 9: Web search preview - News articles\n¹⁰ Task 10: Web search preview - Conference lists\n¹² Task 12: Web search preview - Court records"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "Brain Development",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon Rufus",
+        "label": "entity"
+      },
+      {
+        "id": "CODA Biotherapeutics",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University",
+        "label": "entity"
+      },
+      {
+        "id": "the AWS Network Capacity Planning",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon",
+        "label": "entity"
+      },
+      {
+        "id": "the Department of Neurosurgery",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University School of Medicine",
+        "label": "entity"
+      },
+      {
+        "id": "AI",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi",
+        "label": "entity"
+      },
+      {
+        "id": "Ohio University",
+        "label": "entity"
+      },
+      {
+        "id": "Clinical Medicine",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi-Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "An Interdisciplinary Journal of Nonlinear Science*",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi-Nasab's",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi-Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi Nasan",
+        "label": "entity"
+      },
+      {
+        "id": "Alexander Neiman",
+        "label": "entity"
+      },
+      {
+        "id": "Physics",
+        "label": "entity"
+      },
+      {
+        "id": "CODA",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon Web Services",
+        "label": "entity"
+      },
+      {
+        "id": "the United States",
+        "label": "entity"
+      },
+      {
+        "id": "Iran",
+        "label": "entity"
+      },
+      {
+        "id": "Coordinated Reset",
+        "label": "entity"
+      },
+      {
+        "id": "the Network Capacity Planning",
+        "label": "entity"
+      },
+      {
+        "id": "Generative AI",
+        "label": "entity"
+      },
+      {
+        "id": "IEEE",
+        "label": "entity"
+      },
+      {
+        "id": "Google Scholar",
+        "label": "entity"
+      },
+      {
+        "id": "ACM",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi-Nasab's",
+        "label": "entity"
+      },
+      {
+        "id": "USPTO",
+        "label": "entity"
+      },
+      {
+        "id": "Google",
+        "label": "entity"
+      },
+      {
+        "id": "Instagram",
+        "label": "entity"
+      },
+      {
+        "id": "Gmail",
+        "label": "entity"
+      },
+      {
+        "id": "Twitter",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University's Department of Neurosurgery",
+        "label": "entity"
+      },
+      {
+        "id": "Nasan",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Brain Development",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Ali Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "the AWS Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Stanford University School of Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "CODA Biotherapeutics",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Ali Khaledi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "the AWS Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "the Department of Neurosurgery",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Stanford University School of Medicine",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "AI",
+        "weight": 3.6,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Ohio University",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Ali Khaledi Nasan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Amazon Web Services",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Khaledi-Nasab's",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Ali Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "the AWS Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "the Department of Neurosurgery",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Stanford University School of Medicine",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Ohio University",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Amazon Web Services",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "the AWS Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Stanford University School of Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Ali Khaledi Nasan",
+        "weight": 1.8,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Gmail",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Stanford University",
+        "target": "the AWS Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "Stanford University School of Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "Stanford University School of Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the AWS Network Capacity Planning",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "the Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Stanford University School of Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Stanford University School of Medicine",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Ohio University",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Amazon Web Services",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Department of Neurosurgery",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Ohio University",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Amazon Web Services",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Stanford University School of Medicine",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "Khaledi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Ohio University",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Khaledi-Nasab",
+        "weight": 2.6,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "An Interdisciplinary Journal of Nonlinear Science*",
+        "weight": 0.8,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "Khaledi-Nasab's",
+        "weight": 2.6,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 2.6,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Khaledi Nasan",
+        "weight": 1.5,
+        "task": "task_3"
+      },
+      {
+        "source": "AI",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon Web Services",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "AI",
+        "target": "USPTO",
+        "weight": 0.6,
+        "task": "task_7"
+      },
+      {
+        "source": "AI",
+        "target": "Google",
+        "weight": 0.6,
+        "task": "task_7"
+      },
+      {
+        "source": "AI",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "Khaledi",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Amazon Web Services",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Khaledi-Nasab's",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "An Interdisciplinary Journal of Nonlinear Science*",
+        "weight": 0.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Khaledi-Nasab's",
+        "weight": 2.6,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 3.5,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Amazon Web Services",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "IEEE",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "ACM",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "An Interdisciplinary Journal of Nonlinear Science*",
+        "target": "Khaledi-Nasab's",
+        "weight": 0.8,
+        "task": "task_2"
+      },
+      {
+        "source": "An Interdisciplinary Journal of Nonlinear Science*",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 2.6,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Amazon Web Services",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab's",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Amazon Web Services",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "IEEE",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "ACM",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "Ali Khaledi Nasan",
+        "target": "USPTO",
+        "weight": 0.6,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasan",
+        "target": "Google",
+        "weight": 0.6,
+        "task": "task_7"
+      },
+      {
+        "source": "Ali Khaledi Nasan",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi Nasan",
+        "target": "Gmail",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi Nasan",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi Nasan",
+        "target": "Nasan",
+        "weight": 0.8,
+        "task": "task_10"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "Amazon Web Services",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Alexander Neiman",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "CODA",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "Amazon Web Services",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA",
+        "target": "Amazon Web Services",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "CODA",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Web Services",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Web Services",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Web Services",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Web Services",
+        "target": "the Network Capacity Planning",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Web Services",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Amazon Web Services",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "the United States",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the United States",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the United States",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the United States",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iran",
+        "target": "Coordinated Reset",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iran",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iran",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Coordinated Reset",
+        "target": "the Network Capacity Planning",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Coordinated Reset",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Network Capacity Planning",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Network Capacity Planning",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_9"
+      },
+      {
+        "source": "IEEE",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "IEEE",
+        "target": "ACM",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "IEEE",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "ACM",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ACM",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "USPTO",
+        "target": "Google",
+        "weight": 0.6,
+        "task": "task_7"
+      },
+      {
+        "source": "Instagram",
+        "target": "Gmail",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Instagram",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gmail",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_8"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for Ali Khaledi Nasan's current employment and professional connections in AI research",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:10.736915",
+      "data": "As of 2024, Dr. Ali Khaledi is a physicist and AI scientist at Amazon Rufus, focusing on generative AI products. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) He joined Amazon in October 2022 as a research scientist in the AWS Network Capacity Planning organization. Prior to Amazon, Dr. Khaledi worked at CODA Biotherapeutics, a gene therapy startup, and held a research position in the Department of Neurosurgery at Stanford University School of Medicine. He earned his Ph.D. in physics from Ohio University in 2019. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nDr. Khaledi's professional connections in AI research include collaborations with colleagues at Amazon and previous affiliations with Stanford University and CODA Biotherapeutics. He has also been involved in editing the Brain Development section of the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for significant contributions in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "112e60b70925b8e52d5fc3cd2d3622adb86588c2bd81a938945af2b0f7def10b",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 113,
+          "end": 178
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 539,
+          "end": 609
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 1000,
+          "end": 1065
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Search Google Scholar and ResearchGate for academic publications by Ali Khaledi Nasan in artificial intelligence",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:16.458278",
+      "data": "Ali Khaledi-Nasab is a researcher specializing in machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. His work encompasses various applications of artificial intelligence (AI) across multiple domains.\n\nOne of his notable contributions is the study titled \"Depolarization of echo chambers by random dynamical nudge,\" published in *Scientific Reports* in 2022. This research explores the use of random dynamical interventions to reduce polarization within echo chambers, highlighting the potential of AI in understanding and influencing complex social dynamics.\n\nIn the field of computational neuroscience, Khaledi-Nasab has co-authored several studies focusing on neural network desynchronization. For instance, the 2021 paper \"Long-lasting desynchronization of plastic neural networks by random reset stimulation,\" published in *Frontiers in Physiology*, investigates methods to achieve sustained desynchronization in neural networks, which has implications for treating neurological disorders.\n\nAdditionally, his 2020 publication \"Impact of number of stimulation sites on long-lasting desynchronization effects of coordinated reset stimulation\" in *Chaos: An Interdisciplinary Journal of Nonlinear Science* examines how varying the number of stimulation sites affects the efficacy of coordinated reset stimulation in neural networks.\n\nThese works demonstrate Khaledi-Nasab's significant contributions to applying AI and machine learning techniques in understanding and manipulating complex systems, particularly within social and neural networks. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "ab2f826b894dae492fad3423716be60106c1a3ade35c9fd3ea0c53d22476e24c",
+      "citations": []
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search GitHub and GitLab repositories for code contributions by Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:21.274192",
+      "data": "After searching GitHub and GitLab repositories, I couldn't locate any code contributions by Ali Khaledi Nasan. It's possible that his work is not publicly available on these platforms or is published under a different name.\n\nHowever, according to his personal website, Dr. Ali Khaledi is a physicist and AI scientist currently working at Amazon Rufus. He has a background in physics and neuroscience, with expertise in machine learning, deep learning, nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences. His research interests include using computation to understand the world, and he has been involved in various interdisciplinary projects. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nFor more detailed information about his work and publications, you can visit his personal website. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "e83ad7d5fdfec1a2136f7cab1592468b6151622e1c8e91f80243058492f465e9",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 697,
+          "end": 762
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 863,
+          "end": 928
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Search university faculty directories and research institute staff pages for Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:27.674528",
+      "data": "Ali Khaledi-Nasab is a physicist and AI scientist currently working at Amazon Rufus. Originally from Iran, he moved to the United States in 2014 to pursue a Ph.D. in Physics at Ohio University, where he completed his thesis titled \"Collective Dynamics of Excitable Tree Networks\" under the supervision of Dr. Alexander Neiman. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nAfter earning his doctorate, Dr. Khaledi-Nasab joined the Department of Neurosurgery at Stanford University School of Medicine as a postdoctoral researcher. His work there focused on designing stimulation methods for treating neurological disorders, including Parkinson's disease. Notably, he contributed to the development of Coordinated Reset (CR) stimulation, a technique aimed at counteracting abnormal neural synchronization. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nIn 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup dedicated to developing treatments for epilepsy. Following CODA's closure due to funding challenges in 2022, Dr. Khaledi-Nasab joined Amazon Web Services (AWS) as a research scientist in the Network Capacity Planning organization. In 2024, he moved to Amazon Rufus to work on their latest Generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nDr. Khaledi-Nasab's research interests encompass machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. He has authored several publications in these areas, including:\n\n- \"Depolarization of echo chambers by random dynamical nudge\"\n- \"Dynamics of phase oscillator networks with synaptic weight and structural plasticity\"\n- \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\"\n\n([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nIn addition to his professional roles, Dr. Khaledi-Nasab is committed to continuous learning, dedicating daily time to reading and coursework. He also engages in independent research projects, referred to as \"night science,\" focusing on problems at the intersection of nonlinear dynamics, computer science, and AI. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nAs of 2024, he holds an adjunct professorship in Physics at Ohio University. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "40a66547fd45dcc83f27acc2ee2ba4a7285f1e950c2f0f5fe17d800a9a6bd5a6",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 327,
+          "end": 397
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 830,
+          "end": 900
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 1287,
+          "end": 1352
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1822,
+          "end": 1918
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 2235,
+          "end": 2305
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 2384,
+          "end": 2449
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search IEEE Xplore and ACM Digital Library for conference papers authored by Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:34.693305",
+      "data": "I searched for conference papers authored by Ali Khaledi-Nasab in IEEE Xplore and the ACM Digital Library but did not find any publications in these databases. However, according to his Google Scholar profile, Ali Khaledi-Nasab has authored several papers in other venues. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nOne of his notable works is titled \"Depolarization of echo chambers by random dynamical nudge,\" published in *Scientific Reports* in 2022. In this study, Khaledi-Nasab and his co-authors investigate methods to reduce polarization in social networks by introducing random dynamical interventions, aiming to disrupt echo chambers and promote diverse viewpoints. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAnother significant publication is \"Long-lasting desynchronization of plastic neural networks by random reset stimulation,\" published in *Frontiers in Physiology* in 2021. This research explores the effects of random reset stimulation on neural networks, demonstrating that such interventions can lead to sustained desynchronization, which has potential applications in treating neurological disorders. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAdditionally, Khaledi-Nasab co-authored \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements,\" published in *Scientific Reports* in 2017. This paper examines the emergence of stochastic oscillations in tree-like networks of excitable elements and their implications for signal detection, contributing to the understanding of complex network dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nWhile these publications are not conference papers from IEEE or ACM, they highlight Ali Khaledi-Nasab's contributions to the fields of computational neuroscience and network dynamics. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "e0f54c29090a4101bebc1c4802d4a400370d9611c449afd24a3d7518254f21f5",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 273,
+          "end": 369
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 731,
+          "end": 827
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1232,
+          "end": 1328
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1722,
+          "end": 1818
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search corporate records and business registries for companies associated with Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:37.866357",
+      "data": "After searching corporate records and business registries, I found no information linking an individual named Ali Khaledi Nasan to any companies. It's possible that the name is uncommon, misspelled, or that the individual does not have publicly available corporate affiliations.\n\nIf you can provide additional details, such as the correct spelling of the name, associated locations, or specific industries, I can conduct a more targeted search to assist you further. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "302dd324dac5ffd37ed13b70bae97690203903bf36979b6637ff869d8d5a75f8",
+      "citations": []
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search patent databases (USPTO, Google Patents) for AI-related patents filed by Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:42.165035",
+      "data": "I searched the USPTO and Google Patents databases for AI-related patents filed by Ali Khaledi Nasan but did not find any patents associated with this individual. It's possible that the name is misspelled or that the patents are filed under a different name. Could you please verify the spelling or provide additional information to assist in locating the relevant patents? ",
+      "confidence": 0.6,
+      "decayed_score": 0.6,
+      "hash": "4a830c34b70b23d99ee68bc0dae676621d5d54449148fbd5f8c17cc202118064",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Search Twitter, Facebook, and Instagram for social media profiles of Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:46.491168",
+      "data": "I searched for social media profiles of Ali Khaledi Nasan on Twitter, Facebook, and Instagram but did not find any publicly available accounts associated with that name. It's possible that such profiles exist under different names, are set to private, or are not present on these platforms.\n\nHowever, I did find a website associated with an individual named Ali Khaledi, which includes a contact page. The page provides a Gmail address for contact and mentions the option to leave anonymous feedback. ([alikhaledi.com](https://www.alikhaledi.com/contact-ali?utm_source=openai))\n\nIf you have more specific information or alternative spellings of the name, I can assist further in locating the desired profiles. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "39b226e1c9ba18d7e79f5f400a48b78e00ffecd5aa25f5408049df97debc4e30",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/contact-ali?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - Contact Ali",
+          "start": 501,
+          "end": 577
+        }
+      ]
+    },
+    "task_9": {
+      "source": "web_search_preview",
+      "query_used": "Search news articles and press releases mentioning Ali Khaledi Nasan in AI research context",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:52.509950",
+      "data": "Ali Khaledi-Nasab is a physicist and AI scientist currently working at Amazon Rufus, focusing on generative AI products. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) He holds a Ph.D. in physics from Ohio University, where his research centered on the collective dynamics of excitable tree networks. Following his doctoral studies, he conducted postdoctoral research at Stanford University's Department of Neurosurgery, developing stimulation methods for neurological disorders like Parkinson's disease. ([alikhaledi.com](https://www.alikhaledi.com/about?utm_source=openai))\n\nIn 2022, Khaledi-Nasab joined Amazon Web Services (AWS) as a research scientist in the Network Capacity Planning organization. By 2024, he transitioned to Amazon Rufus to work on generative AI products. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) His research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nOne of his notable publications is \"Depolarization of echo chambers by random dynamical nudge,\" published in *Scientific Reports* in 2022. This study explores methods to reduce polarization in social networks through random dynamical interventions. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nKhaledi-Nasab's interdisciplinary background in physics, neuroscience, and AI positions him at the forefront of developing innovative AI solutions, particularly in the realm of generative AI. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "bcffcf8c17177f89325f0e7534f5a5d7da10376cce7c5a1e512819ec8b46fba6",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 121,
+          "end": 186
+        },
+        {
+          "url": "https://www.alikhaledi.com/about?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D. - About",
+          "start": 524,
+          "end": 594
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 799,
+          "end": 864
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1001,
+          "end": 1097
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1348,
+          "end": 1444
+        }
+      ]
+    },
+    "task_10": {
+      "source": "web_search_preview",
+      "query_used": "Search academic conference speaker lists and program committees featuring Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:19:55.641059",
+      "data": "After reviewing the available information, I couldn't find any records of Dr. Ali Khaledi Nasan serving as a speaker or a member of program committees at academic conferences. The search results did not include his name in any conference speaker lists or organizing committees.\n\nIf you have more specific details about Dr. Nasan's professional background, such as his field of expertise, affiliated institutions, or particular conferences he might have attended, please provide them. This information could help in conducting a more targeted search to find relevant records. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "e2b847bdd6e726de43d5dc5ffde3b72fd05843a1b3a493c0f839a56c6db09b41",
+      "citations": []
+    },
+    "task_12": {
+      "source": "web_search_preview",
+      "query_used": "Search court records and legal databases for any litigation involving Ali Khaledi Nasan",
+      "published": "2025-06-11",
+      "retrieved": "2025-06-11T15:20:01.828986",
+      "data": "After searching court records and legal databases, I found no litigation involving an individual named \"Ali Khaledi Nasan.\" It's possible that the name is misspelled or that the individual is not involved in any publicly available legal proceedings.\n\nIf you can provide additional details, such as the correct spelling of the name, specific jurisdictions, or the nature of the case, I can assist you further in locating relevant information. ",
+      "confidence": 0.8,
+      "decayed_score": 0.8,
+      "hash": "e68484858dec58b5eb38be3bc310d80acab016261aaeec26c553d1413b947a4d",
+      "citations": []
+    }
+  }
+}
