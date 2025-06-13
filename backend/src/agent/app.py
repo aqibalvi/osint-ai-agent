@@ -57,52 +57,6 @@ def create_frontend_router(build_dir="../frontend/dist"):
     return react
 
 
-# from agent.agents.query_parser_agent import query_parser_agent
-# from agent.agents.planner_agent import planner_agent
-# from agent.agents.retriever_pivot_agent import retriever_pivot_agent
-# from agent.agents.synthesis_agent import synthesis_agent
-# from agent.agents.judgement_agent import judgement_agent
-
-# if __name__ == "__main__":
-
-#     # STEP 1: Parse the user query
-#     query = "Investigate Muhammad Aqib Iqbal who works in Turing, a Pakistani who lives in Oman"
-#     print("\n🔍 Parsing Query...")
-#     parsed = query_parser_agent(query)
-#     # print("✅ Parsed:", parsed)
-
-#     # STEP 2: Generate investigation tasks
-#     print("\n🧠 Planning Tasks...")
-#     tasks = planner_agent(parsed["entity_type"], parsed["entity_name"], parsed["keywords"], parsed["affiliation"])
-#     # print("✅ Planner Agent Tasks:")
-#     # for task in tasks:
-#     #     print(" -", task)
-
-#     # STEP 3: Retrieve data via web search
-#     print("\n🌐 Running Real-Time Web Search...")
-#     retrievals = retriever_pivot_agent(tasks, parsed["entity_name"])
-#     # for k, v in retrievals.items():
-#     #     print(f"\n🔹 Task: {k}\n   Source: {v['source']}\n   Confidence: {v['confidence']}\n   Data: {v['data'][:300]}...")
-
-
-#     # STEP 4: Synthesize intelligence report
-#     print("\n🧾 Synthesizing OSINT Report...")
-#     report = synthesis_agent(retrievals, parsed["entity_name"])
-#     print("\n✅ Final OSINT Intelligence Report:\n")
-#     print(report)
-
-#     judgement = judgement_agent(parsed["entity_name"], report, retrievals)
-
-
-#     # STEP 5: Final QA by Claude Opus 4
-#     print("✅ Final QA by Claude Opus 4:")
-#     print(f"Credibility Score: {judgement['credibility_score']}")
-#     print("Flagged Issues:")
-#     for issue in judgement['flagged_issues']:
-#         print(f" - {issue}")
-#     print("\n📝 Final Revised Report:\n")
-#     print(judgement["revised_report"])
-
 # src/app.py
 
 from langgraph_app import build_graph
