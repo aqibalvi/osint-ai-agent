@@ -120,7 +120,7 @@ if __name__ == "__main__":
     final_state = graph.invoke({
     "query": input_query,
     "retrieval_model": "gpt-4o-mini-search-preview",  # or "gpt-4o"
-    "synthesis_model": "gemini-1.5-pro"              # or "gemini-2.0-flash"
+    "synthesis_model": "gemini-2.0-flash"              # or "gemini-2.0-flash"
 })
 
     log_session(session_id, entity=final_state["parsed"]["entity_name"])

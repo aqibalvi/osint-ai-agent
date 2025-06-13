@@ -41,7 +41,7 @@ Please respond only in this exact JSON format, without any markdown or triple ba
     response = client.messages.create(
         model="claude-opus-4-20250514",
         max_tokens=1800,
-        temperature=0.4,
+        temperature=0.1,
         messages=[{"role": "user", "content": prompt}]
     )
 

@@ -1,0 +1,2622 @@
+{
+  "query": "Investigate Ali Khaledi Nasab an Irani AI Researcher working for Amazon",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Ali Khaledi Nasab",
+    "keywords": [
+      "AI",
+      "Researcher",
+      "Amazon",
+      "Technology"
+    ],
+    "affiliation": "Amazon",
+    "location": "Iran",
+    "nationality": "Iranian"
+  },
+  "tasks": [
+    "Search LinkedIn for current role and professional details of Ali Khaledi Nasab at Amazon",
+    "Check Iranian academic publication databases for research papers or academic profiles",
+    "Search Iranian news archives and technology publications for mentions of Ali Khaledi Nasab",
+    "Investigate Google Scholar for AI research publications or citations under this name",
+    "Check ResearchGate or similar academic networking platforms for professional research profile",
+    "Search Iranian professional registry databases for technology or AI professional credentials",
+    "Cross-reference Amazon corporate directory or press releases mentioning Ali Khaledi Nasab",
+    "Explore social media platforms (Twitter, ResearchGate) for professional network and technology interests"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role and professional details of Ali Khaledi Nasab at Amazon",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:29:54.522353",
+      "data": "Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon's Rufus division. Originally from Iran, he moved to the United States in 2014 to pursue his Ph.D. After completing his doctorate, he joined Stanford University's Department of Neurosurgery, focusing on developing stimulation methods for treating neurological disorders. In 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup targeting epilepsy treatments. Following the startup's closure in 2022 due to funding challenges, he joined Amazon as a research scientist in the AWS network capacity team. In 2024, he moved to Amazon's Rufus division to work on their latest Generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nThroughout his career, Dr. Khaledi Nasab has contributed to various research projects, including studying the dynamics of excitable tree networks in sensory neurons and exploring methods to depolarize echo chambers in social networks. He has also been involved in editing the Brain Development section of the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for significant contributions in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nIn addition to his professional work, Dr. Khaledi Nasab has shared his experiences and insights through writing, including a piece in Science Magazine titled \"I almost sold a kidney to pursue my PhD,\" reflecting on the challenges faced by international students in funding their education. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "11a0c5e6dd220e05107f9ac6b108341c1bc5b40cb6e77280d109b31cefe764dc",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 686,
+          "end": 751
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 1197,
+          "end": 1262
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Iranian academic publication databases for research papers or academic profiles",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:29:59.509006",
+      "data": "Ali Khaledi Nasab is a physicist whose research focuses on the dynamics of excitable tree networks, particularly in sensory neurons with tree-like structures. He has presented his work at various academic venues, including a colloquium at the College of Wooster in October 2017, where he discussed \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\nIn addition to his research, Khaledi Nasab has been active in addressing challenges faced by international students. In April 2017, he authored an article titled \"Standing up to fear,\" published in *Science* magazine, where he shared his experiences and the difficulties encountered by international students in the United States during that period. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nRegarding his academic affiliations, Khaledi Nasab has been associated with Ohio University, where he pursued his doctoral studies in Physics and Astronomy. He has also been recognized by the American Physical Society, receiving a 2019 Student Travel Award to attend the APS meeting in Boston, where he presented his research on the dynamics of excitable tree networks. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nWhile specific information about his current position is limited, his previous roles include serving as a senior researcher at the Ronin Institute in Essex County, United States. ([loop.frontiersin.org](https://loop.frontiersin.org/people/1085546/publications?utm_source=openai))\n\nAdditionally, a profile on exaly.com indicates that Khaledi Nasab has been affiliated with the University of Tabriz, with a notable number of publications and citations. ([exaly.com](https://exaly.com/author/5034433/ali-khaledi-nasab?utm_source=openai))\n\nHowever, a search of the Scientific Information Database (SID) did not yield any publications authored by Ali Khaledi Nasab, suggesting that his work may not be indexed in this particular database. ([en.irandoc.ac.ir](https://en.irandoc.ac.ir/taxonomy/term/3031?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "ffea5dd182c18eef07a2c511a395cef6c7d757bb09f93fc3ed211a4905396c5b",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai",
+          "title": "Khaledi Nasab Gives Colloquium Talk at College of Wooster - Ohio University | College of Arts & Sciences",
+          "start": 394,
+          "end": 519
+        },
+        {
+          "url": "https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai",
+          "title": "(PDF) Standing up to fear | Ali Khaledi Nasab - Academia.edu",
+          "start": 871,
+          "end": 960
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian news archives and technology publications for mentions of Ali Khaledi Nasab",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:02.150161",
+      "data": "Ali Khaledi Nasab is a physicist who has contributed to the field of dynamical systems. In February 2018, he presented a seminar titled \"Collective Dynamics of Random Tree Networks of Excitable Elements\" at Ohio University. ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai)) This work focused on understanding the collective behavior of networks composed of excitable elements, which has applications in various scientific disciplines. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "12ac1b179b453944a0941b41bca135c03f9d1f3891099c29183f0eba77dba425",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai",
+          "title": "Ali Khaledi Archives - Ohio University | College of Arts & Sciences — Ohio University | College of Arts & Sciences",
+          "start": 224,
+          "end": 308
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Investigate Google Scholar for AI research publications or citations under this name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:06.776745",
+      "data": "Ali Khaledi-Nasab is a researcher with a diverse background in physics, neuroscience, and machine learning. His work encompasses areas such as nonlinear dynamics, computational neuroscience, and artificial intelligence. He has been affiliated with institutions like Ohio University and the University of Tabriz.\n\nIn 2017, as a graduate student in Physics & Astronomy at Ohio University, Khaledi-Nasab presented a colloquium titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\" at the College of Wooster. This research focused on the stochastic dynamics of tree networks of excitable elements, relevant to sensory neurons like cat muscle spindles. The study suggested mechanisms for tuning the activity of central elements in these networks. ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\nIn 2019, he received the American Physical Society (APS) Division of Biological Physics 2019 Student Travel Award, which supported his attendance at the APS meeting in Boston. There, he presented a paper titled \"Dynamics of excitable tree networks: Application to sensory neurons,\" further contributing to the understanding of information processing in sensory neurons with tree-like morphologies. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nKhaledi-Nasab has also co-authored several publications in the field of machine learning and artificial intelligence. Notably, he has worked on the development of ZnO nanoparticles using potato extract as a reducing agent and stabilizer, as well as on the optical properties of InAs/GaAs quantum dots. His research has been cited numerous times, reflecting his contributions to these areas. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAdditionally, he has been involved in studies related to the desynchronization effects of coordinated reset stimulation in neuronal networks, aiming to improve the understanding of neural dynamics and potential therapeutic applications. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10013062/?utm_source=openai))\n\nOverall, Ali Khaledi-Nasab's work spans multiple disciplines, contributing to advancements in both theoretical and applied aspects of physics, neuroscience, and artificial intelligence. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "6974587fbe9f934805f376c9c4350e426c802ad3565ceada2b204b717f593810",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai",
+          "title": "Khaledi Nasab Gives Colloquium Talk at College of Wooster - Ohio University | College of Arts & Sciences",
+          "start": 790,
+          "end": 915
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 1315,
+          "end": 1449
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Check ResearchGate or similar academic networking platforms for professional research profile",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:10.577469",
+      "data": "Ali Khaledi Nasab is a physicist specializing in the dynamics of excitable tree networks, particularly focusing on sensory neurons with branched myelinated terminals. His doctoral research at Ohio University, supervised by Professor Alexander Neiman, involved theoretical and computational studies to understand mechanisms of spike generation and information coding in these neurons. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nIn 2019, Khaledi Nasab received the American Physical Society (APS) Division of Biological Physics Student Travel Award, which supported his attendance at the APS annual meeting in Boston, where he presented his research on the dynamics of excitable tree networks. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nHe has also contributed to discussions on the experiences of international students in the United States, sharing his personal challenges and perspectives in a column titled \"Standing up to fear\" published in *Science* magazine. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nAdditionally, Khaledi Nasab has authored several publications on the collective dynamics of excitable tree networks and the role of synaptic plasticity in brain development. His work has been featured in various academic journals and platforms, reflecting his ongoing contributions to the field. ([researchgate.net](https://www.researchgate.net/figure/The-classifications-of-neurons-based-on-the-branches-that-originate-from-the-cell-body_fig1_334373044?utm_source=openai), [researchgate.net](https://www.researchgate.net/figure/Schematic-representation-of-neuroplasticity-at-different-levels-A-Synaptic-plasticity_fig1_365439270?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "3723e92efc1056538fcaae0d191c955d360f880acbca75645130c4d774ff91ed",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 384,
+          "end": 518
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 785,
+          "end": 919
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian professional registry databases for technology or AI professional credentials",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:13.613108",
+      "data": "Ali Khaledi Nasab is an Iranian physicist and AI scientist currently working at Amazon Rufus. He earned his Ph.D. in physics from Ohio University, where he conducted research on the collective dynamics of excitable tree networks. After completing his Ph.D., he joined Stanford University's Department of Neurosurgery, focusing on stimulation methods for treating neurological disorders. In 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup, before joining Amazon in 2022 as a research scientist in the AWS network capacity team. In 2024, he became an adjunct professor of physics at Ohio University. His research interests encompass nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "dd17a510aa68047b82f4b2001a529bebfc1e565b08c2b5b444a47dab36a11863",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 760,
+          "end": 825
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Cross-reference Amazon corporate directory or press releases mentioning Ali Khaledi Nasab",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:17.810991",
+      "data": "Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon. He joined Amazon in October 2022 as a research scientist in the AWS network capacity team. In 2024, he transitioned to Amazon Rufus to work on the company's latest generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nBefore joining Amazon, Dr. Khaledi Nasab earned his Ph.D. and conducted postdoctoral research at Stanford University's Department of Neurosurgery. He also worked at CODA Biotherapeutics, a gene therapy startup focused on developing treatments for epilepsy. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nIn addition to his professional work, Dr. Khaledi Nasab has been active in academia, serving as an adjunct professor of physics at Ohio University. He has also contributed to the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for \"significant contributions\" in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nDr. Khaledi Nasab's research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. He has published several papers in these areas, reflecting his expertise and contributions to the field. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "9968bd677804fd12026060dab300a00ec17c5903f4472421012c0dd2607e94e9",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 266,
+          "end": 331
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 590,
+          "end": 655
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Explore social media platforms (Twitter, ResearchGate) for professional network and technology interests",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:21.633888",
+      "data": "Ali Khaledi Nasab is a physicist specializing in the dynamics of excitable tree networks, particularly in sensory neurons with branched myelinated terminals. His research has been presented at various academic venues, including a colloquium at the College of Wooster in 2017, where he discussed \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\nIn 2019, he received the American Physical Society (APS) Division of Biological Physics Student Travel Award, which supported his attendance at the APS meeting in Boston, where he presented his paper on the dynamics of excitable tree networks. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nProfessionally, Ali has been affiliated with Ohio University, where he completed his doctoral studies in Physics & Astronomy. His research has been featured in the university's news portal, highlighting his contributions to the field. ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai))\n\nRegarding his presence on social media platforms like Twitter and ResearchGate, specific profiles or activity details are not readily available in the provided sources. However, his work has been cited in various academic publications, indicating an active engagement in the scientific community. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b370c5430824fde65e2bf1e8e77082c810136cc8ea63e2e9de1f1661be4bb4f0",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai",
+          "title": "Khaledi Nasab Gives Colloquium Talk at College of Wooster - Ohio University | College of Arts & Sciences",
+          "start": 391,
+          "end": 516
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 762,
+          "end": 896
+        }
+      ]
+    }
+  },
+  "report": "## OSINT Intelligence Report: Ali Khaledi Nasab\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\n\nAli Khaledi Nasab is a physicist and AI scientist originally from Iran, currently working at Amazon's Rufus division. His background includes research in dynamical systems, computational neuroscience, and artificial intelligence, with affiliations to institutions like Stanford University and Ohio University. There is no information to suggest any immediate risks.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n\n*   Currently works as a physicist and AI scientist at Amazon's Rufus division.\n*   Previously worked at Stanford University's Department of Neurosurgery, focusing on developing stimulation techniques for treating neurological disorders.\n*   Doctoral research at Ohio University, supervised by Professor Alexander Neiman.\n\n**2. Financial / Corporate Ties**\n\n*   Currently employed by Amazon. No other financial or corporate ties are mentioned.\n\n**3. Legal / Regulatory Issues**\n\n*   No legal or regulatory issues are mentioned.\n\n**4. Academic / Public Presence**\n\n*   Ph.D. from Ohio University.\n*   Presented a colloquium at the College of Wooster in October 2017 on \"Emergent Dynamics of Excitable Tree Networks.\"\n*   Presented a seminar at Ohio University in February 2018 titled \"Collective Dynamics of Random Tree Networks of Excitable Elements.\"\n*   Received an APS travel award to attend a conference.\n*   Research focuses on the dynamics of excitable tree networks, particularly in sensory neurons.\n\n**5. Online / Social Media**\n\n*   Has a personal website: alikhaledi.com.\n*   Published a document titled \"Standing up to fear\" on Academia.edu.\n\n**6. Additional Observations**\n\n*   Originally from Iran, moved to the United States in 2014.\n*   Research interests span physics, neuroscience, and machine learning.\n\n### Risk Score\n\nLow. Ali Khaledi Nasab appears to be a researcher and scientist with a solid academic background and professional affiliations. There is no information suggesting any reputational or security risks.\n",
+  "judgement": {
+    "credibility_score": "9",
+    "flagged_issues": [
+      "Minor discrepancy: Report states he became adjunct professor at Ohio University in 2024, but this detail is not mentioned in the main report body",
+      "Missing detail: The report doesn't mention his contribution to editing the Brain Development section of the Encyclopedia of Child and Adolescent Health which received the 2024 PROSE Award",
+      "Missing detail: His article 'I almost sold a kidney to pursue my PhD' in Science Magazine is not mentioned",
+      "Missing detail: His work on ZnO nanoparticles and InAs/GaAs quantum dots is not included",
+      "Missing detail: His involvement in studies on desynchronization effects of coordinated reset stimulation is not mentioned"
+    ],
+    "revised_report": "## OSINT Intelligence Report: Ali Khaledi Nasab\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\n\nAli Khaledi Nasab is a physicist and AI scientist originally from Iran, currently working at Amazon's Rufus division¹. His background includes research in dynamical systems, computational neuroscience, and artificial intelligence, with affiliations to institutions like Stanford University and Ohio University. There is no information to suggest any immediate risks.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n\n*   Currently works as a physicist and AI scientist at Amazon's Rufus division (joined 2024)¹\n*   Previously worked at Amazon AWS network capacity team as a research scientist (2022-2024)¹\n*   Worked at CODA Biotherapeutics, a gene therapy startup targeting epilepsy treatments (2021-2022, company closed due to funding challenges)¹\n*   Previously worked at Stanford University's Department of Neurosurgery, focusing on developing stimulation techniques for treating neurological disorders¹\n*   Became an adjunct professor of physics at Ohio University in 2024⁶\n*   Previously served as a senior researcher at the Ronin Institute in Essex County, United States²\n*   Doctoral research at Ohio University, supervised by Professor Alexander Neiman⁵\n\n**2. Financial / Corporate Ties**\n\n*   Currently employed by Amazon. No other financial or corporate ties are mentioned.\n\n**3. Legal / Regulatory Issues**\n\n*   No legal or regulatory issues are mentioned.\n\n**4. Academic / Public Presence**\n\n*   Ph.D. in Physics from Ohio University⁵\n*   Presented a colloquium at the College of Wooster in October 2017 on \"Emergent Dynamics of Excitable Tree Networks\"²⁴\n*   Presented a seminar at Ohio University in February 2018 titled \"Collective Dynamics of Random Tree Networks of Excitable Elements\"³\n*   Received an APS Division of Biological Physics 2019 Student Travel Award to attend a conference⁴⁵\n*   Research focuses on the dynamics of excitable tree networks, particularly in sensory neurons with tree-like morphologies⁴⁵\n*   Co-authored publications on ZnO nanoparticles using potato extract and optical properties of InAs/GaAs quantum dots⁴\n*   Contributed to editing the Brain Development section of the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award¹\n*   Involved in studies on desynchronization effects of coordinated reset stimulation in neuronal networks⁴\n*   Research interests span nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences⁶\n\n**5. Online / Social Media**\n\n*   Has a personal website: alikhaledi.com¹⁶\n*   Published a document titled \"Standing up to fear\" on Academia.edu in April 2017, addressing challenges faced by international students²⁵\n*   Authored an article \"I almost sold a kidney to pursue my PhD\" in Science Magazine, reflecting on funding challenges for international students¹\n\n**6. Additional Observations**\n\n*   Originally from Iran, moved to the United States in 2014 to pursue his Ph.D.¹\n*   Research interests span physics, neuroscience, and machine learning\n*   Has been affiliated with the University of Tabriz according to some profiles²\n\n### Risk Score\n\nLow. Ali Khaledi Nasab appears to be a legitimate researcher and scientist with a solid academic background and professional affiliations at reputable institutions. There is no information suggesting any reputational or security risks.\n\n### Citations\n¹ alikhaledi.com (Task 1, Task 6)\n² ohio-forum.com, academia.edu, loop.frontiersin.org, exaly.com (Task 2)\n³ ohio-forum.com (Task 3)\n⁴ ohio-forum.com, scholar.google.com, pmc.ncbi.nlm.nih.gov (Task 4)\n⁵ ohio-forum.com, academia.edu, researchgate.net (Task 5)\n⁶ alikhaledi.com (Task 6)"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "Amazon",
+        "label": "entity"
+      },
+      {
+        "id": "Rufus",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University's Department of Neurosurgery",
+        "label": "entity"
+      },
+      {
+        "id": "Brain Development",
+        "label": "entity"
+      },
+      {
+        "id": "CODA Biotherapeutics",
+        "label": "entity"
+      },
+      {
+        "id": "Generative AI",
+        "label": "entity"
+      },
+      {
+        "id": "AI",
+        "label": "entity"
+      },
+      {
+        "id": "Clinical Medicine",
+        "label": "entity"
+      },
+      {
+        "id": "Science Magazine",
+        "label": "entity"
+      },
+      {
+        "id": "the United States",
+        "label": "entity"
+      },
+      {
+        "id": "Iran",
+        "label": "entity"
+      },
+      {
+        "id": "AWS",
+        "label": "entity"
+      },
+      {
+        "id": "Boston",
+        "label": "entity"
+      },
+      {
+        "id": "United States",
+        "label": "entity"
+      },
+      {
+        "id": "Ohio University",
+        "label": "entity"
+      },
+      {
+        "id": "exaly.com",
+        "label": "entity"
+      },
+      {
+        "id": "Student Travel Award",
+        "label": "entity"
+      },
+      {
+        "id": "Physics",
+        "label": "entity"
+      },
+      {
+        "id": "APS",
+        "label": "entity"
+      },
+      {
+        "id": "exaly.com](https://exaly.com",
+        "label": "entity"
+      },
+      {
+        "id": "SID",
+        "label": "entity"
+      },
+      {
+        "id": "the University of Tabriz",
+        "label": "entity"
+      },
+      {
+        "id": "the Scientific Information Database",
+        "label": "entity"
+      },
+      {
+        "id": "Essex County",
+        "label": "entity"
+      },
+      {
+        "id": "the Ronin Institute",
+        "label": "entity"
+      },
+      {
+        "id": "the American Physical Society",
+        "label": "entity"
+      },
+      {
+        "id": "the College of Wooster",
+        "label": "entity"
+      },
+      {
+        "id": "ohio",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi-Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "InAs/GaAs",
+        "label": "entity"
+      },
+      {
+        "id": "ZnO",
+        "label": "entity"
+      },
+      {
+        "id": "Biological Physics 2019",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi-Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Physics & Astronomy",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi-Nasab's",
+        "label": "entity"
+      },
+      {
+        "id": "Schematic",
+        "label": "entity"
+      },
+      {
+        "id": "Biological Physics Student Travel Award",
+        "label": "entity"
+      },
+      {
+        "id": "Alexander Neiman",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon Rufus",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Amazon",
+        "target": "Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Brain Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "CODA Biotherapeutics",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "AWS",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Amazon",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Rufus",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Ali Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Brain Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Rufus",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Ali Khaledi Nasab",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Brain Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the United States",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Boston",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Ohio University",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Student Travel Award",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "APS",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the American Physical Society",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Brain Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "CODA Biotherapeutics",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the United States",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "AWS",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Boston",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Ohio University",
+        "weight": 3.6,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Student Travel Award",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "APS",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the American Physical Society",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "ohio",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Brain Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "CODA Biotherapeutics",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "AWS",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Brain Development",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Brain Development",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Generative AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "AWS",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Generative AI",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Generative AI",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Generative AI",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Generative AI",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Generative AI",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Generative AI",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Clinical Medicine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "AWS",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Clinical Medicine",
+        "target": "Science Magazine",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Clinical Medicine",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Clinical Medicine",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Clinical Medicine",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Science Magazine",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Science Magazine",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Science Magazine",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "Boston",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "Ohio University",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "Student Travel Award",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "APS",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "the American Physical Society",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the United States",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Iran",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AWS",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AWS",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Boston",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "Ohio University",
+        "weight": 2.7,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "Student Travel Award",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "APS",
+        "weight": 2.7,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "the University of Tabriz",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "the American Physical Society",
+        "weight": 2.7,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "the College of Wooster",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Boston",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Boston",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Boston",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Boston",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "United States",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "Student Travel Award",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "United States",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Student Travel Award",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "APS",
+        "weight": 2.7,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the University of Tabriz",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the American Physical Society",
+        "weight": 2.7,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the College of Wooster",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "ohio",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com",
+        "target": "Student Travel Award",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Physics",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "APS",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "the University of Tabriz",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "the American Physical Society",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "the College of Wooster",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Student Travel Award",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics",
+        "target": "APS",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Physics",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "exaly.com](https://exaly.com",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "the University of Tabriz",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "the American Physical Society",
+        "weight": 2.7,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "the College of Wooster",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "APS",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "APS",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "APS",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "APS",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "SID",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "exaly.com](https://exaly.com",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "SID",
+        "target": "the University of Tabriz",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "SID",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "SID",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "SID",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "SID",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "SID",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "the Scientific Information Database",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "the American Physical Society",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "the College of Wooster",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the University of Tabriz",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the Scientific Information Database",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Scientific Information Database",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Scientific Information Database",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Scientific Information Database",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Essex County",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Essex County",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Essex County",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Ronin Institute",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the Ronin Institute",
+        "target": "the College of Wooster",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "the College of Wooster",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Schematic",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "the College of Wooster",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi-Nasab",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "InAs/GaAs",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "InAs/GaAs",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "InAs/GaAs",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "InAs/GaAs",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "InAs/GaAs",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "ZnO",
+        "target": "Biological Physics 2019",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "ZnO",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "ZnO",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "ZnO",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Biological Physics 2019",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Biological Physics 2019",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Biological Physics 2019",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Physics & Astronomy",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Physics & Astronomy",
+        "target": "Ali Khaledi-Nasab's",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Schematic",
+        "target": "Biological Physics Student Travel Award",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Schematic",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Biological Physics Student Travel Award",
+        "target": "Alexander Neiman",
+        "weight": 0.9,
+        "task": "task_5"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role and professional details of Ali Khaledi Nasab at Amazon",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:29:54.522353",
+      "data": "Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon's Rufus division. Originally from Iran, he moved to the United States in 2014 to pursue his Ph.D. After completing his doctorate, he joined Stanford University's Department of Neurosurgery, focusing on developing stimulation methods for treating neurological disorders. In 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup targeting epilepsy treatments. Following the startup's closure in 2022 due to funding challenges, he joined Amazon as a research scientist in the AWS network capacity team. In 2024, he moved to Amazon's Rufus division to work on their latest Generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nThroughout his career, Dr. Khaledi Nasab has contributed to various research projects, including studying the dynamics of excitable tree networks in sensory neurons and exploring methods to depolarize echo chambers in social networks. He has also been involved in editing the Brain Development section of the \"Encyclopedia of Child and Adolescent Health,\" which received the 2024 PROSE Award for significant contributions in Clinical Medicine. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nIn addition to his professional work, Dr. Khaledi Nasab has shared his experiences and insights through writing, including a piece in Science Magazine titled \"I almost sold a kidney to pursue my PhD,\" reflecting on the challenges faced by international students in funding their education. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "11a0c5e6dd220e05107f9ac6b108341c1bc5b40cb6e77280d109b31cefe764dc",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 686,
+          "end": 751
+        },
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 1197,
+          "end": 1262
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Iranian academic publication databases for research papers or academic profiles",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:29:59.509006",
+      "data": "Ali Khaledi Nasab is a physicist whose research focuses on the dynamics of excitable tree networks, particularly in sensory neurons with tree-like structures. He has presented his work at various academic venues, including a colloquium at the College of Wooster in October 2017, where he discussed \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements.\" ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\nIn addition to his research, Khaledi Nasab has been active in addressing challenges faced by international students. In April 2017, he authored an article titled \"Standing up to fear,\" published in *Science* magazine, where he shared his experiences and the difficulties encountered by international students in the United States during that period. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nRegarding his academic affiliations, Khaledi Nasab has been associated with Ohio University, where he pursued his doctoral studies in Physics and Astronomy. He has also been recognized by the American Physical Society, receiving a 2019 Student Travel Award to attend the APS meeting in Boston, where he presented his research on the dynamics of excitable tree networks. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nWhile specific information about his current position is limited, his previous roles include serving as a senior researcher at the Ronin Institute in Essex County, United States. ([loop.frontiersin.org](https://loop.frontiersin.org/people/1085546/publications?utm_source=openai))\n\nAdditionally, a profile on exaly.com indicates that Khaledi Nasab has been affiliated with the University of Tabriz, with a notable number of publications and citations. ([exaly.com](https://exaly.com/author/5034433/ali-khaledi-nasab?utm_source=openai))\n\nHowever, a search of the Scientific Information Database (SID) did not yield any publications authored by Ali Khaledi Nasab, suggesting that his work may not be indexed in this particular database. ([en.irandoc.ac.ir](https://en.irandoc.ac.ir/taxonomy/term/3031?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "ffea5dd182c18eef07a2c511a395cef6c7d757bb09f93fc3ed211a4905396c5b",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai",
+          "title": "Khaledi Nasab Gives Colloquium Talk at College of Wooster - Ohio University | College of Arts & Sciences",
+          "start": 394,
+          "end": 519
+        },
+        {
+          "url": "https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai",
+          "title": "(PDF) Standing up to fear | Ali Khaledi Nasab - Academia.edu",
+          "start": 871,
+          "end": 960
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian news archives and technology publications for mentions of Ali Khaledi Nasab",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:02.150161",
+      "data": "Ali Khaledi Nasab is a physicist who has contributed to the field of dynamical systems. In February 2018, he presented a seminar titled \"Collective Dynamics of Random Tree Networks of Excitable Elements\" at Ohio University. ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai)) This work focused on understanding the collective behavior of networks composed of excitable elements, which has applications in various scientific disciplines. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "12ac1b179b453944a0941b41bca135c03f9d1f3891099c29183f0eba77dba425",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai",
+          "title": "Ali Khaledi Archives - Ohio University | College of Arts & Sciences — Ohio University | College of Arts & Sciences",
+          "start": 224,
+          "end": 308
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Investigate Google Scholar for AI research publications or citations under this name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:06.776745",
+      "data": "Ali Khaledi-Nasab is a researcher with a diverse background in physics, neuroscience, and machine learning. His work encompasses areas such as nonlinear dynamics, computational neuroscience, and artificial intelligence. He has been affiliated with institutions like Ohio University and the University of Tabriz.\n\nIn 2017, as a graduate student in Physics & Astronomy at Ohio University, Khaledi-Nasab presented a colloquium titled \"Emergent stochastic oscillations and signal detection in tree networks of excitable elements\" at the College of Wooster. This research focused on the stochastic dynamics of tree networks of excitable elements, relevant to sensory neurons like cat muscle spindles. The study suggested mechanisms for tuning the activity of central elements in these networks. ([ohio-forum.com](https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai))\n\nIn 2019, he received the American Physical Society (APS) Division of Biological Physics 2019 Student Travel Award, which supported his attendance at the APS meeting in Boston. There, he presented a paper titled \"Dynamics of excitable tree networks: Application to sensory neurons,\" further contributing to the understanding of information processing in sensory neurons with tree-like morphologies. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nKhaledi-Nasab has also co-authored several publications in the field of machine learning and artificial intelligence. Notably, he has worked on the development of ZnO nanoparticles using potato extract as a reducing agent and stabilizer, as well as on the optical properties of InAs/GaAs quantum dots. His research has been cited numerous times, reflecting his contributions to these areas. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nAdditionally, he has been involved in studies related to the desynchronization effects of coordinated reset stimulation in neuronal networks, aiming to improve the understanding of neural dynamics and potential therapeutic applications. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10013062/?utm_source=openai))\n\nOverall, Ali Khaledi-Nasab's work spans multiple disciplines, contributing to advancements in both theoretical and applied aspects of physics, neuroscience, and artificial intelligence. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "6974587fbe9f934805f376c9c4350e426c802ad3565ceada2b204b717f593810",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2017/10/khaledi-nasab-gives-colloquium-talk-college-wooster/?utm_source=openai",
+          "title": "Khaledi Nasab Gives Colloquium Talk at College of Wooster - Ohio University | College of Arts & Sciences",
+          "start": 790,
+          "end": 915
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 1315,
+          "end": 1449
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Check ResearchGate or similar academic networking platforms for professional research profile",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:10.577469",
+      "data": "Ali Khaledi Nasab is a physicist specializing in the dynamics of excitable tree networks, particularly focusing on sensory neurons with branched myelinated terminals. His doctoral research at Ohio University, supervised by Professor Alexander Neiman, involved theoretical and computational studies to understand mechanisms of spike generation and information coding in these neurons. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nIn 2019, Khaledi Nasab received the American Physical Society (APS) Division of Biological Physics Student Travel Award, which supported his attendance at the APS annual meeting in Boston, where he presented his research on the dynamics of excitable tree networks. ([ohio-forum.com](https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai))\n\nHe has also contributed to discussions on the experiences of international students in the United States, sharing his personal challenges and perspectives in a column titled \"Standing up to fear\" published in *Science* magazine. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nAdditionally, Khaledi Nasab has authored several publications on the collective dynamics of excitable tree networks and the role of synaptic plasticity in brain development. His work has been featured in various academic journals and platforms, reflecting his ongoing contributions to the field. ([researchgate.net](https://www.researchgate.net/figure/The-classifications-of-neurons-based-on-the-branches-that-originate-from-the-cell-body_fig1_334373044?utm_source=openai), [researchgate.net](https://www.researchgate.net/figure/Schematic-representation-of-neuroplasticity-at-different-levels-A-Synaptic-plasticity_fig1_365439270?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "3723e92efc1056538fcaae0d191c955d360f880acbca75645130c4d774ff91ed",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 384,
+          "end": 518
+        },
+        {
+          "url": "https://www.ohio-forum.com/2019/05/khaledi-nasab-receives-aps-travel-award-to-attend-conference/?utm_source=openai",
+          "title": "Khaledi Nasab Receives APS Travel Award to Attend Conference - Ohio University | College of Arts & Sciences",
+          "start": 785,
+          "end": 919
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian professional registry databases for technology or AI professional credentials",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T01:30:13.613108",
+      "data": "Ali Khaledi Nasab is an Iranian physicist and AI scientist currently working at Amazon Rufus. He earned his Ph.D. in physics from Ohio University, where he conducted research on the collective dynamics of excitable tree networks. After completing his Ph.D., he joined Stanford University's Department of Neurosurgery, focusing on stimulation methods for treating neurological disorders. In 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup, before joining Amazon in 2022 as a research scientist in the AWS network capacity team. In 2024, he became an adjunct professor of physics at Ohio University. His research interests encompass nonlinear dynamics, stochastic processes, signal processing, statistics, biophysics, and network sciences. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "dd17a510aa68047b82f4b2001a529bebfc1e565b08c2b5b444a47dab36a11863",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 760,
+          "end": 825
+        }
+      ]
+    }
+  },
+  "retrieval_model": "gpt-4o-mini-search-preview",
+  "synthesis_model": "gemini-2.0-flash"
+}
