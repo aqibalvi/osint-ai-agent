@@ -40,8 +40,8 @@ Respond ONLY with a JSON array of strings:
 
     response = client.messages.create(
         model="claude-3-5-haiku-20241022",
-        max_tokens=200,
-        temperature=0.5,
+        max_tokens=1000,
+        temperature=0.2,
         messages=[{"role": "user", "content": prompt}]
     )
     raw = response.content[0].text.strip().strip("```json").strip("```")
