@@ -1,0 +1,1751 @@
+{
+  "query": "Investigate Ali Khaledi Nasab AI Researcher from Iran, working at Amazon",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Ali Khaledi Nasab",
+    "keywords": [
+      "AI Research",
+      "Machine Learning",
+      "Amazon"
+    ],
+    "affiliation": "Amazon",
+    "location": "Iran",
+    "nationality": "Iranian"
+  },
+  "tasks": [
+    "Search LinkedIn for current role and professional details of Ali Khaledi Nasab at Amazon",
+    "Check Iranian academic publication databases for research papers by Ali Khaledi Nasab in AI and Machine Learning",
+    "Search Iranian news archives and tech publications for mentions of Ali Khaledi Nasab's professional work",
+    "Investigate Google Scholar and ResearchGate for academic citations and research contributions",
+    "Search Iranian professional networking sites like Jobinja for additional career information",
+    "Check Amazon.com and Amazon Web Services (AWS) official websites for professional profile or publications",
+    "Search Iranian university alumni databases for educational background and institutional affiliations",
+    "Review international conference proceedings in AI/Machine Learning for potential presentation or speaking engagements"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role and professional details of Ali Khaledi Nasab at Amazon",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.049415",
+      "data": "Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon Rufus. Originally from Iran, he moved to the United States in 2014 to pursue his Ph.D. After completing his doctorate, he joined Stanford University's Department of Neurosurgery, focusing on developing stimulation methods for treating neurological disorders. In 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup targeting epilepsy treatments. Following the company's closure in 2022 due to funding challenges, he joined Amazon as a research scientist in the AWS network capacity team. In 2024, he moved to Amazon Rufus to work on a new generative AI product. Throughout his career, Khaledi Nasab has published research on topics such as the dynamics of excitable tree networks and the depolarization of echo chambers in social networks. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai), [export.arxiv.org](https://export.arxiv.org/abs/2101.04079?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "388922886bb8bcd32c61c623a2a474b520e5257797d5f564227310b2e6434f67",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 835,
+          "end": 979
+        },
+        {
+          "url": "https://export.arxiv.org/abs/2101.04079?utm_source=openai",
+          "title": "[2101.04079] Depolarization of echo chambers by random dynamical nudge",
+          "start": 835,
+          "end": 979
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Iranian academic publication databases for research papers by Ali Khaledi Nasab in AI and Machine Learning",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.336083",
+      "data": "Ali Khaledi-Nasab is a researcher affiliated with Amazon, specializing in machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) His work has been cited in various scientific publications, including studies on the synthesis of ZnO nanoparticles using potato extract and the optical properties of InAs/GaAs quantum dots.\n\nIn the Iranian academic context, there is a researcher named Ali Arabalizadeh Mahabadi who has contributed to the application of artificial intelligence in civil engineering. He co-authored a paper titled \"Presenting an analytical framework for the application of artificial intelligence in the design of two-shell facades,\" presented at the 6th National Conference on Applied Research in Civil Engineering, Architecture, and Urban Management in Tehran. ([academia.edu](https://www.academia.edu/127404113/Effectiveness_of_using_artificial_intelligence_in_building_energy_sustainability_Investigation_the_application_of_AI_in_the_energy_sustainability_of_IPMI_building_using_dynamic_systems_development_method?utm_source=openai))\n\nAdditionally, a study titled \"Effectiveness of using artificial intelligence in building energy sustainability: Investigation of the application of AI in the energy sustainability of IPMI building using dynamic systems development method\" was published in the journal *Perspectives on Urban and Rural Studies*. This research explores the integration of AI in enhancing building energy sustainability. ([academia.edu](https://www.academia.edu/127404113/Effectiveness_of_using_artificial_intelligence_in_building_energy_sustainability_Investigation_the_application_of_AI_in_the_energy_sustainability_of_IPMI_building_using_dynamic_systems_development_method?utm_source=openai))\n\nWhile these studies are relevant to the application of AI in civil engineering and building energy sustainability, they do not appear to be authored by Ali Khaledi-Nasab. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "87884c510791ab7584ab2ab1d711765ebcdbf34644cf40207d7a077579d1756a",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 179,
+          "end": 275
+        },
+        {
+          "url": "https://www.academia.edu/127404113/Effectiveness_of_using_artificial_intelligence_in_building_energy_sustainability_Investigation_the_application_of_AI_in_the_energy_sustainability_of_IPMI_building_using_dynamic_systems_development_method?utm_source=openai",
+          "title": "(PDF) Effectiveness of using artificial intelligence in building energy sustainability ''Investigation the application of AI in the energy sustainability of IPMI building using dynamic systems development method'",
+          "start": 922,
+          "end": 1196
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian news archives and tech publications for mentions of Ali Khaledi Nasab's professional work",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.081725",
+      "data": "Ali Khaledi Nasab is a researcher with a diverse academic background, contributing to various fields such as physics, nanotechnology, and computational neuroscience. His work encompasses topics like the synthesis of nanoparticles, optical properties of quantum dots, and the dynamics of excitable networks. He has been affiliated with institutions like Ohio University and has a profile on Google Scholar detailing his publications. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "0dd174107f9086e1c99714821cdd148fe1f0e7c61d76337a09b43513a59141dd",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 433,
+          "end": 529
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Investigate Google Scholar and ResearchGate for academic citations and research contributions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.534526",
+      "data": "Ali Khaledi Nasab is a researcher with contributions in physics, neuroscience, and computational modeling. His work encompasses areas such as collective dynamics in excitable networks, synaptic plasticity, and the development of therapeutic brain stimulation strategies.\n\nIn his doctoral research at Ohio University, Khaledi Nasab investigated the collective dynamics of diffusively coupled excitable elements in small tree networks, modeling sensory neurons with branched myelinated dendrites. This work aimed to understand how these networks process stimuli and detect signals. ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai))\n\nHe has also co-authored a chapter titled \"Synaptic plasticity during brain development: Implications for therapeutic reorganization of neural circuits,\" which reviews the dynamical aspects of activity-dependent synaptic plasticity and its functional implications in the reorganization of neural and synaptic interactions. ([researchgate.net](https://www.researchgate.net/figure/Spike-timing-dependent-plasticity-Synaptic-weight-increment-vs-spike-timing-difference_fig1_363230817?utm_source=openai))\n\nAdditionally, Khaledi Nasab has been involved in research on depolarization of echo chambers by random dynamical nudge, published in *Scientific Reports* in 2022. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nHis academic profile indicates a focus on machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "97512d60059fd94fd13ab64719edd74c34b528995930a8568440b72ae57be842",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai",
+          "title": "Ali Khaledi Archives - Ohio University | College of Arts & Sciences — Ohio University | College of Arts & Sciences",
+          "start": 580,
+          "end": 664
+        },
+        {
+          "url": "https://www.researchgate.net/figure/Spike-timing-dependent-plasticity-Synaptic-weight-increment-vs-spike-timing-difference_fig1_363230817?utm_source=openai",
+          "title": "Spike-timing-dependent plasticity. Synaptic weight increment vs. spike... | Download Scientific Diagram",
+          "start": 988,
+          "end": 1165
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian professional networking sites like Jobinja for additional career information",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:29.617419",
+      "data": "Ali Khaledi Nasab is a physicist and researcher with a diverse academic and professional background. He completed his Ph.D. in physics and astronomy at Ohio University in Athens, where he focused on the collective dynamics of strongly coupled excitable elements in small random tree networks. His research has been published in journals such as the American Physical Society and Frontiers in Physiology. ([stanford.academia.edu](https://stanford.academia.edu/AliKhalediNasab?swp=tc-au-6993172&utm_source=openai))\n\nIn 2017, during his doctoral studies, Khaledi Nasab authored an article titled \"Standing up to fear,\" which discussed the challenges faced by international students in the United States amid political changes. This piece was published in the journal Science and highlighted the impact of the Trump administration's travel ban on the academic community. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nAfter completing his Ph.D., Khaledi Nasab held a postdoctoral position in the Neurosurgery department at Stanford University. His work there involved research in the field of neuroscience, contributing to the understanding of neurological disorders. ([stanford.academia.edu](https://stanford.academia.edu/AliKhalediNasab?swp=tc-au-6993172&utm_source=openai))\n\nCurrently, he is a senior researcher at Amazon in Seattle, United States, and also serves as a researcher at the Ronin Institute in Essex County, United States. ([loop.frontiersin.org](https://loop.frontiersin.org/people/1085546/bio?utm_source=openai))\n\nIn addition to his professional roles, Khaledi Nasab has shared insights on career development through his Medium blog, where he discusses topics such as successful job interviews and personal growth. ([ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source=openai))\n\nWhile his profiles on Iranian professional networking sites like Jobinja and Karboom are not available, his extensive academic publications and professional experience reflect a strong and diverse career trajectory. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b5e898ce43d07289f3b9bdc9c129c7eec4eff21f17fe64cbbef1b120df3e3c4d",
+      "citations": [
+        {
+          "url": "https://stanford.academia.edu/AliKhalediNasab?swp=tc-au-6993172&utm_source=openai",
+          "title": "Ali Khaledi Nasab | Stanford University - Academia.edu",
+          "start": 404,
+          "end": 512
+        },
+        {
+          "url": "https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai",
+          "title": "(PDF) Standing up to fear | Ali Khaledi Nasab - Academia.edu",
+          "start": 867,
+          "end": 956
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Check Amazon.com and Amazon Web Services (AWS) official websites for professional profile or publications",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:29.761281",
+      "data": "Ali Khaledi, Ph.D., is a physicist and AI scientist currently working at Amazon Rufus. Originally from Iran, he moved to the U.S. in 2014 to pursue his Ph.D. After completing his doctorate, he joined the Stanford University School of Medicine's Department of Neurosurgery for a research position. He later worked at CODA Biotherapeutics, a gene therapy startup focused on developing treatments for epilepsy. In October 2022, he joined Amazon Web Services (AWS) as a research scientist in the Network Capacity Planning organization. In 2024, he transitioned to Amazon Rufus to work on their latest Generative AI product. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai))\n\nDr. Khaledi's research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. He has authored several publications, such as \"Depolarization of echo chambers by random dynamical nudge\" and \"Long-Lasting Desynchronization of Plastic Neural Networks by Random Reset Stimulation.\" ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nIn addition to his professional work, Dr. Khaledi is passionate about continuous learning and dedicates time daily to reading and taking courses. He also serves as an adjunct professor of Physics at Ohio University. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "47d15988c407289e51eb30f287aebe2afb5b58690a8eb5895414aa0ab0939db2",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 620,
+          "end": 685
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 1032,
+          "end": 1128
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian university alumni databases for educational background and institutional affiliations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:29.100791",
+      "data": "Ali Khaledi Nasab is an Iranian physicist and researcher with a diverse academic and professional background. He completed his doctoral studies in physics and astronomy at Ohio University in Athens, Ohio, USA. During his time there, he authored an article titled \"Standing up to fear,\" published in *Science* magazine in April 2017, which discusses the challenges faced by international students in the U.S. during the Trump administration's first travel ban. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nAfter completing his Ph.D., Khaledi Nasab joined Amazon Web Services (AWS) as a machine learning engineer. His professional interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. He has contributed to several publications in these fields, as indicated by his Google Scholar profile. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nPrior to his studies in the United States, Khaledi Nasab was affiliated with the University of Tabriz in Iran, where he was involved in research and publications. His contributions to the university's research output are highlighted on his Exaly profile, which lists 23 papers, 426 citations, and an h-index of 10. ([exaly.com](https://exaly.com/author/5034433/ali-khaledi-nasab?utm_source=openai))\n\nIn summary, Ali Khaledi Nasab's educational journey spans institutions in both Iran and the United States, reflecting a commitment to advancing knowledge in physics and related fields. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "a1dc077795e841028ebdb6a1cfc004c5ba3f5dee3aacbbfff97230c9340d455c",
+      "citations": [
+        {
+          "url": "https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai",
+          "title": "(PDF) Standing up to fear | Ali Khaledi Nasab - Academia.edu",
+          "start": 460,
+          "end": 549
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 902,
+          "end": 998
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Review international conference proceedings in AI/Machine Learning for potential presentation or speaking engagements",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:27.867484",
+      "data": "Ali Khaledi-Nasab has contributed to several international conferences in the fields of artificial intelligence and machine learning. Notably:\n\n- **Proceedings of the 36th Canadian Conference on Artificial Intelligence (AI 2023):** A paper titled \"IsoGloVe: A New Count-based Graph Embedding Method based on Geodesic Distance\" was co-authored by Alireza Khanteymoori, Leila Safari, and Ali Khaledi-Nasab. ([caiac.pubpub.org](https://caiac.pubpub.org/ai2023?utm_source=openai))\n\n- **National Conference on Artificial Intelligence and its Applications (NCAIA 2023):** Ali Khaledi-Nasab co-authored a paper titled \"Orchestration of POIs ubiquitous contexts: a review of recommendation systems based on matrix factorization model.\" ([academia.edu](https://www.academia.edu/127999364/National_Conference_on_Artificial_Intelligence_and_its_Applications?utm_source=openai))\n\nThese contributions highlight his active involvement in advancing AI and machine learning research. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "c59789c28cb898fd860cbb018ef2015c2feb6ae23b4a8d15f859362aa872bed8",
+      "citations": [
+        {
+          "url": "https://caiac.pubpub.org/ai2023?utm_source=openai",
+          "title": "Proceedings of the 36th Canadian Conference on Artificial Intelligence · Proceedings of the Canadian Conference on Artificial Intelligence",
+          "start": 405,
+          "end": 476
+        },
+        {
+          "url": "https://www.academia.edu/127999364/National_Conference_on_Artificial_Intelligence_and_its_Applications?utm_source=openai",
+          "title": "(PDF) National Conference on Artificial Intelligence and its Applications",
+          "start": 728,
+          "end": 866
+        }
+      ]
+    }
+  },
+  "report": "## OSINT Intelligence Report: Ali Khaledi Nasab\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\nAli Khaledi Nasab is an Iranian-born physicist and AI scientist currently working at Amazon Rufus. He has a diverse academic background spanning physics, nanotechnology, and computational neuroscience, with research contributions in areas like machine learning, excitable networks, and brain stimulation. His current role at Amazon and prior work at Stanford suggest a focus on cutting-edge AI applications.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n*   Currently works at Amazon Rufus as a physicist and AI scientist.\n*   Previously worked at Stanford University's Department of Neurosurgery, focusing on developing brain stimulation methods.\n\n**2. Financial / Corporate Ties**\n*   Employed by Amazon.\n\n**3. Legal / Regulatory Issues**\n*   No information available.\n\n**4. Academic / Public Presence**\n*   Ph.D. in physics and astronomy from Ohio University in Athens.\n*   Research interests include machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics.\n*   Publications and research contributions in areas such as nanoparticles, quantum dots, excitable networks, and synaptic plasticity.\n\n**5. Online / Social Media**\n*   Academia.edu profile at Stanford University.\n*   Google Scholar profile.\n\n**6. Additional Observations**\n*   Originally from Iran, moved to the United States in 2014.\n*   Research spans multiple disciplines, including physics, nanotechnology, neuroscience, and AI.\n\n### Risk Score\nLow. Ali Khaledi Nasab appears to be a researcher and scientist with a strong academic background and professional affiliations with reputable organizations. There is no information suggesting any legal or ethical concerns.\n",
+  "judgement": {
+    "credibility_score": "8",
+    "flagged_issues": [
+      "Report claims Ph.D. from Ohio University but doesn't specify completion date",
+      "Missing citation for Amazon Rufus employment claim",
+      "No evidence provided for 'physicist and AI scientist' title at Amazon",
+      "Conflicting information about current role - report says Amazon Rufus but evidence also mentions AWS network capacity team",
+      "Report doesn't mention CODA Biotherapeutics role found in evidence",
+      "Report doesn't include his role at Ronin Institute mentioned in evidence",
+      "Missing important publications and conference contributions found in evidence"
+    ],
+    "risk_assessment": {
+      "risk_score": "2",
+      "verdict": "LOW",
+      "risk_signals": [
+        "Iranian national working in sensitive AI/ML roles at major US tech company (Amazon) - potential technology transfer concerns but no evidence of misconduct",
+        "Transition from neuroscience/brain stimulation research to AI at Amazon could indicate access to sensitive neural network technologies",
+        "No legal issues or ethical concerns identified",
+        "Strong academic credentials and legitimate research publications reduce risk profile"
+      ]
+    },
+    "revised_report": "## OSINT Intelligence Report: Ali Khaledi Nasab\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\nAli Khaledi Nasab is an Iranian-born physicist and AI researcher currently employed at Amazon. He completed his Ph.D. in physics and astronomy at Ohio University, focusing on excitable networks and computational neuroscience. His career trajectory includes positions at Stanford University's Department of Neurosurgery, CODA Biotherapeutics (gene therapy startup), and multiple roles at Amazon including AWS network capacity team and Amazon Rufus¹. His research spans machine learning, artificial intelligence, computational neuroscience, and nonlinear dynamics.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n* **Current:** Research Scientist at Amazon (joined 2022)¹\n  - Initially joined AWS network capacity team (2022)\n  - Transitioned to Amazon Rufus team (2024) working on generative AI products¹\n* **Previous Positions:**\n  - Senior Researcher at Ronin Institute, Essex County⁵\n  - CODA Biotherapeutics (2021-2022) - gene therapy startup for epilepsy treatments¹\n  - Postdoctoral position at Stanford University Department of Neurosurgery (post-Ph.D. to 2021)¹⁵\n* **Academic:** Ph.D. in Physics and Astronomy from Ohio University, Athens³⁴⁵\n\n**2. Financial / Corporate Ties**\n* Amazon (2022-present)\n* CODA Biotherapeutics (2021-2022) - company closed due to funding challenges¹\n* Ronin Institute affiliation⁵\n\n**3. Legal / Regulatory Issues**\n* No legal or regulatory issues identified\n\n**4. Academic / Public Presence**\n* **Research Interests:** Machine learning, AI, networks, computational neuroscience, nonlinear dynamics²³⁴\n* **Notable Publications:**\n  - \"Depolarization of echo chambers by random dynamical nudge\" - Scientific Reports (2022)¹⁴\n  - \"Synaptic plasticity during brain development: Implications for therapeutic reorganization of neural circuits\"⁴\n  - \"Standing up to fear\" - Science journal (2017) discussing international student challenges⁵\n* **Conference Contributions:**\n  - \"IsoGloVe: A New Count-based Graph Embedding Method based on Geodesic Distance\" - 36th Canadian Conference on AI (2023)⁸\n  - \"Orchestration of POIs ubiquitous contexts\" - National Conference on AI Applications (2023)⁸\n* **Research Topics:** Synthesis of ZnO nanoparticles, optical properties of InAs/GaAs quantum dots, dynamics of excitable tree networks²³⁴\n\n**5. Online / Social Media**\n* Google Scholar profile (user ID: Ash32BAAAAAJ)²³⁴\n* Academia.edu profile at Stanford University⁵\n* Personal website: alikhaledi.com¹\n* Medium blog discussing career development⁵\n\n**6. Additional Observations**\n* Moved from Iran to United States in 2014 to pursue Ph.D.¹\n* Authored advocacy piece on international student challenges during Trump administration travel ban (2017)⁵\n* Multidisciplinary background spanning physics, nanotechnology, neuroscience, and AI\n* Career progression from academic neuroscience research to industry AI applications\n\n### Risk Assessment\n**Risk Score:** 2/10 (LOW)\n\nAli Khaledi Nasab presents a low risk profile. He is a legitimate researcher with strong academic credentials and a transparent career progression through reputable institutions. While his Iranian origin and work in sensitive AI/neural network technologies at a major US tech company could theoretically raise technology transfer concerns, there is no evidence of any improper conduct or security issues. His public advocacy for international students and open research publications suggest transparency and integration into the US academic/tech community.\n\n---\n**Citations:**\n¹ alikhaledi.com\n² scholar.google.com/citations?user=Ash32BAAAAAJ\n³ ohio-forum.com/topics/ali-khaledi\n⁴ Various academic publications via Google Scholar\n⁵ stanford.academia.edu/AliKhalediNasab\n⁸ Conference proceedings (AI 2023, NCAIA 2023)"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "Ali Khaledi Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "AI",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon",
+        "label": "entity"
+      },
+      {
+        "id": "Iran",
+        "label": "entity"
+      },
+      {
+        "id": "the United States",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon Rufus",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University's Department of Neurosurgery",
+        "label": "entity"
+      },
+      {
+        "id": "CODA Biotherapeutics",
+        "label": "entity"
+      },
+      {
+        "id": "AWS",
+        "label": "entity"
+      },
+      {
+        "id": "Khaledi Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Khaledi-Nasab",
+        "label": "entity"
+      },
+      {
+        "id": "Tehran",
+        "label": "entity"
+      },
+      {
+        "id": "ZnO",
+        "label": "entity"
+      },
+      {
+        "id": "Ali Arabalizadeh Mahabadi",
+        "label": "entity"
+      },
+      {
+        "id": "Urban Management",
+        "label": "entity"
+      },
+      {
+        "id": "the 6th National Conference on Applied Research",
+        "label": "entity"
+      },
+      {
+        "id": "InAs/GaAs",
+        "label": "entity"
+      },
+      {
+        "id": "Ohio University",
+        "label": "entity"
+      },
+      {
+        "id": "Google Scholar",
+        "label": "entity"
+      },
+      {
+        "id": "ohio",
+        "label": "entity"
+      },
+      {
+        "id": "Seattle",
+        "label": "entity"
+      },
+      {
+        "id": "Athens",
+        "label": "entity"
+      },
+      {
+        "id": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "label": "entity"
+      },
+      {
+        "id": "Jobinja and Karboom",
+        "label": "entity"
+      },
+      {
+        "id": "the American Physical Society",
+        "label": "entity"
+      },
+      {
+        "id": "United States",
+        "label": "entity"
+      },
+      {
+        "id": "Trump",
+        "label": "entity"
+      },
+      {
+        "id": "the Ronin Institute",
+        "label": "entity"
+      },
+      {
+        "id": "Stanford University",
+        "label": "entity"
+      },
+      {
+        "id": "Essex County",
+        "label": "entity"
+      },
+      {
+        "id": "the 36th Canadian Conference on Artificial Intelligence",
+        "label": "entity"
+      },
+      {
+        "id": "Graph Embedding Method",
+        "label": "entity"
+      },
+      {
+        "id": "Leila Safari",
+        "label": "entity"
+      },
+      {
+        "id": "Alireza Khanteymoori",
+        "label": "entity"
+      },
+      {
+        "id": "Applications",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Amazon",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the United States",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Khaledi Nasab",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Ohio University",
+        "weight": 2.7,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "ohio",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Seattle",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Athens",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi Nasab",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 1.8,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "Tehran",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "Ali Arabalizadeh Mahabadi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "Urban Management",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "AI",
+        "target": "the 36th Canadian Conference on Artificial Intelligence",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "AI",
+        "target": "Graph Embedding Method",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "AI",
+        "target": "Leila Safari",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "AI",
+        "target": "Alireza Khanteymoori",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "AI",
+        "target": "Applications",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Amazon",
+        "target": "Iran",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "the United States",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Khaledi-Nasab",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Tehran",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ali Arabalizadeh Mahabadi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Urban Management",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Amazon",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "Seattle",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "Athens",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Iran",
+        "target": "the United States",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Iran",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Iran",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Iran",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Iran",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Iran",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "Amazon Rufus",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "Khaledi Nasab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the United States",
+        "target": "Ohio University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Seattle",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Athens",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the United States",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Stanford University's Department of Neurosurgery",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Amazon Rufus",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "CODA Biotherapeutics",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Stanford University's Department of Neurosurgery",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "AWS",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CODA Biotherapeutics",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AWS",
+        "target": "Khaledi Nasab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Ohio University",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "ohio",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Seattle",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Athens",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khaledi Nasab",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Tehran",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Ali Arabalizadeh Mahabadi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Urban Management",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "the 36th Canadian Conference on Artificial Intelligence",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Graph Embedding Method",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Leila Safari",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Alireza Khanteymoori",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ali Khaledi-Nasab",
+        "target": "Applications",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Tehran",
+        "target": "ZnO",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Tehran",
+        "target": "Ali Arabalizadeh Mahabadi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Tehran",
+        "target": "Urban Management",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Tehran",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Tehran",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "Ali Arabalizadeh Mahabadi",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "Urban Management",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "ZnO",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Arabalizadeh Mahabadi",
+        "target": "Urban Management",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Arabalizadeh Mahabadi",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ali Arabalizadeh Mahabadi",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Urban Management",
+        "target": "the 6th National Conference on Applied Research",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Urban Management",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "the 6th National Conference on Applied Research",
+        "target": "InAs/GaAs",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ohio University",
+        "target": "ohio",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Seattle",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Athens",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Ohio University",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "Athens",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Seattle",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Athens",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "Jobinja and Karboom",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Jobinja and Karboom",
+        "target": "the American Physical Society",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Jobinja and Karboom",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Jobinja and Karboom",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Jobinja and Karboom",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Jobinja and Karboom",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Jobinja and Karboom",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "United States",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the American Physical Society",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "United States",
+        "target": "Trump",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "United States",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "United States",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "United States",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Trump",
+        "target": "the Ronin Institute",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Trump",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Trump",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Ronin Institute",
+        "target": "Stanford University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Ronin Institute",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Stanford University",
+        "target": "Essex County",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the 36th Canadian Conference on Artificial Intelligence",
+        "target": "Graph Embedding Method",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the 36th Canadian Conference on Artificial Intelligence",
+        "target": "Leila Safari",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the 36th Canadian Conference on Artificial Intelligence",
+        "target": "Alireza Khanteymoori",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the 36th Canadian Conference on Artificial Intelligence",
+        "target": "Applications",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Graph Embedding Method",
+        "target": "Leila Safari",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Graph Embedding Method",
+        "target": "Alireza Khanteymoori",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Graph Embedding Method",
+        "target": "Applications",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Leila Safari",
+        "target": "Alireza Khanteymoori",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Leila Safari",
+        "target": "Applications",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Alireza Khanteymoori",
+        "target": "Applications",
+        "weight": 0.9,
+        "task": "task_8"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role and professional details of Ali Khaledi Nasab at Amazon",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.049415",
+      "data": "Ali Khaledi Nasab is a physicist and AI scientist currently working at Amazon Rufus. Originally from Iran, he moved to the United States in 2014 to pursue his Ph.D. After completing his doctorate, he joined Stanford University's Department of Neurosurgery, focusing on developing stimulation methods for treating neurological disorders. In 2021, he transitioned to CODA Biotherapeutics, a gene therapy startup targeting epilepsy treatments. Following the company's closure in 2022 due to funding challenges, he joined Amazon as a research scientist in the AWS network capacity team. In 2024, he moved to Amazon Rufus to work on a new generative AI product. Throughout his career, Khaledi Nasab has published research on topics such as the dynamics of excitable tree networks and the depolarization of echo chambers in social networks. ([alikhaledi.com](https://www.alikhaledi.com/?utm_source=openai), [export.arxiv.org](https://export.arxiv.org/abs/2101.04079?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "388922886bb8bcd32c61c623a2a474b520e5257797d5f564227310b2e6434f67",
+      "citations": [
+        {
+          "url": "https://www.alikhaledi.com/?utm_source=openai",
+          "title": "Ali Khaledi, Ph. D.",
+          "start": 835,
+          "end": 979
+        },
+        {
+          "url": "https://export.arxiv.org/abs/2101.04079?utm_source=openai",
+          "title": "[2101.04079] Depolarization of echo chambers by random dynamical nudge",
+          "start": 835,
+          "end": 979
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Iranian academic publication databases for research papers by Ali Khaledi Nasab in AI and Machine Learning",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.336083",
+      "data": "Ali Khaledi-Nasab is a researcher affiliated with Amazon, specializing in machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) His work has been cited in various scientific publications, including studies on the synthesis of ZnO nanoparticles using potato extract and the optical properties of InAs/GaAs quantum dots.\n\nIn the Iranian academic context, there is a researcher named Ali Arabalizadeh Mahabadi who has contributed to the application of artificial intelligence in civil engineering. He co-authored a paper titled \"Presenting an analytical framework for the application of artificial intelligence in the design of two-shell facades,\" presented at the 6th National Conference on Applied Research in Civil Engineering, Architecture, and Urban Management in Tehran. ([academia.edu](https://www.academia.edu/127404113/Effectiveness_of_using_artificial_intelligence_in_building_energy_sustainability_Investigation_the_application_of_AI_in_the_energy_sustainability_of_IPMI_building_using_dynamic_systems_development_method?utm_source=openai))\n\nAdditionally, a study titled \"Effectiveness of using artificial intelligence in building energy sustainability: Investigation of the application of AI in the energy sustainability of IPMI building using dynamic systems development method\" was published in the journal *Perspectives on Urban and Rural Studies*. This research explores the integration of AI in enhancing building energy sustainability. ([academia.edu](https://www.academia.edu/127404113/Effectiveness_of_using_artificial_intelligence_in_building_energy_sustainability_Investigation_the_application_of_AI_in_the_energy_sustainability_of_IPMI_building_using_dynamic_systems_development_method?utm_source=openai))\n\nWhile these studies are relevant to the application of AI in civil engineering and building energy sustainability, they do not appear to be authored by Ali Khaledi-Nasab. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "87884c510791ab7584ab2ab1d711765ebcdbf34644cf40207d7a077579d1756a",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 179,
+          "end": 275
+        },
+        {
+          "url": "https://www.academia.edu/127404113/Effectiveness_of_using_artificial_intelligence_in_building_energy_sustainability_Investigation_the_application_of_AI_in_the_energy_sustainability_of_IPMI_building_using_dynamic_systems_development_method?utm_source=openai",
+          "title": "(PDF) Effectiveness of using artificial intelligence in building energy sustainability ''Investigation the application of AI in the energy sustainability of IPMI building using dynamic systems development method'",
+          "start": 922,
+          "end": 1196
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian news archives and tech publications for mentions of Ali Khaledi Nasab's professional work",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.081725",
+      "data": "Ali Khaledi Nasab is a researcher with a diverse academic background, contributing to various fields such as physics, nanotechnology, and computational neuroscience. His work encompasses topics like the synthesis of nanoparticles, optical properties of quantum dots, and the dynamics of excitable networks. He has been affiliated with institutions like Ohio University and has a profile on Google Scholar detailing his publications. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "0dd174107f9086e1c99714821cdd148fe1f0e7c61d76337a09b43513a59141dd",
+      "citations": [
+        {
+          "url": "https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai",
+          "title": "‪Ali Khaledi-Nasab‬ - ‪Google Scholar‬",
+          "start": 433,
+          "end": 529
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Investigate Google Scholar and ResearchGate for academic citations and research contributions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:28.534526",
+      "data": "Ali Khaledi Nasab is a researcher with contributions in physics, neuroscience, and computational modeling. His work encompasses areas such as collective dynamics in excitable networks, synaptic plasticity, and the development of therapeutic brain stimulation strategies.\n\nIn his doctoral research at Ohio University, Khaledi Nasab investigated the collective dynamics of diffusively coupled excitable elements in small tree networks, modeling sensory neurons with branched myelinated dendrites. This work aimed to understand how these networks process stimuli and detect signals. ([ohio-forum.com](https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai))\n\nHe has also co-authored a chapter titled \"Synaptic plasticity during brain development: Implications for therapeutic reorganization of neural circuits,\" which reviews the dynamical aspects of activity-dependent synaptic plasticity and its functional implications in the reorganization of neural and synaptic interactions. ([researchgate.net](https://www.researchgate.net/figure/Spike-timing-dependent-plasticity-Synaptic-weight-increment-vs-spike-timing-difference_fig1_363230817?utm_source=openai))\n\nAdditionally, Khaledi Nasab has been involved in research on depolarization of echo chambers by random dynamical nudge, published in *Scientific Reports* in 2022. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai))\n\nHis academic profile indicates a focus on machine learning, artificial intelligence, networks, computational neuroscience, and nonlinear dynamics. ([scholar.google.com](https://scholar.google.com/citations?user=Ash32BAAAAAJ&utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "97512d60059fd94fd13ab64719edd74c34b528995930a8568440b72ae57be842",
+      "citations": [
+        {
+          "url": "https://www.ohio-forum.com/topics/ali-khaledi/?utm_source=openai",
+          "title": "Ali Khaledi Archives - Ohio University | College of Arts & Sciences — Ohio University | College of Arts & Sciences",
+          "start": 580,
+          "end": 664
+        },
+        {
+          "url": "https://www.researchgate.net/figure/Spike-timing-dependent-plasticity-Synaptic-weight-increment-vs-spike-timing-difference_fig1_363230817?utm_source=openai",
+          "title": "Spike-timing-dependent plasticity. Synaptic weight increment vs. spike... | Download Scientific Diagram",
+          "start": 988,
+          "end": 1165
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search Iranian professional networking sites like Jobinja for additional career information",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:29.617419",
+      "data": "Ali Khaledi Nasab is a physicist and researcher with a diverse academic and professional background. He completed his Ph.D. in physics and astronomy at Ohio University in Athens, where he focused on the collective dynamics of strongly coupled excitable elements in small random tree networks. His research has been published in journals such as the American Physical Society and Frontiers in Physiology. ([stanford.academia.edu](https://stanford.academia.edu/AliKhalediNasab?swp=tc-au-6993172&utm_source=openai))\n\nIn 2017, during his doctoral studies, Khaledi Nasab authored an article titled \"Standing up to fear,\" which discussed the challenges faced by international students in the United States amid political changes. This piece was published in the journal Science and highlighted the impact of the Trump administration's travel ban on the academic community. ([academia.edu](https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai))\n\nAfter completing his Ph.D., Khaledi Nasab held a postdoctoral position in the Neurosurgery department at Stanford University. His work there involved research in the field of neuroscience, contributing to the understanding of neurological disorders. ([stanford.academia.edu](https://stanford.academia.edu/AliKhalediNasab?swp=tc-au-6993172&utm_source=openai))\n\nCurrently, he is a senior researcher at Amazon in Seattle, United States, and also serves as a researcher at the Ronin Institute in Essex County, United States. ([loop.frontiersin.org](https://loop.frontiersin.org/people/1085546/bio?utm_source=openai))\n\nIn addition to his professional roles, Khaledi Nasab has shared insights on career development through his Medium blog, where he discusses topics such as successful job interviews and personal growth. ([ali-khaledi1989.medium.com](https://ali-khaledi1989.medium.com/?utm_source=openai))\n\nWhile his profiles on Iranian professional networking sites like Jobinja and Karboom are not available, his extensive academic publications and professional experience reflect a strong and diverse career trajectory. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b5e898ce43d07289f3b9bdc9c129c7eec4eff21f17fe64cbbef1b120df3e3c4d",
+      "citations": [
+        {
+          "url": "https://stanford.academia.edu/AliKhalediNasab?swp=tc-au-6993172&utm_source=openai",
+          "title": "Ali Khaledi Nasab | Stanford University - Academia.edu",
+          "start": 404,
+          "end": 512
+        },
+        {
+          "url": "https://www.academia.edu/32689067/Standing_up_to_fear?utm_source=openai",
+          "title": "(PDF) Standing up to fear | Ali Khaledi Nasab - Academia.edu",
+          "start": 867,
+          "end": 956
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Review international conference proceedings in AI/Machine Learning for potential presentation or speaking engagements",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T16:50:27.867484",
+      "data": "Ali Khaledi-Nasab has contributed to several international conferences in the fields of artificial intelligence and machine learning. Notably:\n\n- **Proceedings of the 36th Canadian Conference on Artificial Intelligence (AI 2023):** A paper titled \"IsoGloVe: A New Count-based Graph Embedding Method based on Geodesic Distance\" was co-authored by Alireza Khanteymoori, Leila Safari, and Ali Khaledi-Nasab. ([caiac.pubpub.org](https://caiac.pubpub.org/ai2023?utm_source=openai))\n\n- **National Conference on Artificial Intelligence and its Applications (NCAIA 2023):** Ali Khaledi-Nasab co-authored a paper titled \"Orchestration of POIs ubiquitous contexts: a review of recommendation systems based on matrix factorization model.\" ([academia.edu](https://www.academia.edu/127999364/National_Conference_on_Artificial_Intelligence_and_its_Applications?utm_source=openai))\n\nThese contributions highlight his active involvement in advancing AI and machine learning research. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "c59789c28cb898fd860cbb018ef2015c2feb6ae23b4a8d15f859362aa872bed8",
+      "citations": [
+        {
+          "url": "https://caiac.pubpub.org/ai2023?utm_source=openai",
+          "title": "Proceedings of the 36th Canadian Conference on Artificial Intelligence · Proceedings of the Canadian Conference on Artificial Intelligence",
+          "start": 405,
+          "end": 476
+        },
+        {
+          "url": "https://www.academia.edu/127999364/National_Conference_on_Artificial_Intelligence_and_its_Applications?utm_source=openai",
+          "title": "(PDF) National Conference on Artificial Intelligence and its Applications",
+          "start": 728,
+          "end": 866
+        }
+      ]
+    }
+  },
+  "retrieval_model": "gpt-4o-mini-search-preview",
+  "synthesis_model": "gemini-2.0-flash"
+}

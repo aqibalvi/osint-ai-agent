@@ -17,7 +17,6 @@ from agent.audit_log import save_osint_state_to_file, load_osint_state_from_file
 
 app = FastAPI()
 
-# ✅ Allow frontend access
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173"],
@@ -29,10 +28,6 @@ app.add_middleware(
 init_db()
 graph = build_graph()
 
-# ================================
-# REQUEST MODELS
-# ================================
-
 class ChatRequest(BaseModel):
     session_id: str
     entity_name: str
@@ -42,10 +37,6 @@ class InvestigationRequest(BaseModel):
     query: str
     retrieval_model: Optional[str] = "gpt-4o-mini-search-preview"
     synthesis_model: Optional[str] = "gemini-2.0-flash"
-
-# ================================
-# OSINT Investigation (Basic)
-# ================================
 
 @app.post("/osint/investigate")
 def investigate(payload: InvestigationRequest):
@@ -80,11 +71,12 @@ def investigate(payload: InvestigationRequest):
         "citations": citation_urls,
         "flagged_issues": final_state["judgement"].get("flagged_issues", []),
         "credibility_score": final_state["judgement"].get("credibility_score"),
+        "risk_assessment": final_state["judgement"].get("risk_assessment", {
+            "risk_score": "N/A",
+            "verdict": "UNKNOWN",
+            "risk_signals": ["Risk assessment missing."]
+        }),
     }
-
-# ================================
-# OSINT Streaming Response
-# ================================
 
 @app.post("/osint/investigate-stream")
 def investigate_stream(payload: InvestigationRequest):
@@ -129,23 +121,20 @@ def investigate_stream(payload: InvestigationRequest):
                 "credibility_score": final_state["judgement"]["credibility_score"],
                 "flagged_issues": final_state["judgement"]["flagged_issues"],
                 "parsed": final_state["parsed"],
-                "citations": citation_urls
+                "citations": citation_urls,
+                "risk_assessment": final_state["judgement"].get("risk_assessment", {
+                    "risk_score": "N/A",
+                    "verdict": "UNKNOWN",
+                    "risk_signals": ["Risk assessment missing."]
+                })
             }
         }) + "\n"
 
     return StreamingResponse(generate(), media_type="text/event-stream")
 
-# ================================
-# Chat History API (existing)
-# ================================
-
 @app.get("/chat/{session_id}")
 def get_history(session_id: str):
     return get_chat_history(session_id)
-
-# ================================
-# ✅ NEW: Audit Log Endpoints
-# ================================
 
 AUDIT_LOG_DIR = Path("output_logs")
 

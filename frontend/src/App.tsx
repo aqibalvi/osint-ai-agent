@@ -10,6 +10,11 @@ interface ReportData {
   flagged_issues: string[];
   parsed: Record<string, string>;
   citations: { title: string; url: string }[];
+  risk_assessment?: {
+    risk_score: number | string;
+    verdict: string;
+    risk_signals: string[];
+  };
 }
 
 function App() {
@@ -109,17 +114,22 @@ function App() {
       const data = await res.json();
 
       const formatted: ReportData = {
-        report: data.report,
-        credibility_score: data.judgement?.credibility_score ?? 0,
-        flagged_issues: data.judgement?.flagged_issues ?? [],
-        parsed: data.parsed,
-        citations: Object.values(data.retrievals || {}).flatMap((task: any) =>
-          (task.citations || []).map((c: any) => ({
-            title: c.title,
-            url: c.url,
-          }))
-        ),
-      };
+  report: data.report,
+  credibility_score: data.judgement?.credibility_score ?? 0,
+  flagged_issues: data.judgement?.flagged_issues ?? [],
+  parsed: data.parsed,
+  citations: Object.values(data.retrievals || {}).flatMap((task: any) =>
+    (task.citations || []).map((c: any) => ({
+      title: c.title,
+      url: c.url,
+    }))
+  ),
+  risk_assessment: data.judgement?.risk_assessment ?? {
+    risk_score: "N/A",
+    verdict: "UNKNOWN",
+    risk_signals: ["No risk assessment found."]
+  }
+};
 
       setReportData(formatted);
       setInputValue(data.query);
@@ -181,14 +191,15 @@ function App() {
         {!reportData && isLoading && <StepLoader log={statusLog} />}
 
         {reportData && (
-          <ReportViewer
-            report={reportData.report}
-            credibilityScore={reportData.credibility_score}
-            flaggedIssues={reportData.flagged_issues}
-            citations={reportData.citations || []}
-            onNewSearch={handleNewSearch}
-          />
-        )}
+  <ReportViewer
+    report={reportData.report}
+    credibilityScore={reportData.credibility_score}
+    flaggedIssues={reportData.flagged_issues}
+    citations={reportData.citations || []}
+    riskAssessment={reportData.risk_assessment}
+    onNewSearch={handleNewSearch}
+  />
+)}
       </div>
     </div>
   );
