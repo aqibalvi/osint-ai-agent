@@ -38,6 +38,22 @@ class InvestigationRequest(BaseModel):
     retrieval_model: Optional[str] = "gpt-4o-mini-search-preview"
     synthesis_model: Optional[str] = "gemini-2.0-flash"
 
+def deduplicate_citations(retrievals: dict) -> list:
+    seen = set()
+    citations = []
+
+    for task in retrievals.values():
+        for c in task.get("citations", []):
+            url = c.get("url", "").strip().lower().rstrip("/")
+            title = c.get("title", "").strip()
+            key = (url, title.lower())  # normalize title for duplicate detection
+
+            if url and key not in seen:
+                seen.add(key)
+                citations.append({"url": url, "title": title or url})  # fallback to url if no title
+
+    return citations
+
 @app.post("/osint/investigate")
 def investigate(payload: InvestigationRequest):
     session_id = str(uuid.uuid4())
@@ -50,16 +66,7 @@ def investigate(payload: InvestigationRequest):
     final_state = graph.invoke(state)
     save_osint_state_to_file(final_state, final_state["parsed"]["entity_name"])
 
-    seen = set()
-    citation_urls = []
-    for task in final_state["retrievals"].values():
-        for c in task.get("citations", []):
-            url = c.get("url", "").strip().lower().rstrip("/")
-            title = c.get("title", "").strip()
-            key = (url, title)
-            if url and key not in seen:
-                seen.add(key)
-                citation_urls.append({"url": url, "title": title})
+    citation_urls = deduplicate_citations(final_state["retrievals"])
 
     return {
         "session_id": session_id,
@@ -104,16 +111,7 @@ def investigate_stream(payload: InvestigationRequest):
         final_state = graph.invoke(state)
         save_osint_state_to_file(final_state, final_state["parsed"]["entity_name"])
 
-        seen = set()
-        citation_urls = []
-        for task in final_state["retrievals"].values():
-            for c in task.get("citations", []):
-                url = c.get("url", "").strip().lower().rstrip("/")
-                title = c.get("title", "").strip()
-                key = (url, title)
-                if url and key not in seen:
-                    seen.add(key)
-                    citation_urls.append({"url": url, "title": title})
+        citation_urls = deduplicate_citations(final_state["retrievals"])
 
         yield json.dumps({
             "final": {

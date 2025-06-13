@@ -1,0 +1,5443 @@
+{
+  "query": "Investigate Muhammad Muntazir Mehdi AI Cloud & Infrastructure expert Microsoft",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Muhammad Muntazir Mehdi",
+    "keywords": [
+      "AI",
+      "Cloud",
+      "Infrastructure",
+      "Technology"
+    ],
+    "affiliation": "Microsoft",
+    "location": null,
+    "nationality": null
+  },
+  "tasks": [
+    "Search LinkedIn for current role and position of Muhammad Muntazir Mehdi at Microsoft",
+    "Investigate professional publications or technical papers by Muhammad Muntazir Mehdi in AI and cloud infrastructure domains",
+    "Search Microsoft corporate website and employee directory for professional profile",
+    "Check academic databases and research repositories for scholarly works or conference presentations",
+    "Review technology conference speaker lists and tech industry event archives for potential presentations",
+    "Search GitHub, Stack Overflow, or technical developer platforms for professional contributions",
+    "Explore technology news sites and industry publications for potential mentions or quotes",
+    "Check professional networking sites like ResearchGate or Google Scholar for academic or research credentials"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role and position of Muhammad Muntazir Mehdi at Microsoft",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:04:59.251026",
+      "data": "Based on the available information, there is no evidence that Muhammad Muntazir Mehdi is currently employed at Microsoft. He has a background in data science, AI, and cloud computing, having worked at Microsoft for over eight years as a Principal Engineering Manager and Principal Development and Data Engineering Lead. During his tenure, he contributed to the simulator and AI platform used by Microsoft Azure and developed commercial and ecosystem platforms for container-based AI. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai)) After leaving Microsoft, he joined Amazon as a Software Development Manager in Media Planning. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "c4f3360b7c1ba7963541c42cdf18e5cc31f21a5b5fdfe5aa08f803b13af39406",
+      "citations": [
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 484,
+          "end": 578
+        },
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 674,
+          "end": 768
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Investigate professional publications or technical papers by Muhammad Muntazir Mehdi in AI and cloud infrastructure domains",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.422813",
+      "data": "Muhammad Muntazir Mehdi is a seasoned professional specializing in data science, artificial intelligence (AI), and cloud computing. He currently serves as a Software Development Manager in Media Planning at Amazon Ads. In this role, he leverages his expertise to enhance media planning strategies through advanced data analytics and AI-driven solutions. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai))\n\nBefore joining Amazon, Mehdi had an extensive tenure at Microsoft, spanning over eight years. During this period, he held positions such as Principal Engineering Manager and Principal Development and Data Engineering Lead. His notable contributions include developing the simulator and AI platform for Microsoft Azure, as well as building commercial and ecosystem platforms for container-based AI. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai))\n\nIn addition to his corporate roles, Mehdi has been involved in entrepreneurial ventures. He served as a Principal Data Scientist at Intralinks and Quanttus, where he played a pivotal role in developing a wearable device designed to monitor blood pressure. His efforts were instrumental in securing seed and Series A funding from prominent venture capital firms, including Khosla Ventures and Sequoia Capital. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai))\n\nMehdi's academic contributions are also noteworthy. He co-authored a paper titled \"A Roadmap for Navigating the Life Sciences Linked Open Data Cloud,\" presented at the Joint International Semantic Technology Conference (JIST) in 2014. This work addresses the challenges and strategies for navigating the complex landscape of life sciences linked open data. ([dblp.org](https://dblp.org/pid/134/9923.html?utm_source=openai))\n\nOverall, Muhammad Muntazir Mehdi's career reflects a strong commitment to advancing AI and cloud infrastructure, both through his professional roles and academic endeavors. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "3dce1d02389f14ba41f865a7235633a4fac545cade2598fd18d93f081fa7c55d",
+      "citations": [
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 354,
+          "end": 448
+        },
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 848,
+          "end": 942
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search Microsoft corporate website and employee directory for professional profile",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:00.513423",
+      "data": "I couldn't locate a professional profile of Muhammad Muntazir Mehdi on Microsoft's corporate website or employee directory. However, available information indicates that he has a significant background in data science, AI, and cloud computing. He worked at Microsoft for over eight years, serving as Principal Engineering Manager and Principal Development and Data Engineering Lead. During his tenure, he contributed to the simulator and AI platform used by Microsoft Azure and played a key role in developing commercial and ecosystem platforms for container-based AI. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai))\n\nAfter his time at Microsoft, Mehdi joined Amazon as a Software Development Manager in Media Planning for Amazon Ads. Additionally, he serves on the Board of Directors for elile.ai. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai))\n\nMehdi has also been involved in research, with publications focusing on Bayesian and machine learning applications. He is currently a Research Scholar at RMIT University in Melbourne, Australia, in the Department of Mathematical Sciences. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-14?utm_source=openai))\n\nIn the field of intellectual property, Mehdi has filed patents related to network optimization and capacity engineering in distributed computing systems. ([patents.justia.com](https://patents.justia.com/inventor/muhammad-muntazir-mehdi?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "a6d573b3ec27e2957ef75983e265b095b1eb9835b4cf8040f2fccba5e0bc0d20",
+      "citations": [
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 569,
+          "end": 663
+        },
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 846,
+          "end": 940
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Check academic databases and research repositories for scholarly works or conference presentations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.009985",
+      "data": "Muhammad Muntazir Mehdi has contributed to several scholarly works across diverse fields. Notable publications include:\n\n1. **Prevalence of Anxiety and Depression among Orthopedic Trauma Inpatients**: This study, co-authored with Waleed Ali, Muhammad Fahim Qasim, Adil Saidullah, Rizwan Farooq, and Abid Munir, was published in the *Pakistan Journal of Medical & Health Sciences*. The research aimed to determine the prevalence of anxiety and depression among orthopedic trauma patients. The study found that these patients often experience emotional disorders, with anxiety and depression levels increasing after surgery. The authors suggest that clinicians should closely monitor geriatric patients for these psychological issues. ([pjmhsonline.com](https://pjmhsonline.com/index.php/pjmhs/article/view/3875?utm_source=openai))\n\n2. **Disparities in Liver Transplantation Rates and Outcomes Among Adults with and Without Mental Illnesses**: Co-authored with Usama Waqar, Selamawit Woldesenbet, Muhammad Musaab Munir, Yutaka Endo, Erryk Katayama, Vivian Resende, Mujtaba Khalil, Karol Rawicz-Pruszyński, and Parit Mavani, this article was published in the *Journal of Gastrointestinal Surgery*. The study examined the rates of evaluation, transplantation, and post-transplant outcomes among patients with and without mental illnesses. The findings revealed that patients with mental illnesses had lower rates of evaluation and transplantation but did not experience significant differences in postoperative outcomes compared to those without mental illnesses. ([ecommons.aku.edu](https://ecommons.aku.edu/pakistan_fhs_mc_mc/378/?utm_source=openai))\n\n3. **Variations in Medicare Reimbursements Among Surgical Oncologists Who Are US Versus International Medical Graduates**: In this research, co-authored with Abdullah Altaf, Mujtaba Khalil, Sidharth Iyer, Razeen Thamachack, Zayed Rashid, Timothy M. Pawlik, and Abdul Hadi Shahid, the authors analyzed variations in practice metrics and billing practices among US Medical Graduates (USMGs) and International Medical Graduates (IMGs) in surgical oncology. The study found that IMGs provided more procedural services, cared for patients with higher average risk scores, and performed a greater variety of procedures compared to USMGs. Consequently, IMGs had higher mean annual charges, payment-per-service, and charge-per-service amounts. ([ecommons.aku.edu](https://ecommons.aku.edu/pakistan_fhs_mc_mc/496/?utm_source=openai))\n\nAdditionally, Muhammad Muntazir Mehdi has been involved in patent development, including a method and apparatus for optimizing legacy network infrastructure and capacity engineering in distributed computing systems. ([patents.justia.com](https://patents.justia.com/inventor/muhammad-muntazir-mehdi?utm_source=openai))\n\nFurthermore, he has a research profile at RMIT University in Melbourne, Australia, focusing on the applications of clustering across various domains, including Bayesian and machine learning. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-14?utm_source=openai))\n\nThese contributions highlight his diverse expertise in medical research, network optimization, and statistical analysis. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b4af21e761ec6790f2a93ff44de5aa60c7c0b4cf8512030bb5126f47afd31ba9",
+      "citations": [
+        {
+          "url": "https://pjmhsonline.com/index.php/pjmhs/article/view/3875?utm_source=openai",
+          "title": "Prevalence of Anxiety and Depression among Orthopedic Trauma Inpatients | Pakistan Journal of Medical & Health Sciences",
+          "start": 733,
+          "end": 829
+        },
+        {
+          "url": "https://ecommons.aku.edu/pakistan_fhs_mc_mc/378/?utm_source=openai",
+          "title": "\"Disparities in liver transplantation rates and outcomes among adults w\" by Usama Waqar, Muhammad Muntazir Mehdi Khan et al.",
+          "start": 1560,
+          "end": 1648
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Review technology conference speaker lists and tech industry event archives for potential presentations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.424574",
+      "data": "Dr. Muntazir Hussain has been actively involved in various academic and professional events, contributing significantly to the fields of engineering and technology. Notably, he served as a member of the Local Organizing Team for the RTIP2R 2023 conference at the University of Derby, UK, alongside colleagues Yagna Jadeja and Nahid Sami. ([rtip2r-conference.org](https://rtip2r-conference.org/2023/committees.html?utm_source=openai))\n\nAdditionally, Dr. Hussain has been a keynote speaker at the 4th International Conference on Communication Technologies (ComTech 2023), held from March 15 to March 16, 2023. ([scme.nust.edu.pk](https://scme.nust.edu.pk/faculty/abdul-qadeer-malik/NA/ww.ssuet.edu.pk/Risk-Taking%20Behaviour%20of%20Pedestrians%20on%20National%20Highways%20of%20Pakistan/doi.org/10.1007/978-3-031-61582-5_7/?utm_source=openai))\n\nHis extensive research contributions are highlighted in his curriculum vitae, which details numerous publications in reputable journals and conferences, reflecting his expertise and active participation in the academic community. ([sites.google.com](https://sites.google.com/view/engr-dr-muntazir-hussain/curriculum-vitae?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "cef7bcba91b99fd6c8238c03a1e004dcc92cb19171e5bb609b70f12c8ad34606",
+      "citations": [
+        {
+          "url": "https://rtip2r-conference.org/2023/committees.html?utm_source=openai",
+          "title": "Committee (RTIP2R 2023)",
+          "start": 338,
+          "end": 433
+        },
+        {
+          "url": "https://scme.nust.edu.pk/faculty/abdul-qadeer-malik/NA/ww.ssuet.edu.pk/Risk-Taking%20Behaviour%20of%20Pedestrians%20on%20National%20Highways%20of%20Pakistan/doi.org/10.1007/978-3-031-61582-5_7/?utm_source=openai",
+          "title": "Faculty - National University of Sciences and Technology (NUST)",
+          "start": 608,
+          "end": 841
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search GitHub, Stack Overflow, or technical developer platforms for professional contributions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.816905",
+      "data": "Muhammad Muntazir Mehdi is a seasoned software architect with over nine years of experience in designing scalable cloud-native solutions, AI systems, and fintech platforms. He has expertise in leading teams, microservices, and aligning technical solutions with business goals. His technical skills encompass Node.js, React, Angular, Flutter, Python, Java, PHP, and various other technologies. He has worked on projects such as fine-tuning the Llama 3.1 model on Hugging Face and developing the iAgility cloud-based platform. ([mehdibukhari.github.io](https://mehdibukhari.github.io/?utm_source=openai))\n\nOn GitHub, under the username 'MehdiKhosa50', he has contributed to several repositories, including:\n\n- **Creating-a-Blockchain-from-Scratch-with-Javascript**: A project focused on building a blockchain using JavaScript.\n\n- **Flash-Loans**: An implementation of flash loans by forking the Binance Smart Chain Mainnet Network and integrating the Uniswap protocol.\n\n- **JavascriptLearningBasics**: A repository covering core concepts of JavaScript programming, along with two projects.\n\n- **LearningSmartContract**: A collection of core concepts for building smart contracts using Solidity.\n\n- **PeoplesStakingDapp**: A Solidity-based staking system that allows users to stake ERC20 tokens and earn rewards over time.\n\n- **TrustFundDAO**: A public funding decentralized application (DApp) for charity projects, where majority contributors can decide where to spend their money.\n\nThese projects highlight his proficiency in blockchain development and smart contract implementation. ([github.com](https://github.com/MehdiKhosa50?utm_source=openai))\n\nAdditionally, he has a presence on Stack Overflow under the username 'Muhammad Mehdi', where he has accumulated 532 reputation points over 12 years and 4 months. His contributions include answering questions related to ReactJS, JavaScript, Material-UI, Angular, and React Hooks. Notably, he received a gold badge for a 'Famous Question' in September 2021. ([stackoverflow.com](https://stackoverflow.com/users/10513037/muhammad-mehdi?utm_source=openai))\n\nFurthermore, he has been active in the academic and research community, with publications in life sciences, endpoints, shear stress, and linked data. His work has been cited 61 times, with an h-index of 3, indicating a significant impact in his field. ([exaly.com](https://exaly.com/author/896131/syed-muhammad-muntazir-mehdi?utm_source=openai))\n\nIn summary, Muhammad Muntazir Mehdi's professional contributions span software architecture, blockchain development, and academic research, reflecting his diverse expertise and commitment to technological advancement. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "becc6f0767575f5478e403a4754ae0f6996135bb7167363d4a324b940676df71",
+      "citations": [
+        {
+          "url": "https://mehdibukhari.github.io/?utm_source=openai",
+          "title": "Muhammad Muntazir Mehdi | Resume",
+          "start": 525,
+          "end": 602
+        },
+        {
+          "url": "https://github.com/MehdiKhosa50?utm_source=openai",
+          "title": "MehdiKhosa50 (Muhammad Muntazir Mehdi) · GitHub",
+          "start": 1583,
+          "end": 1648
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Explore technology news sites and industry publications for potential mentions or quotes",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:04:59.857474",
+      "data": "After reviewing recent technology news and industry publications, I found no mentions or quotes regarding Muhammad Muntazir Mehdi. It's possible that he has not been featured in these sources recently. If you have more specific information or context about him, please provide it, and I can assist you further. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "16dc63136d01825681f6c346bebc16a2be248ce68922466814054484c1a2b60a",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Check professional networking sites like ResearchGate or Google Scholar for academic or research credentials",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:04.605043",
+      "data": "Muhammad Muntazir Mehdi is an academic researcher with a diverse background in biotechnology, environmental protection, and machine learning applications in healthcare. He has been affiliated with several institutions, including the University of Silesia in Katowice, the University of Derby, and RMIT University.\n\nAt the University of Silesia in Katowice, he collaborated on research projects focusing on the identification of novel microRNAs and their target genes in response to abscisic acid in Arabidopsis, contributing to multiple publications and presentations. ([researchgate.net](https://www.researchgate.net/profile/Syed-Muhammad-Muntazir-Mehdi?utm_source=openai))\n\nDuring his tenure at the University of Derby, Mehdi's research centered on federated learning in healthcare, resulting in publications that address preserving accuracy in federated learning models and handling unreliable client contributions. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-10?utm_source=openai))\n\nCurrently, as a PhD researcher at RMIT University's Department of Mathematical Sciences, he is investigating the applications of clustering in various domains, including Bayesian and machine learning. His work aims to explore the practical applications of mathematics and statistics across different fields. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-14?utm_source=openai))\n\nAdditionally, Mehdi has a Google Scholar profile associated with Ohio State University, where he has contributed to research in surgical oncology, focusing on outcomes following resection for hepatocellular carcinoma and pancreatic cancer. ([scholar.google.com](https://scholar.google.com/citations?user=KpZ3kSAAAAAJ&utm_source=openai))\n\nHis academic contributions are also recognized by the AD Scientific Index, which ranks him among the top scientists in Business & Management/Marketing. ([adscientificindex.com](https://www.adscientificindex.com/scientist/syed-muntazir-mehdi/5748851?utm_source=openai))\n\nOverall, Muhammad Muntazir Mehdi's research spans multiple disciplines, reflecting his commitment to advancing knowledge in both biological sciences and data-driven methodologies. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "1f4bbbe5d7ff4359b83da348327b8e731610bc6f1772891b85d0fd025d7c7a0f",
+      "citations": [
+        {
+          "url": "https://www.researchgate.net/profile/Syed-Muhammad-Muntazir-Mehdi?utm_source=openai",
+          "title": "Syed Muhammad Muntazir MEHDI | Phd | University of Silesia in Katowice, Katowice | Biotechnology and Environmental Protection | Research profile",
+          "start": 569,
+          "end": 674
+        },
+        {
+          "url": "https://www.researchgate.net/profile/Muntazir-Mehdi-10?utm_source=openai",
+          "title": "Muntazir MEHDI | PhD Researcher | Doctor of Philosophy | University of Derby, Derby | College of Science and Engineering | Research profile",
+          "start": 919,
+          "end": 1013
+        }
+      ]
+    }
+  },
+  "report": "## OSINT Intelligence Report: Muhammad Muntazir Mehdi\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\n\nMuhammad Muntazir Mehdi is a seasoned software architect with experience in cloud-native solutions, AI systems, and fintech platforms. He has a background in data science, AI, and cloud computing, and has contributed to academic research. There is no immediate indication of high risk, but his involvement in technology and research warrants continued monitoring.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n\n*   Experienced software architect with over nine years of experience.\n*   Expertise in designing scalable cloud-native solutions, AI systems, and fintech platforms.\n*   Experience leading teams and aligning technical solutions with business goals.\n*   Previously worked at Microsoft for over eight years as a Principal Engineering Manager and Principal Development and Dat.\n*   Speaker at Data Science Dojo.\n\n**2. Financial / Corporate Ties**\n\n*   No specific financial or corporate ties are mentioned beyond his employment history.\n\n**3. Legal / Regulatory Issues**\n\n*   No legal or regulatory issues were found.\n\n**4. Academic / Public Presence**\n\n*   Co-authored a study on the \"Prevalence of Anxiety and Depression among Orthopedic Trauma Inpatients.\"\n*   Co-authored a study on \"Disparities in liver transplantation rates and outcomes among adults.\"\n*   Dr. Muntazir Hussain served as a member of the Local Organizing Team for the RTIP2R 2023 conference at the University of Derby, UK.\n\n**5. Online / Social Media**\n\n*   GitHub profile: MehdiKhosa50.\n*   Personal website: mehdibukhari.github.io.\n\n**6. Additional Observations**\n\n*   His GitHub account suggests involvement in software development projects.\n\n### Risk Score\n\n**Low to Medium**. Muhammad Muntazir Mehdi appears to be a technology professional and researcher with no immediately apparent high-risk factors. However, his involvement in AI and software development, coupled with his research activities, warrants continued monitoring for potential reputational or security risks.\n",
+  "judgement": {
+    "credibility_score": "4",
+    "flagged_issues": [
+      "Conflation of multiple individuals named Muhammad Muntazir Mehdi - the report mixes information about at least 3 different people",
+      "Contradictory employment information - states he worked at Microsoft but evidence shows he left Microsoft for Amazon",
+      "Academic publications attributed to subject appear to be from different researchers with similar names",
+      "Dr. Muntazir Hussain mentioned in evidence is a different person entirely",
+      "No verification that the GitHub profile 'MehdiKhosa50' belongs to the same person as the Microsoft/Amazon employee",
+      "Missing temporal context - report doesn't clarify current employment status"
+    ],
+    "risk_assessment": {
+      "risk_score": "3",
+      "verdict": "LOW",
+      "risk_signals": [
+        "Subject appears to be a legitimate technology professional with no criminal or regulatory issues identified",
+        "Involvement in AI and cloud computing technologies presents minimal security concerns in absence of other risk factors",
+        "Academic publications in medical/healthcare fields appear to be from different individuals with similar names",
+        "No evidence of financial misconduct, legal issues, or controversial activities"
+      ]
+    },
+    "revised_report": "## OSINT Intelligence Report: Muhammad Muntazir Mehdi\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\n\nMuhammad Muntazir Mehdi is a software development professional with expertise in cloud computing and AI systems. Based on available evidence, he previously worked at Microsoft for over eight years as a Principal Engineering Manager and Principal Development and Data Engineering Lead, before joining Amazon as a Software Development Manager in Media Planning¹. Due to name similarities, care must be taken to distinguish this individual from other researchers with similar names.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n\n* Previously employed at Microsoft for 8+ years in senior engineering roles¹\n* Contributed to simulator and AI platform used by Microsoft Azure¹\n* Developed commercial and ecosystem platforms for container-based AI¹\n* Currently or recently employed at Amazon as Software Development Manager in Media Planning¹\n* Listed as speaker at Data Science Dojo¹\n* Self-described as software architect with 9+ years experience in cloud-native solutions²\n\n**2. Financial / Corporate Ties**\n\n* No specific financial irregularities or concerning corporate relationships identified\n* Employment history limited to major technology companies (Microsoft, Amazon)\n\n**3. Legal / Regulatory Issues**\n\n* No legal or regulatory issues identified in available sources\n\n**4. Academic / Public Presence**\n\n* Personal website: mehdibukhari.github.io²\n* Note: Medical research publications found under similar names (Muhammad Muntazir Mehdi) appear to belong to different individuals and cannot be reliably attributed to this subject\n\n**5. Online / Social Media**\n\n* GitHub profile 'MehdiKhosa50' shows blockchain and JavaScript projects²\n* Stack Overflow presence under 'Muhammad Mehdi' with 532 reputation points²\n* Verification needed to confirm these profiles belong to the same individual\n\n**6. Additional Observations**\n\n* Multiple individuals with the name Muhammad Muntazir Mehdi exist in academic and professional contexts\n* Evidence suggests at least one medical researcher and one technology professional share similar names\n* Dr. Muntazir Hussain mentioned in some search results is a different person entirely\n\n### Risk Assessment\n\n**Risk Level: LOW**\n\nThe subject appears to be a legitimate technology professional with standard career progression through major technology companies. No evidence of criminal activity, regulatory violations, or reputational concerns was identified. The primary challenge in assessment is distinguishing between multiple individuals with similar names.\n\n### Footnotes\n¹ Data Science Dojo speaker profile\n² Personal website and GitHub profile (verification of ownership pending)"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "Microsoft Azure",
+        "label": "entity"
+      },
+      {
+        "id": "datasciencedojo.com](https://datasciencedojo.com",
+        "label": "entity"
+      },
+      {
+        "id": "Principal Development",
+        "label": "entity"
+      },
+      {
+        "id": "Microsoft",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Muntazir Mehdi",
+        "label": "entity"
+      },
+      {
+        "id": "Media Planning",
+        "label": "entity"
+      },
+      {
+        "id": "AI",
+        "label": "entity"
+      },
+      {
+        "id": "Software",
+        "label": "entity"
+      },
+      {
+        "id": "Amazon",
+        "label": "entity"
+      },
+      {
+        "id": "Mujtaba Khalil",
+        "label": "entity"
+      },
+      {
+        "id": "Rizwan Farooq",
+        "label": "entity"
+      },
+      {
+        "id": "Sidharth Iyer",
+        "label": "entity"
+      },
+      {
+        "id": "Karol Rawicz-Pruszyński",
+        "label": "entity"
+      },
+      {
+        "id": "Razeen Thamachack",
+        "label": "entity"
+      },
+      {
+        "id": "Selamawit Woldesenbet",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Fahim Qasim",
+        "label": "entity"
+      },
+      {
+        "id": "Usama Waqar",
+        "label": "entity"
+      },
+      {
+        "id": "Vivian Resende",
+        "label": "entity"
+      },
+      {
+        "id": "US",
+        "label": "entity"
+      },
+      {
+        "id": "Abdullah Altaf",
+        "label": "entity"
+      },
+      {
+        "id": "Waleed Ali",
+        "label": "entity"
+      },
+      {
+        "id": "Parit Mavani",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Musaab Munir",
+        "label": "entity"
+      },
+      {
+        "id": "USMGs",
+        "label": "entity"
+      },
+      {
+        "id": "Yutaka Endo",
+        "label": "entity"
+      },
+      {
+        "id": "RMIT University",
+        "label": "entity"
+      },
+      {
+        "id": "Abdul Hadi Shahid",
+        "label": "entity"
+      },
+      {
+        "id": "Pakistan Journal of Medical & Health Sciences*",
+        "label": "entity"
+      },
+      {
+        "id": "Melbourne",
+        "label": "entity"
+      },
+      {
+        "id": "Timothy M. Pawlik",
+        "label": "entity"
+      },
+      {
+        "id": "Abid Munir",
+        "label": "entity"
+      },
+      {
+        "id": "Erryk Katayama",
+        "label": "entity"
+      },
+      {
+        "id": "Adil Saidullah",
+        "label": "entity"
+      },
+      {
+        "id": "Australia",
+        "label": "entity"
+      },
+      {
+        "id": "Zayed Rashid",
+        "label": "entity"
+      },
+      {
+        "id": "International Medical Graduates",
+        "label": "entity"
+      },
+      {
+        "id": "Bayesian",
+        "label": "entity"
+      },
+      {
+        "id": "the University of Derby",
+        "label": "entity"
+      },
+      {
+        "id": "the Local Organizing Team",
+        "label": "entity"
+      },
+      {
+        "id": "Muntazir Hussain",
+        "label": "entity"
+      },
+      {
+        "id": "Hussain",
+        "label": "entity"
+      },
+      {
+        "id": "NA",
+        "label": "entity"
+      },
+      {
+        "id": "Nahid Sami",
+        "label": "entity"
+      },
+      {
+        "id": "UK",
+        "label": "entity"
+      },
+      {
+        "id": "Yagna Jadeja",
+        "label": "entity"
+      },
+      {
+        "id": "the 4th International Conference on Communication Technologies",
+        "label": "entity"
+      },
+      {
+        "id": "exaly.com](https://exaly.com/author/896131",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Mehdi'",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Muntazir Mehdi's",
+        "label": "entity"
+      },
+      {
+        "id": "the Binance Smart Chain Mainnet Network",
+        "label": "entity"
+      },
+      {
+        "id": "Hugging Face",
+        "label": "entity"
+      },
+      {
+        "id": "GitHub",
+        "label": "entity"
+      },
+      {
+        "id": "Uniswap",
+        "label": "entity"
+      },
+      {
+        "id": "Material-UI",
+        "label": "entity"
+      },
+      {
+        "id": "Java",
+        "label": "entity"
+      },
+      {
+        "id": "JavaScript",
+        "label": "entity"
+      },
+      {
+        "id": "github.com](https://github.com",
+        "label": "entity"
+      },
+      {
+        "id": "Solidity",
+        "label": "entity"
+      },
+      {
+        "id": "React",
+        "label": "entity"
+      },
+      {
+        "id": "iAgility",
+        "label": "entity"
+      },
+      {
+        "id": "React Hooks",
+        "label": "entity"
+      },
+      {
+        "id": "PHP",
+        "label": "entity"
+      },
+      {
+        "id": "Node.js",
+        "label": "entity"
+      },
+      {
+        "id": "DApp",
+        "label": "entity"
+      },
+      {
+        "id": "ERC20 tokens",
+        "label": "entity"
+      },
+      {
+        "id": "Stack Overflow",
+        "label": "entity"
+      },
+      {
+        "id": "Ohio State University",
+        "label": "entity"
+      },
+      {
+        "id": "Business & Management/Marketing",
+        "label": "entity"
+      },
+      {
+        "id": "Mehdi",
+        "label": "entity"
+      },
+      {
+        "id": "RMIT University's",
+        "label": "entity"
+      },
+      {
+        "id": "Department of Mathematical Sciences",
+        "label": "entity"
+      },
+      {
+        "id": "Google Scholar",
+        "label": "entity"
+      },
+      {
+        "id": "the AD Scientific Index",
+        "label": "entity"
+      },
+      {
+        "id": "Arabidopsis",
+        "label": "entity"
+      },
+      {
+        "id": "the University of Silesia in Katowice",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Microsoft Azure",
+        "target": "datasciencedojo.com](https://datasciencedojo.com",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "Principal Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "Microsoft",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "Muhammad Muntazir Mehdi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "Media Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft Azure",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "Principal Development",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "Microsoft",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "Muhammad Muntazir Mehdi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "Media Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "datasciencedojo.com](https://datasciencedojo.com",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Principal Development",
+        "target": "Microsoft",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Principal Development",
+        "target": "Muhammad Muntazir Mehdi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Principal Development",
+        "target": "Media Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Principal Development",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Principal Development",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Principal Development",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft",
+        "target": "Muhammad Muntazir Mehdi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft",
+        "target": "Media Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Microsoft",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Media Planning",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "AI",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Mujtaba Khalil",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Rizwan Farooq",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Sidharth Iyer",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Karol Rawicz-Pruszyński",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Razeen Thamachack",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Selamawit Woldesenbet",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "RMIT University",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Bayesian",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "exaly.com](https://exaly.com/author/896131",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Muhammad Mehdi'",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 1.8,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "the Binance Smart Chain Mainnet Network",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Hugging Face",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "the University of Derby",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Ohio State University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Business & Management/Marketing",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Media Planning",
+        "target": "AI",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Media Planning",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Media Planning",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Software",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "AI",
+        "target": "exaly.com](https://exaly.com/author/896131",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Muhammad Mehdi'",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "the Binance Smart Chain Mainnet Network",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Hugging Face",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "AI",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Software",
+        "target": "Amazon",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Rizwan Farooq",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Sidharth Iyer",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Karol Rawicz-Pruszyński",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Razeen Thamachack",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Selamawit Woldesenbet",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mujtaba Khalil",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Sidharth Iyer",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Karol Rawicz-Pruszyński",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Razeen Thamachack",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Selamawit Woldesenbet",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Rizwan Farooq",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Karol Rawicz-Pruszyński",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Razeen Thamachack",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Selamawit Woldesenbet",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Sidharth Iyer",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Razeen Thamachack",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Selamawit Woldesenbet",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Karol Rawicz-Pruszyński",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Selamawit Woldesenbet",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Razeen Thamachack",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Muhammad Fahim Qasim",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Selamawit Woldesenbet",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Usama Waqar",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Fahim Qasim",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Vivian Resende",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Usama Waqar",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "US",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Vivian Resende",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Abdullah Altaf",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "US",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Waleed Ali",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdullah Altaf",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Parit Mavani",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Waleed Ali",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Muhammad Musaab Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Parit Mavani",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "USMGs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Musaab Munir",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Yutaka Endo",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "USMGs",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "RMIT University",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Yutaka Endo",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Abdul Hadi Shahid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Bayesian",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "RMIT University",
+        "target": "the University of Derby",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Ohio State University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Business & Management/Marketing",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Pakistan Journal of Medical & Health Sciences*",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abdul Hadi Shahid",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan Journal of Medical & Health Sciences*",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Timothy M. Pawlik",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "Abid Munir",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Timothy M. Pawlik",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abid Munir",
+        "target": "Erryk Katayama",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abid Munir",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abid Munir",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abid Munir",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abid Munir",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Abid Munir",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Erryk Katayama",
+        "target": "Adil Saidullah",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Erryk Katayama",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Erryk Katayama",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Erryk Katayama",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Erryk Katayama",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Adil Saidullah",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Adil Saidullah",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Adil Saidullah",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Adil Saidullah",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Australia",
+        "target": "Zayed Rashid",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Australia",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Australia",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Zayed Rashid",
+        "target": "International Medical Graduates",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Zayed Rashid",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "International Medical Graduates",
+        "target": "Bayesian",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Bayesian",
+        "target": "the University of Derby",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Ohio State University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Business & Management/Marketing",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bayesian",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "the Local Organizing Team",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Muntazir Hussain",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Hussain",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "NA",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Nahid Sami",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Ohio State University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Business & Management/Marketing",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Derby",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "Muntazir Hussain",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "Hussain",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "NA",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "Nahid Sami",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Local Organizing Team",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Muntazir Hussain",
+        "target": "Hussain",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Muntazir Hussain",
+        "target": "NA",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Muntazir Hussain",
+        "target": "Nahid Sami",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Muntazir Hussain",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Muntazir Hussain",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Muntazir Hussain",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hussain",
+        "target": "NA",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hussain",
+        "target": "Nahid Sami",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hussain",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hussain",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hussain",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "NA",
+        "target": "Nahid Sami",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "NA",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "NA",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "NA",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Nahid Sami",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Nahid Sami",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Nahid Sami",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "UK",
+        "target": "Yagna Jadeja",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "UK",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Yagna Jadeja",
+        "target": "the 4th International Conference on Communication Technologies",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Muhammad Mehdi'",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "the Binance Smart Chain Mainnet Network",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Hugging Face",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "exaly.com](https://exaly.com/author/896131",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Muhammad Muntazir Mehdi's",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "the Binance Smart Chain Mainnet Network",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Hugging Face",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Mehdi'",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "the Binance Smart Chain Mainnet Network",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Hugging Face",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Ohio State University",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Business & Management/Marketing",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Muntazir Mehdi's",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Hugging Face",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Binance Smart Chain Mainnet Network",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "GitHub",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hugging Face",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "Uniswap",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "GitHub",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "Material-UI",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Uniswap",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "Java",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Material-UI",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "JavaScript",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Java",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "github.com](https://github.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "JavaScript",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Solidity",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "github.com](https://github.com",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "React",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Solidity",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "iAgility",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "iAgility",
+        "target": "React Hooks",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "iAgility",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "iAgility",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "iAgility",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "iAgility",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "iAgility",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React Hooks",
+        "target": "PHP",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React Hooks",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React Hooks",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React Hooks",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "React Hooks",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "PHP",
+        "target": "Node.js",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "PHP",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "PHP",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "PHP",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Node.js",
+        "target": "DApp",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Node.js",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Node.js",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "DApp",
+        "target": "ERC20 tokens",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "DApp",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "ERC20 tokens",
+        "target": "Stack Overflow",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "Business & Management/Marketing",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Ohio State University",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "Mehdi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Business & Management/Marketing",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mehdi",
+        "target": "RMIT University's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mehdi",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mehdi",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mehdi",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mehdi",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mehdi",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University's",
+        "target": "Department of Mathematical Sciences",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University's",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University's",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University's",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "RMIT University's",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Department of Mathematical Sciences",
+        "target": "Google Scholar",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Department of Mathematical Sciences",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Department of Mathematical Sciences",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Department of Mathematical Sciences",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "the AD Scientific Index",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Google Scholar",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the AD Scientific Index",
+        "target": "Arabidopsis",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the AD Scientific Index",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Arabidopsis",
+        "target": "the University of Silesia in Katowice",
+        "weight": 0.9,
+        "task": "task_8"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role and position of Muhammad Muntazir Mehdi at Microsoft",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:04:59.251026",
+      "data": "Based on the available information, there is no evidence that Muhammad Muntazir Mehdi is currently employed at Microsoft. He has a background in data science, AI, and cloud computing, having worked at Microsoft for over eight years as a Principal Engineering Manager and Principal Development and Data Engineering Lead. During his tenure, he contributed to the simulator and AI platform used by Microsoft Azure and developed commercial and ecosystem platforms for container-based AI. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai)) After leaving Microsoft, he joined Amazon as a Software Development Manager in Media Planning. ([datasciencedojo.com](https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "c4f3360b7c1ba7963541c42cdf18e5cc31f21a5b5fdfe5aa08f803b13af39406",
+      "citations": [
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 484,
+          "end": 578
+        },
+        {
+          "url": "https://datasciencedojo.com/speaker/muntazir-mehdi/?utm_source=openai",
+          "title": "Muntazir Mehdi | Future of Data and AI - Amazon | Data Science Dojo",
+          "start": 674,
+          "end": 768
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Check academic databases and research repositories for scholarly works or conference presentations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.009985",
+      "data": "Muhammad Muntazir Mehdi has contributed to several scholarly works across diverse fields. Notable publications include:\n\n1. **Prevalence of Anxiety and Depression among Orthopedic Trauma Inpatients**: This study, co-authored with Waleed Ali, Muhammad Fahim Qasim, Adil Saidullah, Rizwan Farooq, and Abid Munir, was published in the *Pakistan Journal of Medical & Health Sciences*. The research aimed to determine the prevalence of anxiety and depression among orthopedic trauma patients. The study found that these patients often experience emotional disorders, with anxiety and depression levels increasing after surgery. The authors suggest that clinicians should closely monitor geriatric patients for these psychological issues. ([pjmhsonline.com](https://pjmhsonline.com/index.php/pjmhs/article/view/3875?utm_source=openai))\n\n2. **Disparities in Liver Transplantation Rates and Outcomes Among Adults with and Without Mental Illnesses**: Co-authored with Usama Waqar, Selamawit Woldesenbet, Muhammad Musaab Munir, Yutaka Endo, Erryk Katayama, Vivian Resende, Mujtaba Khalil, Karol Rawicz-Pruszyński, and Parit Mavani, this article was published in the *Journal of Gastrointestinal Surgery*. The study examined the rates of evaluation, transplantation, and post-transplant outcomes among patients with and without mental illnesses. The findings revealed that patients with mental illnesses had lower rates of evaluation and transplantation but did not experience significant differences in postoperative outcomes compared to those without mental illnesses. ([ecommons.aku.edu](https://ecommons.aku.edu/pakistan_fhs_mc_mc/378/?utm_source=openai))\n\n3. **Variations in Medicare Reimbursements Among Surgical Oncologists Who Are US Versus International Medical Graduates**: In this research, co-authored with Abdullah Altaf, Mujtaba Khalil, Sidharth Iyer, Razeen Thamachack, Zayed Rashid, Timothy M. Pawlik, and Abdul Hadi Shahid, the authors analyzed variations in practice metrics and billing practices among US Medical Graduates (USMGs) and International Medical Graduates (IMGs) in surgical oncology. The study found that IMGs provided more procedural services, cared for patients with higher average risk scores, and performed a greater variety of procedures compared to USMGs. Consequently, IMGs had higher mean annual charges, payment-per-service, and charge-per-service amounts. ([ecommons.aku.edu](https://ecommons.aku.edu/pakistan_fhs_mc_mc/496/?utm_source=openai))\n\nAdditionally, Muhammad Muntazir Mehdi has been involved in patent development, including a method and apparatus for optimizing legacy network infrastructure and capacity engineering in distributed computing systems. ([patents.justia.com](https://patents.justia.com/inventor/muhammad-muntazir-mehdi?utm_source=openai))\n\nFurthermore, he has a research profile at RMIT University in Melbourne, Australia, focusing on the applications of clustering across various domains, including Bayesian and machine learning. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-14?utm_source=openai))\n\nThese contributions highlight his diverse expertise in medical research, network optimization, and statistical analysis. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b4af21e761ec6790f2a93ff44de5aa60c7c0b4cf8512030bb5126f47afd31ba9",
+      "citations": [
+        {
+          "url": "https://pjmhsonline.com/index.php/pjmhs/article/view/3875?utm_source=openai",
+          "title": "Prevalence of Anxiety and Depression among Orthopedic Trauma Inpatients | Pakistan Journal of Medical & Health Sciences",
+          "start": 733,
+          "end": 829
+        },
+        {
+          "url": "https://ecommons.aku.edu/pakistan_fhs_mc_mc/378/?utm_source=openai",
+          "title": "\"Disparities in liver transplantation rates and outcomes among adults w\" by Usama Waqar, Muhammad Muntazir Mehdi Khan et al.",
+          "start": 1560,
+          "end": 1648
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Review technology conference speaker lists and tech industry event archives for potential presentations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.424574",
+      "data": "Dr. Muntazir Hussain has been actively involved in various academic and professional events, contributing significantly to the fields of engineering and technology. Notably, he served as a member of the Local Organizing Team for the RTIP2R 2023 conference at the University of Derby, UK, alongside colleagues Yagna Jadeja and Nahid Sami. ([rtip2r-conference.org](https://rtip2r-conference.org/2023/committees.html?utm_source=openai))\n\nAdditionally, Dr. Hussain has been a keynote speaker at the 4th International Conference on Communication Technologies (ComTech 2023), held from March 15 to March 16, 2023. ([scme.nust.edu.pk](https://scme.nust.edu.pk/faculty/abdul-qadeer-malik/NA/ww.ssuet.edu.pk/Risk-Taking%20Behaviour%20of%20Pedestrians%20on%20National%20Highways%20of%20Pakistan/doi.org/10.1007/978-3-031-61582-5_7/?utm_source=openai))\n\nHis extensive research contributions are highlighted in his curriculum vitae, which details numerous publications in reputable journals and conferences, reflecting his expertise and active participation in the academic community. ([sites.google.com](https://sites.google.com/view/engr-dr-muntazir-hussain/curriculum-vitae?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "cef7bcba91b99fd6c8238c03a1e004dcc92cb19171e5bb609b70f12c8ad34606",
+      "citations": [
+        {
+          "url": "https://rtip2r-conference.org/2023/committees.html?utm_source=openai",
+          "title": "Committee (RTIP2R 2023)",
+          "start": 338,
+          "end": 433
+        },
+        {
+          "url": "https://scme.nust.edu.pk/faculty/abdul-qadeer-malik/NA/ww.ssuet.edu.pk/Risk-Taking%20Behaviour%20of%20Pedestrians%20on%20National%20Highways%20of%20Pakistan/doi.org/10.1007/978-3-031-61582-5_7/?utm_source=openai",
+          "title": "Faculty - National University of Sciences and Technology (NUST)",
+          "start": 608,
+          "end": 841
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Search GitHub, Stack Overflow, or technical developer platforms for professional contributions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:02.816905",
+      "data": "Muhammad Muntazir Mehdi is a seasoned software architect with over nine years of experience in designing scalable cloud-native solutions, AI systems, and fintech platforms. He has expertise in leading teams, microservices, and aligning technical solutions with business goals. His technical skills encompass Node.js, React, Angular, Flutter, Python, Java, PHP, and various other technologies. He has worked on projects such as fine-tuning the Llama 3.1 model on Hugging Face and developing the iAgility cloud-based platform. ([mehdibukhari.github.io](https://mehdibukhari.github.io/?utm_source=openai))\n\nOn GitHub, under the username 'MehdiKhosa50', he has contributed to several repositories, including:\n\n- **Creating-a-Blockchain-from-Scratch-with-Javascript**: A project focused on building a blockchain using JavaScript.\n\n- **Flash-Loans**: An implementation of flash loans by forking the Binance Smart Chain Mainnet Network and integrating the Uniswap protocol.\n\n- **JavascriptLearningBasics**: A repository covering core concepts of JavaScript programming, along with two projects.\n\n- **LearningSmartContract**: A collection of core concepts for building smart contracts using Solidity.\n\n- **PeoplesStakingDapp**: A Solidity-based staking system that allows users to stake ERC20 tokens and earn rewards over time.\n\n- **TrustFundDAO**: A public funding decentralized application (DApp) for charity projects, where majority contributors can decide where to spend their money.\n\nThese projects highlight his proficiency in blockchain development and smart contract implementation. ([github.com](https://github.com/MehdiKhosa50?utm_source=openai))\n\nAdditionally, he has a presence on Stack Overflow under the username 'Muhammad Mehdi', where he has accumulated 532 reputation points over 12 years and 4 months. His contributions include answering questions related to ReactJS, JavaScript, Material-UI, Angular, and React Hooks. Notably, he received a gold badge for a 'Famous Question' in September 2021. ([stackoverflow.com](https://stackoverflow.com/users/10513037/muhammad-mehdi?utm_source=openai))\n\nFurthermore, he has been active in the academic and research community, with publications in life sciences, endpoints, shear stress, and linked data. His work has been cited 61 times, with an h-index of 3, indicating a significant impact in his field. ([exaly.com](https://exaly.com/author/896131/syed-muhammad-muntazir-mehdi?utm_source=openai))\n\nIn summary, Muhammad Muntazir Mehdi's professional contributions span software architecture, blockchain development, and academic research, reflecting his diverse expertise and commitment to technological advancement. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "becc6f0767575f5478e403a4754ae0f6996135bb7167363d4a324b940676df71",
+      "citations": [
+        {
+          "url": "https://mehdibukhari.github.io/?utm_source=openai",
+          "title": "Muhammad Muntazir Mehdi | Resume",
+          "start": 525,
+          "end": 602
+        },
+        {
+          "url": "https://github.com/MehdiKhosa50?utm_source=openai",
+          "title": "MehdiKhosa50 (Muhammad Muntazir Mehdi) · GitHub",
+          "start": 1583,
+          "end": 1648
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Explore technology news sites and industry publications for potential mentions or quotes",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:04:59.857474",
+      "data": "After reviewing recent technology news and industry publications, I found no mentions or quotes regarding Muhammad Muntazir Mehdi. It's possible that he has not been featured in these sources recently. If you have more specific information or context about him, please provide it, and I can assist you further. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "16dc63136d01825681f6c346bebc16a2be248ce68922466814054484c1a2b60a",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Check professional networking sites like ResearchGate or Google Scholar for academic or research credentials",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:05:04.605043",
+      "data": "Muhammad Muntazir Mehdi is an academic researcher with a diverse background in biotechnology, environmental protection, and machine learning applications in healthcare. He has been affiliated with several institutions, including the University of Silesia in Katowice, the University of Derby, and RMIT University.\n\nAt the University of Silesia in Katowice, he collaborated on research projects focusing on the identification of novel microRNAs and their target genes in response to abscisic acid in Arabidopsis, contributing to multiple publications and presentations. ([researchgate.net](https://www.researchgate.net/profile/Syed-Muhammad-Muntazir-Mehdi?utm_source=openai))\n\nDuring his tenure at the University of Derby, Mehdi's research centered on federated learning in healthcare, resulting in publications that address preserving accuracy in federated learning models and handling unreliable client contributions. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-10?utm_source=openai))\n\nCurrently, as a PhD researcher at RMIT University's Department of Mathematical Sciences, he is investigating the applications of clustering in various domains, including Bayesian and machine learning. His work aims to explore the practical applications of mathematics and statistics across different fields. ([researchgate.net](https://www.researchgate.net/profile/Muntazir-Mehdi-14?utm_source=openai))\n\nAdditionally, Mehdi has a Google Scholar profile associated with Ohio State University, where he has contributed to research in surgical oncology, focusing on outcomes following resection for hepatocellular carcinoma and pancreatic cancer. ([scholar.google.com](https://scholar.google.com/citations?user=KpZ3kSAAAAAJ&utm_source=openai))\n\nHis academic contributions are also recognized by the AD Scientific Index, which ranks him among the top scientists in Business & Management/Marketing. ([adscientificindex.com](https://www.adscientificindex.com/scientist/syed-muntazir-mehdi/5748851?utm_source=openai))\n\nOverall, Muhammad Muntazir Mehdi's research spans multiple disciplines, reflecting his commitment to advancing knowledge in both biological sciences and data-driven methodologies. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "1f4bbbe5d7ff4359b83da348327b8e731610bc6f1772891b85d0fd025d7c7a0f",
+      "citations": [
+        {
+          "url": "https://www.researchgate.net/profile/Syed-Muhammad-Muntazir-Mehdi?utm_source=openai",
+          "title": "Syed Muhammad Muntazir MEHDI | Phd | University of Silesia in Katowice, Katowice | Biotechnology and Environmental Protection | Research profile",
+          "start": 569,
+          "end": 674
+        },
+        {
+          "url": "https://www.researchgate.net/profile/Muntazir-Mehdi-10?utm_source=openai",
+          "title": "Muntazir MEHDI | PhD Researcher | Doctor of Philosophy | University of Derby, Derby | College of Science and Engineering | Research profile",
+          "start": 919,
+          "end": 1013
+        }
+      ]
+    }
+  },
+  "retrieval_model": "gpt-4o-mini-search-preview",
+  "synthesis_model": "gemini-2.0-flash"
+}
