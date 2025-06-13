@@ -1,0 +1,2251 @@
+{
+  "query": "Muhammad Ahmed Iqbal Alvi",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Muhammad Ahmed Iqbal Alvi",
+    "keywords": [
+      "name analysis",
+      "potential research subject"
+    ],
+    "affiliation": null,
+    "location": null,
+    "nationality": null
+  },
+  "tasks": [
+    "Search LinkedIn for professional profile of Muhammad Ahmed Iqbal Alvi",
+    "Check Google News and media archives for mentions of Muhammad Ahmed Iqbal Alvi",
+    "Search academic databases and university directories for potential research or publication records",
+    "Investigate social media platforms (Facebook, Twitter, Instagram) for public profiles matching the name",
+    "Search legal databases and court records for any legal proceedings or mentions",
+    "Check professional certification registries for credentials under the name",
+    "Search professional networking sites like ResearchGate or Academia.edu for academic presence",
+    "Explore business registration databases for potential entrepreneurial or company affiliations"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for professional profile of Muhammad Ahmed Iqbal Alvi",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:50.672465",
+      "data": "I couldn't locate a LinkedIn profile for Muhammad Ahmed Iqbal Alvi. However, based on available information, here is a brief overview of his professional background:\n\nDr. Muhammad Ahmed Iqbal Alvi is an Assistant Professor in the Department of Microbiology at Hazara University, Mansehra, Pakistan. He joined the university in April 2008 and has been serving in this role since then. His research focuses on human and animal health, particularly on bacteriophage therapy against multiple drug-resistant bacteria. He has worked on Methicillin-resistant *Staphylococcus aureus* (MRSA), multidrug-resistant *Pseudomonas aeruginosa*, and the antibacterial efficacy of various medicinal plants. Dr. Alvi has expertise in screening bacteria, isolation, genetic characterization, protein expression, gene editing using CRISPR, and in vivo application of bacteriophages as therapeutic agents. He is also a team member of an international consortium working on the \"Development and Commercialization of Antibiotic Alternatives for Pakistan Poultry Production.\" Dr. Alvi holds a Post Doctorate and Ph.D. in Microbiology and Molecular Genetics from the University of the Punjab, completed in 2023 and 2020, respectively. He is also the founder member of the Pakistan Society for Bacteriophages. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "ac1060c912b0159adb718552d7c180592c2784b5a37424ba5e31a4b71b5555b7",
+      "citations": [
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 1284,
+          "end": 1357
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Google News and media archives for mentions of Muhammad Ahmed Iqbal Alvi",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:52.438480",
+      "data": "I searched for information on Muhammad Ahmed Iqbal Alvi in Google News and media archives but couldn't find any relevant results. It's possible that the individual is not widely covered in these sources. If you have more specific details or context about Muhammad Ahmed Iqbal Alvi, please provide them, and I'll be glad to assist you further. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "f5966e7b03ce4da42e1887d1081722d5fb298bb67429a69417f80a8cb24f69ee",
+      "citations": []
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search academic databases and university directories for potential research or publication records",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:51.196886",
+      "data": "Muhammad Ahmed Iqbal Alvi is a researcher affiliated with the Department of Pharmacy at Abbottabad University of Science and Technology in Havelian, Abbottabad, Pakistan. His academic contributions primarily focus on bacteriophage therapy and its applications in combating multidrug-resistant bacterial infections.\n\nOne of his notable publications is titled \"A Single Dose of a Virulent Bacteriophage vB PaeP-SaPL Rescues Bacteremic Mice Infected with Multidrug-Resistant Pseudomonas aeruginosa,\" published in *Virus Research*. This study demonstrates the efficacy of a specific bacteriophage in treating infections caused by multidrug-resistant *Pseudomonas aeruginosa* in a murine model. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai))\n\nAnother significant work is \"Assessment of Biofilm Removal Capacity of a Broad Host Range Bacteriophage JHP Against *Pseudomonas aeruginosa*,\" published in *Apmis*. This research evaluates the ability of the JHP bacteriophage to disrupt biofilms formed by *P. aeruginosa*, highlighting its potential as an alternative therapeutic agent against biofilm-associated infections. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai))\n\nAdditionally, Alvi co-authored a study titled \"A Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis in Dromedary Camels in Punjab, Pakistan,\" published in *Veterinary Sciences*. This research investigates the prevalence and risk factors associated with anaplasmosis in dromedary camels, contributing valuable insights to veterinary epidemiology. ([mdpi.com](https://www.mdpi.com/2306-7381/11/12/657?utm_source=openai))\n\nThese publications underscore Alvi's significant contributions to microbiology and veterinary medicine, particularly in the areas of bacteriophage therapy and infectious disease epidemiology. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "633223b434eac356ee4db90dd59988a69830f093b9520811fbf2dd83440ec77d",
+      "citations": [
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 690,
+          "end": 763
+        },
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 1140,
+          "end": 1213
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Investigate social media platforms (Facebook, Twitter, Instagram) for public profiles matching the name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:50.635216",
+      "data": "After conducting a search for public profiles matching the name \"Muhammad Ahmed Iqbal Alvi\" on social media platforms such as Facebook, Twitter, and Instagram, I was unable to locate any profiles under this exact name. However, I found several individuals with similar names:\n\n- **Iqbal Ahmad Alvi**: A faculty member at the Department of Microbiology, Hazara University, Pakistan. ([hu.edu.pk](https://hu.edu.pk/faculty/detail/635?utm_source=openai))\n\n- **Muhammad Asif Iqbal Alvi**: Co-author of several scientific publications. ([hu.edu.pk](https://hu.edu.pk/faculty/detail/635?utm_source=openai))\n\n- **Muhammad Iqbal Aziz**: Active on Twitter under the handle @IqbalAziz23. ([instalker.org](https://www.instalker.org/IqbalAziz23?utm_source=openai))\n\n- **Muhammad Iqbal**: Multiple individuals with this name are listed on TruePeopleSearch, including those residing in Texas and California. ([truepeoplesearch.net](https://truepeoplesearch.net/people/muhammad-iqbal?utm_source=openai))\n\nPlease note that the availability of social media profiles can change over time, and some individuals may choose to keep their profiles private or not maintain an online presence. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "49692f738e24bb4e49e95ee75d73d11b5091b69da4a7789e333817e9400c136b",
+      "citations": [
+        {
+          "url": "https://hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 382,
+          "end": 451
+        },
+        {
+          "url": "https://hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 531,
+          "end": 600
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search legal databases and court records for any legal proceedings or mentions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:48.975841",
+      "data": "After reviewing available legal databases and court records, there are no documented legal proceedings or mentions involving an individual named Muhammad Ahmed Iqbal Alvi. The search did not yield any relevant information pertaining to this name. ",
+      "confidence": 0.6,
+      "decayed_score": 0.6,
+      "hash": "68ab93e8170c21a94c65868bcbd012ed7f027326b445e4de1b36846835f99b8c",
+      "citations": []
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Check professional certification registries for credentials under the name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:51.054803",
+      "data": "Based on the available information, there are two professionals named Muhammad Iqbal Alvi with notable credentials:\n\n1. **Dr. Iqbal Ahmed Alvi**: An Assistant Professor in the Department of Microbiology at Hazara University, Mansehra, Pakistan. He holds a Post Doctorate and Ph.D. in Microbiology and Molecular Genetics from the University of the Punjab, completed in 2023 and 2020, respectively. His research focuses on bacteriophage therapy against multiple drug-resistant bacteria, including Methicillin-Resistant *Staphylococcus aureus* (MRSA) and MDR *Pseudomonas aeruginosa*. Dr. Alvi is also a founding member of the Pakistan Society for Bacteriophages. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai))\n\n2. **Dr. Muhammad Iqbal Alvi**: A General Physician based in Gujrat, Pakistan. Specific details about his professional certifications are not provided in the available sources. ([health.hamariweb.com](https://health.hamariweb.com/dr-muhammad-iqbal-alvi-doc102228?utm_source=openai))\n\nAdditionally, there is a mention of a **Dr. Muhammad Iqbal** from Sindh, Pakistan, who was awarded the President’s Award for Pride of Performance in Engineering (Aerospace) in 2022. ([bolnews.com](https://www.bolnews.com/latest/2022/08/president-alvi-confers-pakistan-civil-awards-on-253-personalities/?utm_source=openai))\n\nHowever, without more specific information, it's challenging to determine if this individual is the same as Dr. Muhammad Iqbal Alvi. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "c469891004591e051cb24dd85a2eb5e00df84318577df3b4fa38203f6f5d4390",
+      "citations": [
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 661,
+          "end": 734
+        },
+        {
+          "url": "https://health.hamariweb.com/dr-muhammad-iqbal-alvi-doc102228?utm_source=openai",
+          "title": "Dr Muhammad Iqbal Alvi General Physician in Gujrat - Contact Number, Fees & Hospital Address",
+          "start": 913,
+          "end": 1018
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search professional networking sites like ResearchGate or Academia.edu for academic presence",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:49.312039",
+      "data": "I searched professional networking sites like ResearchGate and Academia.edu for an academic presence of Muhammad Ahmed Iqbal Alvi but did not find any profiles or publications associated with this name. It's possible that the individual uses a different name on these platforms or has a limited online presence. Alternatively, there may be a typographical error in the name provided. If you can provide additional details or verify the spelling, I can assist you further in locating the relevant information. ",
+      "confidence": 0.2,
+      "decayed_score": 0.2,
+      "hash": "75685952fa130a8b43972a71f9adc6980d8b4786d11e10f28fdb18547360061c",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Explore business registration databases for potential entrepreneurial or company affiliations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:51.175482",
+      "data": "Based on the available information, there is no direct evidence of an individual named Muhammad Ahmed Iqbal Alvi being associated with a registered business. However, a company named Iqbal Engineering Services, established in 2000, is registered with the Pakistan Public Procurement Regulatory Authority (PPRA). The contact person listed is Iskhab Ahmed Abbasi, the Executive Director. ([ppra.org.pk](https://www.ppra.org.pk/epro/sdetail.asp?sid=1045&utm_source=openai))\n\nAdditionally, a faculty member named Iqbal Ahmad Alvi is associated with the University of Haripur, contributing to various research publications. ([hu.edu.pk](https://hu.edu.pk/faculty/detail/635?utm_source=openai))\n\nWhile these individuals share similar names, there is no definitive information linking them to a business registration under the name Muhammad Ahmed Iqbal Alvi. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "ce9e238bb365554b67273743d0a369bb58ba11b0ff57e549e033f7e5f617ffec",
+      "citations": [
+        {
+          "url": "https://www.ppra.org.pk/epro/sdetail.asp?sid=1045&utm_source=openai",
+          "title": "",
+          "start": 386,
+          "end": 470
+        },
+        {
+          "url": "https://hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 619,
+          "end": 688
+        }
+      ]
+    }
+  },
+  "report": "## OSINT Intelligence Report: Muhammad Ahmed Iqbal Alvi\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\n\nMuhammad Ahmed Iqbal Alvi is an academic researcher and Assistant Professor. He is affiliated with Hazara University, Mansehra, Pakistan, and has research interests in bacteriophage therapy. Based on available information, there are no immediate indicators of high reputational risk.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n\n*   Assistant Professor in the Department of Microbiology at Hazara University, Mansehra, Pakistan.\n*   Researcher affiliated with the Department of Pharmacy at Abbottabad University of Science and Technology in Havelian, Abbottabad, Pakistan.\n\n**2. Financial / Corporate Ties**\n\n*   No information available.\n\n**3. Legal / Regulatory Issues**\n\n*   No information available.\n\n**4. Academic / Public Presence**\n\n*   Holds a Post Doctorate and Ph.D. in Microbiology.\n*   Academic contributions primarily focus on bacteriophage therapy and its applications in combating multidrug-resistant bacteria.\n\n**5. Online / Social Media**\n\n*   No public profiles found on Facebook, Twitter, or Instagram under the exact name \"Muhammad Ahmed Iqbal Alvi.\"\n*   No relevant results found in Google News and media archives.\n\n**6. Additional Observations**\n\n*   There is a \"Dr. Muhammad Iqbal Alvi\" listed as a General Physician in Gujrat, but it is unclear if this is the same individual.\n\n### Risk Score\n\nLow. The available information suggests a standard academic profile with no readily apparent reputational risks.\n",
+  "judgement": {
+    "credibility_score": "8",
+    "flagged_issues": [
+      "Minor inconsistency in name variations (Iqbal Ahmad Alvi vs Muhammad Ahmed Iqbal Alvi) needs clarification",
+      "Conflicting information about ResearchGate/Academia.edu presence vs documented publications",
+      "Missing investigation into potential name variations used in academic publications",
+      "The report should clarify the relationship between the Hazara University profile and the Abbottabad University affiliation"
+    ],
+    "revised_report": "## OSINT Intelligence Report: Muhammad Ahmed Iqbal Alvi\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\n\nMuhammad Ahmed Iqbal Alvi (also referenced as Iqbal Ahmad Alvi¹) is an academic researcher and Assistant Professor in the Department of Microbiology at Hazara University, Mansehra, Pakistan. He has additional research affiliations with the Department of Pharmacy at Abbottabad University of Science and Technology. His research focuses on bacteriophage therapy against multidrug-resistant bacteria. Based on available information, there are no indicators of reputational risk.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\n\n* Assistant Professor, Department of Microbiology, Hazara University, Mansehra, Pakistan (since April 2008)¹\n* Research affiliation with Department of Pharmacy, Abbottabad University of Science and Technology, Havelian, Abbottabad, Pakistan²\n* Founder member of the Pakistan Society for Bacteriophages¹\n* Team member of international consortium on \"Development and Commercialization of Antibiotic Alternatives for Pakistan Poultry Production\"¹\n\n**2. Financial / Corporate Ties**\n\n* No business registrations or corporate affiliations found under this exact name\n* Note: An unrelated company \"Iqbal Engineering Services\" exists but has no confirmed connection³\n\n**3. Legal / Regulatory Issues**\n\n* No legal proceedings or court records found\n* No regulatory violations identified\n\n**4. Academic / Public Presence**\n\n* **Education:**\n  - Post Doctorate in Microbiology and Molecular Genetics, University of the Punjab (2023)¹\n  - Ph.D. in Microbiology and Molecular Genetics, University of the Punjab (2020)¹\n\n* **Research Focus:**\n  - Bacteriophage therapy against multidrug-resistant bacteria\n  - Methicillin-resistant Staphylococcus aureus (MRSA)\n  - Multidrug-resistant Pseudomonas aeruginosa\n  - Antibacterial efficacy of medicinal plants\n\n* **Notable Publications:**\n  - \"A Single Dose of a Virulent Bacteriophage vB PaeP-SaPL Rescues Bacteremic Mice Infected with Multidrug-Resistant Pseudomonas aeruginosa\" (*Virus Research*)²\n  - \"Assessment of Biofilm Removal Capacity of a Broad Host Range Bacteriophage JHP Against Pseudomonas aeruginosa\" (*Apmis*)²\n  - \"A Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis in Dromedary Camels in Punjab, Pakistan\" (*Veterinary Sciences*)²\n\n**5. Online / Social Media**\n\n* No public profiles found on Facebook, Twitter, or Instagram under the exact name\n* No presence found on ResearchGate or Academia.edu (conflicting with publication record)⁴\n* No mentions in Google News or media archives\n\n**6. Additional Observations**\n\n* Name variations in records: \"Muhammad Ahmed Iqbal Alvi\" vs \"Iqbal Ahmad Alvi\" may refer to the same person¹\n* A \"Dr. Muhammad Iqbal Alvi\" is listed as a General Physician in Gujrat, Pakistan (relationship unclear)⁵\n* Limited digital footprint despite active academic career\n\n### Risk Score\n\n**Low Risk.** The subject presents a standard academic profile with no identified reputational, legal, or financial risks. The limited online presence is consistent with many academics in the region.\n\n### Areas Requiring Further Investigation\n\n1. Clarification of name variations used in different contexts\n2. Verification of the relationship between Hazara University and Abbottabad University affiliations\n3. Investigation into why academic networking sites show no presence despite documented publications\n\n---\n\n**Footnotes:**\n¹ Hazara University Faculty Profile (hu.edu.pk/faculty/detail/635)\n² Academic publications as documented in retrieval evidence\n³ Pakistan Public Procurement Regulatory Authority (ppra.org.pk/epro/sdetail.asp?sid=1045)\n⁴ Search conducted on June 13, 2025, yielded no results\n⁵ Health.hamariweb.com listing for General Physician"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "LinkedIn",
+        "label": "entity"
+      },
+      {
+        "id": "Mansehra",
+        "label": "entity"
+      },
+      {
+        "id": "Pakistan",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Ahmed",
+        "label": "entity"
+      },
+      {
+        "id": "the Pakistan Society for Bacteriophages",
+        "label": "entity"
+      },
+      {
+        "id": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "label": "entity"
+      },
+      {
+        "id": "Methicillin",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Ahmed Iqbal Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "Hazara University",
+        "label": "entity"
+      },
+      {
+        "id": "CRISPR",
+        "label": "entity"
+      },
+      {
+        "id": "Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "the University of the Punjab",
+        "label": "entity"
+      },
+      {
+        "id": "Post Doctorate",
+        "label": "entity"
+      },
+      {
+        "id": "Iqbal Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "the Department of Microbiology at",
+        "label": "entity"
+      },
+      {
+        "id": "Google News",
+        "label": "entity"
+      },
+      {
+        "id": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "label": "entity"
+      },
+      {
+        "id": "Abbottabad",
+        "label": "entity"
+      },
+      {
+        "id": "JHP",
+        "label": "entity"
+      },
+      {
+        "id": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "label": "entity"
+      },
+      {
+        "id": "Ahmad Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "Texas",
+        "label": "entity"
+      },
+      {
+        "id": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "label": "entity"
+      },
+      {
+        "id": "Twitter",
+        "label": "entity"
+      },
+      {
+        "id": "Instagram",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Asif",
+        "label": "entity"
+      },
+      {
+        "id": "California",
+        "label": "entity"
+      },
+      {
+        "id": "the Department of Microbiology",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Iqbal",
+        "label": "entity"
+      },
+      {
+        "id": "General Physician",
+        "label": "entity"
+      },
+      {
+        "id": "Muhammad Iqbal Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "Methicillin-Resistant *Staphylococcus",
+        "label": "entity"
+      },
+      {
+        "id": "Gujrat",
+        "label": "entity"
+      },
+      {
+        "id": "Sindh",
+        "label": "entity"
+      },
+      {
+        "id": "Iqbal Ahmed Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "Academia.edu",
+        "label": "entity"
+      },
+      {
+        "id": "ResearchGate",
+        "label": "entity"
+      },
+      {
+        "id": "Iqbal Ahmad Alvi",
+        "label": "entity"
+      },
+      {
+        "id": "Iqbal Engineering Services",
+        "label": "entity"
+      },
+      {
+        "id": "Iskhab Ahmed Abbasi",
+        "label": "entity"
+      },
+      {
+        "id": "the University of Haripur",
+        "label": "entity"
+      },
+      {
+        "id": "the Pakistan Public Procurement Regulatory Authority",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "LinkedIn",
+        "target": "Mansehra",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Pakistan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Muhammad Ahmed",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "the Pakistan Society for Bacteriophages",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Methicillin",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Hazara University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "the University of the Punjab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Post Doctorate",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "LinkedIn",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Pakistan",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Muhammad Ahmed",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "the Pakistan Society for Bacteriophages",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Methicillin",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Hazara University",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "the University of the Punjab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Post Doctorate",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Mansehra",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Mansehra",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Muhammad Ahmed",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "the Pakistan Society for Bacteriophages",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Methicillin",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Hazara University",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Alvi",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "the University of the Punjab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Post Doctorate",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Iqbal Alvi",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Pakistan",
+        "target": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Abbottabad",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Pakistan",
+        "target": "JHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Ahmad Alvi",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Texas",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Pakistan",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the Pakistan Society for Bacteriophages",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Methicillin",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Hazara University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the University of the Punjab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Post Doctorate",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Iqbal Alvi",
+        "weight": 4.2,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Google News",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Abbottabad",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "JHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Iqbal Ahmad Alvi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Iqbal Engineering Services",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "Iskhab Ahmed Abbasi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the University of Haripur",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Muhammad Ahmed",
+        "target": "the Pakistan Public Procurement Regulatory Authority",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Methicillin",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Hazara University",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "the University of the Punjab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Post Doctorate",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Pakistan Society for Bacteriophages",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "Methicillin",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "Hazara University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "the University of the Punjab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "Post Doctorate",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the \"Development and Commercialization of Antibiotic Alternatives",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "Muhammad Ahmed Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "Hazara University",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "the University of the Punjab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "Post Doctorate",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Methicillin",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Hazara University",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "the University of the Punjab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Post Doctorate",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Iqbal Alvi",
+        "weight": 2.7,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Google News",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Ahmad Alvi",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Texas",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "Academia.edu",
+        "weight": 0.2,
+        "task": "task_7"
+      },
+      {
+        "source": "Muhammad Ahmed Iqbal Alvi",
+        "target": "ResearchGate",
+        "weight": 0.2,
+        "task": "task_7"
+      },
+      {
+        "source": "Hazara University",
+        "target": "CRISPR",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Hazara University",
+        "target": "the University of the Punjab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Post Doctorate",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Iqbal Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Hazara University",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Ahmad Alvi",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Texas",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hazara University",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Hazara University",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "CRISPR",
+        "target": "Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CRISPR",
+        "target": "the University of the Punjab",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CRISPR",
+        "target": "Post Doctorate",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CRISPR",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "CRISPR",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Alvi",
+        "target": "the University of the Punjab",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Alvi",
+        "target": "Post Doctorate",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Alvi",
+        "target": "Iqbal Alvi",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Alvi",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Alvi",
+        "target": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alvi",
+        "target": "Abbottabad",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alvi",
+        "target": "JHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alvi",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Alvi",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Alvi",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Alvi",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Alvi",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Alvi",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Alvi",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Alvi",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Post Doctorate",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the University of the Punjab",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "the Department of Microbiology at",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Post Doctorate",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "the Department of Microbiology at",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Google News",
+        "weight": 0.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Abbottabad",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "JHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Ahmad Alvi",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Texas",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Iqbal Ahmad Alvi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Iqbal Engineering Services",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "Iskhab Ahmed Abbasi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "the University of Haripur",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Alvi",
+        "target": "the Pakistan Public Procurement Regulatory Authority",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "Muhammad Iqbal",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Microbiology at",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "target": "Abbottabad",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "target": "JHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "the Department of Pharmacy at Abbottabad University of Science and Technology",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Abbottabad",
+        "target": "JHP",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Abbottabad",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "JHP",
+        "target": "Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "Texas",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Ahmad Alvi",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Texas",
+        "target": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Texas",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Texas",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Texas",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Texas",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Texas",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "target": "Twitter",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "instalker.org](https://www.instalker.org/IqbalAziz23?utm_source",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Twitter",
+        "target": "Instagram",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Twitter",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Twitter",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Twitter",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Instagram",
+        "target": "Muhammad Asif",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Instagram",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Instagram",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Asif",
+        "target": "California",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Asif",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "California",
+        "target": "the Department of Microbiology",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Muhammad Iqbal",
+        "target": "General Physician",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "General Physician",
+        "target": "Muhammad Iqbal Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "General Physician",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "General Physician",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "General Physician",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "General Physician",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal Alvi",
+        "target": "Methicillin-Resistant *Staphylococcus",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal Alvi",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal Alvi",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Muhammad Iqbal Alvi",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Methicillin-Resistant *Staphylococcus",
+        "target": "Gujrat",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Methicillin-Resistant *Staphylococcus",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Methicillin-Resistant *Staphylococcus",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Gujrat",
+        "target": "Sindh",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Gujrat",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Sindh",
+        "target": "Iqbal Ahmed Alvi",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Academia.edu",
+        "target": "ResearchGate",
+        "weight": 0.2,
+        "task": "task_7"
+      },
+      {
+        "source": "Iqbal Ahmad Alvi",
+        "target": "Iqbal Engineering Services",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Ahmad Alvi",
+        "target": "Iskhab Ahmed Abbasi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Ahmad Alvi",
+        "target": "the University of Haripur",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Ahmad Alvi",
+        "target": "the Pakistan Public Procurement Regulatory Authority",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Engineering Services",
+        "target": "Iskhab Ahmed Abbasi",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Engineering Services",
+        "target": "the University of Haripur",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iqbal Engineering Services",
+        "target": "the Pakistan Public Procurement Regulatory Authority",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iskhab Ahmed Abbasi",
+        "target": "the University of Haripur",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Iskhab Ahmed Abbasi",
+        "target": "the Pakistan Public Procurement Regulatory Authority",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the University of Haripur",
+        "target": "the Pakistan Public Procurement Regulatory Authority",
+        "weight": 0.9,
+        "task": "task_8"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for professional profile of Muhammad Ahmed Iqbal Alvi",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:50.672465",
+      "data": "I couldn't locate a LinkedIn profile for Muhammad Ahmed Iqbal Alvi. However, based on available information, here is a brief overview of his professional background:\n\nDr. Muhammad Ahmed Iqbal Alvi is an Assistant Professor in the Department of Microbiology at Hazara University, Mansehra, Pakistan. He joined the university in April 2008 and has been serving in this role since then. His research focuses on human and animal health, particularly on bacteriophage therapy against multiple drug-resistant bacteria. He has worked on Methicillin-resistant *Staphylococcus aureus* (MRSA), multidrug-resistant *Pseudomonas aeruginosa*, and the antibacterial efficacy of various medicinal plants. Dr. Alvi has expertise in screening bacteria, isolation, genetic characterization, protein expression, gene editing using CRISPR, and in vivo application of bacteriophages as therapeutic agents. He is also a team member of an international consortium working on the \"Development and Commercialization of Antibiotic Alternatives for Pakistan Poultry Production.\" Dr. Alvi holds a Post Doctorate and Ph.D. in Microbiology and Molecular Genetics from the University of the Punjab, completed in 2023 and 2020, respectively. He is also the founder member of the Pakistan Society for Bacteriophages. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "ac1060c912b0159adb718552d7c180592c2784b5a37424ba5e31a4b71b5555b7",
+      "citations": [
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 1284,
+          "end": 1357
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Check Google News and media archives for mentions of Muhammad Ahmed Iqbal Alvi",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:52.438480",
+      "data": "I searched for information on Muhammad Ahmed Iqbal Alvi in Google News and media archives but couldn't find any relevant results. It's possible that the individual is not widely covered in these sources. If you have more specific details or context about Muhammad Ahmed Iqbal Alvi, please provide them, and I'll be glad to assist you further. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "f5966e7b03ce4da42e1887d1081722d5fb298bb67429a69417f80a8cb24f69ee",
+      "citations": []
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Search academic databases and university directories for potential research or publication records",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:51.196886",
+      "data": "Muhammad Ahmed Iqbal Alvi is a researcher affiliated with the Department of Pharmacy at Abbottabad University of Science and Technology in Havelian, Abbottabad, Pakistan. His academic contributions primarily focus on bacteriophage therapy and its applications in combating multidrug-resistant bacterial infections.\n\nOne of his notable publications is titled \"A Single Dose of a Virulent Bacteriophage vB PaeP-SaPL Rescues Bacteremic Mice Infected with Multidrug-Resistant Pseudomonas aeruginosa,\" published in *Virus Research*. This study demonstrates the efficacy of a specific bacteriophage in treating infections caused by multidrug-resistant *Pseudomonas aeruginosa* in a murine model. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai))\n\nAnother significant work is \"Assessment of Biofilm Removal Capacity of a Broad Host Range Bacteriophage JHP Against *Pseudomonas aeruginosa*,\" published in *Apmis*. This research evaluates the ability of the JHP bacteriophage to disrupt biofilms formed by *P. aeruginosa*, highlighting its potential as an alternative therapeutic agent against biofilm-associated infections. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai))\n\nAdditionally, Alvi co-authored a study titled \"A Cross-Sectional Serological Study to Assess the Prevalence and Risk Factors of Anaplasmosis in Dromedary Camels in Punjab, Pakistan,\" published in *Veterinary Sciences*. This research investigates the prevalence and risk factors associated with anaplasmosis in dromedary camels, contributing valuable insights to veterinary epidemiology. ([mdpi.com](https://www.mdpi.com/2306-7381/11/12/657?utm_source=openai))\n\nThese publications underscore Alvi's significant contributions to microbiology and veterinary medicine, particularly in the areas of bacteriophage therapy and infectious disease epidemiology. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "633223b434eac356ee4db90dd59988a69830f093b9520811fbf2dd83440ec77d",
+      "citations": [
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 690,
+          "end": 763
+        },
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 1140,
+          "end": 1213
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Investigate social media platforms (Facebook, Twitter, Instagram) for public profiles matching the name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:50.635216",
+      "data": "After conducting a search for public profiles matching the name \"Muhammad Ahmed Iqbal Alvi\" on social media platforms such as Facebook, Twitter, and Instagram, I was unable to locate any profiles under this exact name. However, I found several individuals with similar names:\n\n- **Iqbal Ahmad Alvi**: A faculty member at the Department of Microbiology, Hazara University, Pakistan. ([hu.edu.pk](https://hu.edu.pk/faculty/detail/635?utm_source=openai))\n\n- **Muhammad Asif Iqbal Alvi**: Co-author of several scientific publications. ([hu.edu.pk](https://hu.edu.pk/faculty/detail/635?utm_source=openai))\n\n- **Muhammad Iqbal Aziz**: Active on Twitter under the handle @IqbalAziz23. ([instalker.org](https://www.instalker.org/IqbalAziz23?utm_source=openai))\n\n- **Muhammad Iqbal**: Multiple individuals with this name are listed on TruePeopleSearch, including those residing in Texas and California. ([truepeoplesearch.net](https://truepeoplesearch.net/people/muhammad-iqbal?utm_source=openai))\n\nPlease note that the availability of social media profiles can change over time, and some individuals may choose to keep their profiles private or not maintain an online presence. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "49692f738e24bb4e49e95ee75d73d11b5091b69da4a7789e333817e9400c136b",
+      "citations": [
+        {
+          "url": "https://hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 382,
+          "end": 451
+        },
+        {
+          "url": "https://hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 531,
+          "end": 600
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search legal databases and court records for any legal proceedings or mentions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:48.975841",
+      "data": "After reviewing available legal databases and court records, there are no documented legal proceedings or mentions involving an individual named Muhammad Ahmed Iqbal Alvi. The search did not yield any relevant information pertaining to this name. ",
+      "confidence": 0.6,
+      "decayed_score": 0.6,
+      "hash": "68ab93e8170c21a94c65868bcbd012ed7f027326b445e4de1b36846835f99b8c",
+      "citations": []
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Check professional certification registries for credentials under the name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:51.054803",
+      "data": "Based on the available information, there are two professionals named Muhammad Iqbal Alvi with notable credentials:\n\n1. **Dr. Iqbal Ahmed Alvi**: An Assistant Professor in the Department of Microbiology at Hazara University, Mansehra, Pakistan. He holds a Post Doctorate and Ph.D. in Microbiology and Molecular Genetics from the University of the Punjab, completed in 2023 and 2020, respectively. His research focuses on bacteriophage therapy against multiple drug-resistant bacteria, including Methicillin-Resistant *Staphylococcus aureus* (MRSA) and MDR *Pseudomonas aeruginosa*. Dr. Alvi is also a founding member of the Pakistan Society for Bacteriophages. ([hu.edu.pk](https://www.hu.edu.pk/faculty/detail/635?utm_source=openai))\n\n2. **Dr. Muhammad Iqbal Alvi**: A General Physician based in Gujrat, Pakistan. Specific details about his professional certifications are not provided in the available sources. ([health.hamariweb.com](https://health.hamariweb.com/dr-muhammad-iqbal-alvi-doc102228?utm_source=openai))\n\nAdditionally, there is a mention of a **Dr. Muhammad Iqbal** from Sindh, Pakistan, who was awarded the President’s Award for Pride of Performance in Engineering (Aerospace) in 2022. ([bolnews.com](https://www.bolnews.com/latest/2022/08/president-alvi-confers-pakistan-civil-awards-on-253-personalities/?utm_source=openai))\n\nHowever, without more specific information, it's challenging to determine if this individual is the same as Dr. Muhammad Iqbal Alvi. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "c469891004591e051cb24dd85a2eb5e00df84318577df3b4fa38203f6f5d4390",
+      "citations": [
+        {
+          "url": "https://www.hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 661,
+          "end": 734
+        },
+        {
+          "url": "https://health.hamariweb.com/dr-muhammad-iqbal-alvi-doc102228?utm_source=openai",
+          "title": "Dr Muhammad Iqbal Alvi General Physician in Gujrat - Contact Number, Fees & Hospital Address",
+          "start": 913,
+          "end": 1018
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Search professional networking sites like ResearchGate or Academia.edu for academic presence",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:49.312039",
+      "data": "I searched professional networking sites like ResearchGate and Academia.edu for an academic presence of Muhammad Ahmed Iqbal Alvi but did not find any profiles or publications associated with this name. It's possible that the individual uses a different name on these platforms or has a limited online presence. Alternatively, there may be a typographical error in the name provided. If you can provide additional details or verify the spelling, I can assist you further in locating the relevant information. ",
+      "confidence": 0.2,
+      "decayed_score": 0.2,
+      "hash": "75685952fa130a8b43972a71f9adc6980d8b4786d11e10f28fdb18547360061c",
+      "citations": []
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Explore business registration databases for potential entrepreneurial or company affiliations",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T05:26:51.175482",
+      "data": "Based on the available information, there is no direct evidence of an individual named Muhammad Ahmed Iqbal Alvi being associated with a registered business. However, a company named Iqbal Engineering Services, established in 2000, is registered with the Pakistan Public Procurement Regulatory Authority (PPRA). The contact person listed is Iskhab Ahmed Abbasi, the Executive Director. ([ppra.org.pk](https://www.ppra.org.pk/epro/sdetail.asp?sid=1045&utm_source=openai))\n\nAdditionally, a faculty member named Iqbal Ahmad Alvi is associated with the University of Haripur, contributing to various research publications. ([hu.edu.pk](https://hu.edu.pk/faculty/detail/635?utm_source=openai))\n\nWhile these individuals share similar names, there is no definitive information linking them to a business registration under the name Muhammad Ahmed Iqbal Alvi. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "ce9e238bb365554b67273743d0a369bb58ba11b0ff57e549e033f7e5f617ffec",
+      "citations": [
+        {
+          "url": "https://www.ppra.org.pk/epro/sdetail.asp?sid=1045&utm_source=openai",
+          "title": "",
+          "start": 386,
+          "end": 470
+        },
+        {
+          "url": "https://hu.edu.pk/faculty/detail/635?utm_source=openai",
+          "title": "Faculty Member Details",
+          "start": 619,
+          "end": 688
+        }
+      ]
+    }
+  },
+  "retrieval_model": "gpt-4o-mini-search-preview",
+  "synthesis_model": "gemini-2.0-flash"
+}

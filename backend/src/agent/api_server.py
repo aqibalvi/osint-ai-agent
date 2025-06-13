@@ -2,28 +2,25 @@
 
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse, FileResponse, JSONResponse
 from pydantic import BaseModel
-
-from fastapi.responses import StreamingResponse
+from pathlib import Path
+from typing import Optional
+import uuid
 import json
 import time
 
 from agent.chat_logger import log_session, log_message, get_chat_history, init_db
 from agent.langgraph_app import build_graph
-from typing import Optional
-
 from agent.state import OSINTState
-from agent.audit_log import save_osint_state_to_file
-import uuid
-
-
+from agent.audit_log import save_osint_state_to_file, load_osint_state_from_file
 
 app = FastAPI()
 
-# ✅ Allow frontend on localhost:5173 to access backend
+# ✅ Allow frontend access
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # React frontend origin
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -32,36 +29,36 @@ app.add_middleware(
 init_db()
 graph = build_graph()
 
+# ================================
+# REQUEST MODELS
+# ================================
+
 class ChatRequest(BaseModel):
     session_id: str
     entity_name: str
     user_message: str
 
-
-
 class InvestigationRequest(BaseModel):
     query: str
     retrieval_model: Optional[str] = "gpt-4o-mini-search-preview"
-    synthesis_model: Optional[str] = "gemini-1.5-pro"
+    synthesis_model: Optional[str] = "gemini-2.0-flash"
+
+# ================================
+# OSINT Investigation (Basic)
+# ================================
 
 @app.post("/osint/investigate")
 def investigate(payload: InvestigationRequest):
     session_id = str(uuid.uuid4())
-
-    # Convert OSINTState to dict for LangGraph
     state = {
         "query": payload.query,
         "retrieval_model": payload.retrieval_model,
         "synthesis_model": payload.synthesis_model
     }
 
-    graph = build_graph()
     final_state = graph.invoke(state)
-
-    # Save results for audit/debugging
     save_osint_state_to_file(final_state, final_state["parsed"]["entity_name"])
 
-    # ✅ Deduplicate citations (by URL + title)
     seen = set()
     citation_urls = []
     for task in final_state["retrievals"].values():
@@ -85,6 +82,10 @@ def investigate(payload: InvestigationRequest):
         "credibility_score": final_state["judgement"].get("credibility_score"),
     }
 
+# ================================
+# OSINT Streaming Response
+# ================================
+
 @app.post("/osint/investigate-stream")
 def investigate_stream(payload: InvestigationRequest):
     session_id = str(uuid.uuid4())
@@ -93,29 +94,24 @@ def investigate_stream(payload: InvestigationRequest):
         "retrieval_model": payload.retrieval_model,
         "synthesis_model": payload.synthesis_model,
     }
-    graph = build_graph()
 
     def generate():
         yield json.dumps({"step": "Analyzing Query 🔍"}) + "\n"
         time.sleep(0.5)
         yield json.dumps({"parsed": state["query"]}) + "\n"
-
         yield json.dumps({"step": "Planning OSINT Tasks 🧠"}) + "\n"
         time.sleep(0.5)
-
         yield json.dumps({"step": "Running Web Searches 🌐"}) + "\n"
         for i in range(1, 9):
             yield json.dumps({"search": f"🔎 Running web search for task {i}..."}) + "\n"
             time.sleep(0.3)
-
         yield json.dumps({"step": "Scoring & Evaluating Sources 📊"}) + "\n"
         time.sleep(1)
-
         yield json.dumps({"step": "Synthesizing Final Report 📝"}) + "\n"
+
         final_state = graph.invoke(state)
         save_osint_state_to_file(final_state, final_state["parsed"]["entity_name"])
 
-        # ✅ Deduplicate citations (by URL + title)
         seen = set()
         citation_urls = []
         for task in final_state["retrievals"].values():
@@ -139,8 +135,36 @@ def investigate_stream(payload: InvestigationRequest):
 
     return StreamingResponse(generate(), media_type="text/event-stream")
 
-
+# ================================
+# Chat History API (existing)
+# ================================
 
 @app.get("/chat/{session_id}")
 def get_history(session_id: str):
     return get_chat_history(session_id)
+
+# ================================
+# ✅ NEW: Audit Log Endpoints
+# ================================
+
+AUDIT_LOG_DIR = Path("output_logs")
+
+@app.get("/osint/history")
+def list_investigation_logs():
+    files = sorted(AUDIT_LOG_DIR.glob("*.json"), reverse=True)
+    return [f.name for f in files]
+
+@app.get("/osint/history/view/{filename}")
+def get_log_file(filename: str):
+    file_path = AUDIT_LOG_DIR / filename
+    if not file_path.exists():
+        return JSONResponse(status_code=404, content={"error": "File not found"})
+    return FileResponse(file_path)
+
+@app.get("/osint/history/load/{filename}")
+def load_osint_state(filename: str):
+    file_path = AUDIT_LOG_DIR / filename
+    if not file_path.exists():
+        return JSONResponse(status_code=404, content={"error": "File not found"})
+    osint_state = load_osint_state_from_file(str(file_path))
+    return osint_state.dict()
