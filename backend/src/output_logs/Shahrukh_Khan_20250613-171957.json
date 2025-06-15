@@ -1,0 +1,5210 @@
+{
+  "query": "Investigate Shahrukh Khan",
+  "parsed": {
+    "entity_type": "person",
+    "entity_name": "Shahrukh Khan",
+    "keywords": [
+      "Bollywood",
+      "actor",
+      "film star",
+      "cinema",
+      "entertainment"
+    ],
+    "affiliation": "Red Chillies Entertainment",
+    "location": "Mumbai, India",
+    "nationality": "Indian"
+  },
+  "tasks": [
+    "Search LinkedIn for current role of Shahrukh Khan at Red Chillies Entertainment",
+    "Investigate Mumbai municipal property records for residential ownership under Shahrukh Khan's name",
+    "Review recent news archives from Mumbai-based media outlets for professional and personal mentions",
+    "Check Maharashtra state business registry for company directorships or shareholdings",
+    "Search academic databases for any educational credentials or honorary degrees associated with Shahrukh Khan",
+    "Explore social media platforms for verified professional and personal accounts linked to his entertainment career",
+    "Analyze film industry databases for comprehensive filmography and production credits",
+    "Review legal and court records in Mumbai jurisdiction for any significant legal proceedings or corporate filings"
+  ],
+  "retrievals": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role of Shahrukh Khan at Red Chillies Entertainment",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:04.989342",
+      "data": "Shah Rukh Khan serves as the founder and managing director of Red Chillies Entertainment, a prominent Indian entertainment company he co-founded with his wife, Gauri Khan, in 2002. The company is involved in various aspects of the entertainment industry, including film production, distribution, visual effects, and television commercials. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai))\n\nIn June 2024, Red Chillies Entertainment issued a public notice warning against fraudulent employment offers circulating on social media platforms, particularly WhatsApp. The company emphasized that all genuine opportunities are communicated through their official channels. ([ndtv.com](https://www.ndtv.com/entertainment/shah-rukh-khans-red-chillies-entertainment-warns-against-fraudulent-employment-offers-5828923?utm_source=openai))\n\nAdditionally, in December 2016, Red Chillies Entertainment entered into a long-term agreement with Netflix, making it the global home for both upcoming and past films produced by the company. This partnership marked a significant step in bringing Indian cinema to a global audience. ([business-standard.com](https://www.business-standard.com/article/news-ani/king-khan-s-red-chillies-entertainment-strikes-deal-with-netflix-116121500756_1.html?utm_source=openai))\n\nUnder Khan's leadership, Red Chillies Entertainment has produced several successful films, including \"Om Shanti Om,\" \"Ra.One,\" and \"Chennai Express.\" The company continues to be a significant player in the Indian entertainment industry, contributing to the global reach of Bollywood cinema. ([forbes.com](https://www.forbes.com/sites/dongroves/2017/02/28/shah-rukh-khans-ambitious-vision-for-red-chillies-entertainment/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "47d23552a5e3d31377369a83d67270673d3ee4755e93fb97b2820ca6394ab4b0",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai",
+          "title": "Red Chillies Entertainment",
+          "start": 340,
+          "end": 436
+        },
+        {
+          "url": "https://www.ndtv.com/entertainment/shah-rukh-khans-red-chillies-entertainment-warns-against-fraudulent-employment-offers-5828923?utm_source=openai",
+          "title": "Shah Rukh Khan's Red Chillies Entertainment Warns Against \"Fraudulent\" Employment Offers",
+          "start": 713,
+          "end": 873
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Investigate Mumbai municipal property records for residential ownership under Shahrukh Khan's name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:05.596110",
+      "data": "Shahrukh Khan, the renowned Bollywood actor, owns several residential properties in Mumbai, with his primary residence being the iconic bungalow \"Mannat.\" Located in the upscale Bandstand area of Bandra (West), Mumbai, Mannat is a six-story sea-facing property spanning approximately 27,000 square feet. Khan acquired the heritage bungalow in 2001 for around ₹13 crore and has since invested in its renovation and expansion. ([housing.com](https://housing.com/news/the-mansion-called-mannat//?utm_source=openai))\n\nIn addition to Mannat, Khan has expanded his real estate portfolio in Mumbai. In February 2025, he rented two luxury duplex apartments in the Pali Hill area of Khar for ₹8.67 crore over three years. These duplexes, located in the building named Puja Casa, were rented from film producer Vashu Bhagnani and actor Jacky Bhagnani. The move was reportedly due to renovation and extension work planned for the Mannat annexe. ([hindustantimes.com](https://www.hindustantimes.com/real-estate/shahrukh-khan-takes-on-rent-two-duplex-apartments-in-mumbai-for-rs-8-67-crore-for-three-years-101739960333164.html?utm_source=openai))\n\nFurthermore, in January 2025, Khan was set to receive a ₹9 crore refund from the state following a calculation error by the Mumbai suburban collectorate during the conversion of the lease on Mannat to full ownership. This refund was related to the premium paid for the conversion of the property from a 99-year lease to complete ownership. ([hindustantimes.com](https://www.hindustantimes.com/cities/mumbai-news/shahrukh-to-get-9-cr-refund-from-state-for-mannat-101737746658079.html?utm_source=openai))\n\nThese properties underscore Shahrukh Khan's significant real estate investments in Mumbai, reflecting his prominence in the city's luxury housing market. ",
+      "confidence": 0.2,
+      "decayed_score": 0.2,
+      "hash": "64c629280563751a86960df0348ed070e99c8f8b28305b00ec1c21dd3aab771f",
+      "citations": [
+        {
+          "url": "https://housing.com/news/the-mansion-called-mannat//?utm_source=openai",
+          "title": "Mannat house: Look Inside SRK's expensive 200 cr property",
+          "start": 425,
+          "end": 512
+        },
+        {
+          "url": "https://www.hindustantimes.com/real-estate/shahrukh-khan-takes-on-rent-two-duplex-apartments-in-mumbai-for-rs-8-67-crore-for-three-years-101739960333164.html?utm_source=openai",
+          "title": "Shah Rukh Khan rents two luxury duplex flats in Mumbai for ₹8.7 crore for three years; the reason behind the move - Hindustan Times",
+          "start": 934,
+          "end": 1133
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Review recent news archives from Mumbai-based media outlets for professional and personal mentions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:04.982072",
+      "data": "Recent Mumbai-based media outlets have reported on several professional and personal developments involving Bollywood superstar Shah Rukh Khan:\n\n**Professional Updates:**\n\n- **Met Gala Appearance:** On May 5, 2025, Khan made his debut at the Met Gala in Manhattan, becoming the first Bollywood male actor to attend the prestigious event. His ensemble was designed by renowned fashion designer Sabyasachi Mukherjee. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai))\n\n- **Upcoming Film 'King':** In January 2025, Khan confirmed his collaboration with director Siddharth Anand for the film 'King,' which will also mark the theatrical debut of his daughter, Suhana Khan. ([indiatvnews.com](https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai))\n\n**Personal Updates:**\n\n- **Family Moments:** In February 2025, videos of Khan's son, Abram, singing \"Die,\" and Aishwarya Rai Bachchan's daughter, Aaradhya, performing as Goddess Sita, went viral, showcasing the next generation of Bollywood talent. ([indiatvnews.com](https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai))\n\n- **Family Outing:** In February 2025, Khan, along with fellow actors Salman Khan and Aamir Khan, attended the Mumbai screening of 'Loveyapa,' a film featuring Junaid Khan and Khushi Kapoor. The trio's presence garnered significant media attention. ([indiatvnews.com](https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai))\n\nThese updates highlight Shah Rukh Khan's ongoing influence in the entertainment industry and his active participation in both professional projects and family events. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "6b3585d13b98979830b10b7fe06208a80f4e445c6ea2a61fce0b6a99bf28b918",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai",
+          "title": "Shah Rukh Khan",
+          "start": 415,
+          "end": 499
+        },
+        {
+          "url": "https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai",
+          "title": "Shahrukh Khan Latest News, Photos and Videos - India TV News",
+          "start": 702,
+          "end": 790
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Check Maharashtra state business registry for company directorships or shareholdings",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:05.386921",
+      "data": "Shahrukh Khan, the renowned Bollywood actor, holds directorial positions in several companies registered in Maharashtra, India. According to records from the Ministry of Corporate Affairs, he is associated with the following entities:\n\n- **Red Chillies Entertainment Private Limited**: Established in 2002, this Mumbai-based company specializes in film production, distribution, and visual effects. Khan serves as the founder and managing director. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai))\n\n- **Arclightz and Films Private Limited**: Incorporated in 1998, this company is involved in recreational, cultural, and sporting activities. Khan has been serving as a director since November 11, 1998. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Tuscany Properties Private Limited**: Founded on August 2, 2006, this real estate and renting company has Khan as a director. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Tuscany Sports LLP**: Established on December 5, 2018, this entity focuses on recreational, cultural, and sporting activities, with Khan as a designated partner. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Admented Reality LLP**: Registered on July 29, 2022, this company operates in the field of augmented reality, with Khan serving as a designated partner. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Zenroh Beverages Private Limited**: Incorporated on November 17, 2023, this company is associated with Khan as a director. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/10394581?utm_source=openai))\n\nAdditionally, Khan was briefly associated with **Bros Brothers International Limited**, a company registered in the United Kingdom. He was appointed as a director on January 25, 2017, and resigned on the same day. ([find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk/officers/tCkD2jamUMhEIB5iKbzs5lfJoMs/appointments?utm_source=openai))\n\nThese affiliations highlight Khan's extensive involvement in various sectors, including entertainment, real estate, sports, and technology. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "3f72c6e29078eafcb93fff3d49fefbf44172ae93ee38ef40fba2e49d90883a84",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai",
+          "title": "Red Chillies Entertainment",
+          "start": 449,
+          "end": 545
+        },
+        {
+          "url": "https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai",
+          "title": "SHAHRUKH KHAN - Get DIN, Appointment Date & Associated Companies | Tofler",
+          "start": 750,
+          "end": 836
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search academic databases for any educational credentials or honorary degrees associated with Shahrukh Khan",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:05.081503",
+      "data": "Shah Rukh Khan, the renowned Bollywood actor, has been honored with several honorary degrees from prestigious institutions worldwide:\n\n- **University of Bedfordshire, UK (2009):** Awarded an honorary Doctor of Letters for his contributions to the arts and international philanthropy. ([masala.com](https://www.masala.com/bollywood-news/shah-rukh-khan-and-the-list-of-honors-he-has-from-major-universities-291769?utm_source=openai))\n\n- **University of Edinburgh, Scotland (2015):** Conferred an honorary Doctor of Letters in recognition of his achievements in film and support for charitable causes. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahrukh-khan-to-receive-honorary-doctorate-from-the-university-of-edinburgh/articleshow/49234039.cms?utm_source=openai))\n\n- **Maulana Azad National Urdu University, Hyderabad, India (2016):** Received an honorary Doctor of Letters for promoting the Urdu language and culture. ([deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh-khan-2103574?utm_source=openai))\n\n- **The University of Law, London, UK (2019):** Honored with an honorary doctorate in Philanthropy for his leadership in championing human rights. ([ndtv.com](https://www.ndtv.com/entertainment/webstories/icydk-shah-rukh-khan-holds-five-honorary-doctorates-25317?utm_source=openai))\n\n- **La Trobe University, Melbourne, Australia (2019):** Awarded an honorary Doctor of Letters for his contributions to the film industry and philanthropy. ([ndtv.com](https://www.ndtv.com/entertainment/webstories/icydk-shah-rukh-khan-holds-five-honorary-doctorates-25317?utm_source=openai))\n\nThese accolades reflect Khan's significant impact on cinema and his philanthropic endeavors. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "cf9bd5841316d8eaef096830116ad4252edd983b734767a043bf2172561bb2af",
+      "citations": [
+        {
+          "url": "https://www.masala.com/bollywood-news/shah-rukh-khan-and-the-list-of-honors-he-has-from-major-universities-291769?utm_source=openai",
+          "title": "Shah Rukh Khan and the List of Honors He Has From Major Universities - Masala.com",
+          "start": 284,
+          "end": 431
+        },
+        {
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahrukh-khan-to-receive-honorary-doctorate-from-the-university-of-edinburgh/articleshow/49234039.cms?utm_source=openai",
+          "title": "Shahrukh Khan to receive honorary doctorate from the University of Edinburgh | Hindi Movie News - Times of India",
+          "start": 599,
+          "end": 822
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Explore social media platforms for verified professional and personal accounts linked to his entertainment career",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:04.025139",
+      "data": "Shah Rukh Khan, often referred to as the \"King of Bollywood,\" maintains an active presence on several social media platforms, offering fans direct access to his professional and personal updates. Here are his verified accounts:\n\n- **Twitter/X**: @iamsrk\n- **Instagram**: @iamsrk\n- **Facebook**: @IamSRK\n- **Snapchat**: @shaahrukh0 ([snapchat.com](https://www.snapchat.com/add/shaahrukh0?utm_source=openai))\n\nThese platforms provide insights into his latest projects, personal moments, and interactions with fans. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "fc9f3c84bd608f285bbfff8a447b73a17d7bc44de66dc971d4752eb6b3d7e735",
+      "citations": [
+        {
+          "url": "https://www.snapchat.com/add/shaahrukh0?utm_source=openai",
+          "title": "Shahrukh Khan ® (@shaahrukh0) | Snapchat Stories, Spotlight & Lenses",
+          "start": 331,
+          "end": 406
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Analyze film industry databases for comprehensive filmography and production credits",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:06.615743",
+      "data": "Shah Rukh Khan, often referred to as the \"Baadshah of Bollywood,\" has an extensive filmography spanning over three decades. He began his acting career with the television series *Fauji* in 1988, portraying a soldier, which led to his film debut in the romantic drama *Deewana* (1992). His early roles in *Baazigar* (1993) and *Darr* (1993) established him as a versatile actor capable of portraying both romantic and antagonist characters. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai))\n\nIn 1995, Khan starred in *Dilwale Dulhania Le Jayenge*, a film that became the longest-running Indian film of all time. He continued to solidify his status with hits like *Dil To Pagal Hai* (1997) and *Kuch Kuch Hota Hai* (1998). The 2000s saw him in diverse roles, including the period drama *Asoka* (2001) and the romantic epic *Veer-Zaara* (2004). His performance in *Kabhi Alvida Naa Kehna* (2006) marked a departure from his usual roles, showcasing his range as an actor. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai))\n\nThe 2010s featured Khan in films like *My Name Is Khan* (2010), where he portrayed a man with Asperger syndrome, and *Ra.One* (2011), a science fiction action film. He reunited with Kajol in *Dilwale* (2015) and starred in the action-comedy *Chennai Express* (2013). In 2023, Khan made a significant comeback with the action thriller *Pathaan*, which became one of the highest-grossing Indian films, and *Jawan*, where he played dual roles as father and son. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai))\n\nThroughout his career, Khan has received numerous accolades, including eight Filmfare Awards for Best Actor, tying him with Dilip Kumar for the most wins in this category. He has also been honored with the Padma Shri by the Government of India and the Legion of Honour by the Government of France. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai))\n\nFor a comprehensive list of Shah Rukh Khan's films, including box office collections and verdicts, you can refer to his filmography on Wikipedia. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "39c9c82874fbd7beef0a14fa8e0982a1ab1d2f19fcfc5ac6d33845e9989aca2d",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai",
+          "title": "Shah Rukh Khan filmography",
+          "start": 440,
+          "end": 536
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai",
+          "title": "Shah Rukh Khan filmography",
+          "start": 1015,
+          "end": 1111
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Review legal and court records in Mumbai jurisdiction for any significant legal proceedings or corporate filings",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:07.027377",
+      "data": "Shahrukh Khan, a prominent Bollywood actor, has been involved in several legal proceedings within Mumbai's jurisdiction:\n\n1. **FEMA Violation Case (2017):** The Enforcement Directorate (ED) issued notices to Shahrukh Khan and his wife, Gauri Khan, in connection with an alleged violation of the Foreign Exchange Management Act (FEMA). The case involved a loss of ₹73.6 crore due to the transfer of shares in Knight Riders Sports Pvt Ltd (KRSPL), which owns the Kolkata Knight Riders IPL team, to a Mauritius-based firm at a value lower than its actual worth. The ED alleged this resulted in a foreign exchange loss. Both Shahrukh and Gauri Khan were asked to participate in adjudication proceedings scheduled for August 23, 2017. ([indianexpress.com](https://indianexpress.com/article/india/fema-violation-case-ed-notices-to-shahrukh-gauri-khan-ipl-kkr-4760306/?utm_source=openai))\n\n2. **Building Regulations Violation (2007):** In 2007, the Bombay High Court sought an explanation from Shahrukh Khan regarding alleged violations of building regulations for a structure constructed adjacent to his bungalow, Mannat, in Bandra, Mumbai. A public interest litigation filed by an NGO claimed that the building encroached upon a proposed road in the development plan. The court directed Khan to file a detailed affidavit in response to these allegations. ([arabnews.com](https://www.arabnews.com/node/303382?utm_source=openai))\n\n3. **Wankhede Stadium Incident (2012):** After an IPL match in 2012, Shahrukh Khan was involved in a brawl with security personnel at the Wankhede Stadium. The Mumbai Cricket Association (MCA) initially imposed a five-year ban on Khan's entry to the stadium. However, in 2015, the MCA lifted the ban, and in 2016, the Mumbai Police informed that no cognizable offence was made out against Khan, stating he was not drunk and did not use abusive language before minors during the incident. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai))\n\n4. **Aryan Khan's Arrest and Bail (2021):** In October 2021, Shahrukh Khan's son, Aryan Khan, was arrested by the Narcotics Control Bureau (NCB) in connection with a drug bust on a cruise ship off the Mumbai coast. Aryan Khan was granted bail by the Bombay High Court on October 28, 2021, after spending three weeks in custody. ([indianexpress.com](https://indianexpress.com/article/cities/mumbai/aryan-khan-bail-live-updates-bombay-high-court-7592717/?utm_source=openai))\n\nThese instances highlight the legal challenges faced by Shahrukh Khan and his family within Mumbai's jurisdiction. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b5bb68acd7ae8f1079e0a250b628e52ca9d31ede9155c81b9d91f589b76533d0",
+      "citations": [
+        {
+          "url": "https://indianexpress.com/article/india/fema-violation-case-ed-notices-to-shahrukh-gauri-khan-ipl-kkr-4760306/?utm_source=openai",
+          "title": "FEMA ‘Violation’ Case: ED notices to Shahrukh, Gauri Khan | India News - The Indian Express",
+          "start": 730,
+          "end": 881
+        },
+        {
+          "url": "https://www.arabnews.com/node/303382?utm_source=openai",
+          "title": "Building Lands Shahrukh in Trouble | Arab News",
+          "start": 1350,
+          "end": 1422
+        }
+      ]
+    }
+  },
+  "report": "## OSINT Intelligence Report: Shahrukh Khan\n\n**Report Date:** June 13, 2025\n\n### Executive Summary\nShah Rukh Khan is a prominent Bollywood actor, film producer, and television personality. He is the founder and managing director of Red Chillies Entertainment. Recent media coverage includes his debut at the Met Gala and his company issuing warnings against fraudulent employment offers.\n\n### Key Intelligence by Category\n\n**1. Career / Employment**\nShah Rukh Khan is a Bollywood actor. He is the founder and managing director of Red Chillies Entertainment, a film production and distribution company.\n\n**2. Financial / Corporate Ties**\nKhan is associated with Red Chillies Entertainment Private Limited, established in 2002, and holds directorial positions in several other companies registered in Maharashtra, India.\n\n**3. Legal / Regulatory Issues**\nRed Chillies Entertainment has recently issued warnings against fraudulent employment offers.\n\n**4. Academic / Public Presence**\nKhan has received honorary degrees from the University of Bedfordshire (UK) in 2009, and the University of Edinburgh.\n\n**5. Online / Social Media**\nKhan maintains an active presence on social media platforms, including Twitter (@iamsrk), Instagram (@iamsrk), Facebook (@IamSRK), and Snapchat (@shaahrukh0).\n\n**6. Additional Observations**\nKhan made his debut at the Met Gala on May 5, 2025.\n\n### Risk Score\nBased on the available information, Shah Rukh Khan presents a low reputational risk. While his company has addressed fraudulent employment offers, this does not directly implicate him in any wrongdoing. His extensive career and public presence suggest a well-established and managed public image.\n",
+  "judgement": {
+    "credibility_score": "8",
+    "flagged_issues": [
+      "Report date listed as June 13, 2025 appears to be a future date",
+      "Missing specific citations for several claims",
+      "Incomplete information about honorary degrees (report mentions only 2 universities while evidence shows 5)",
+      "Risk assessment section lacks depth and specific analysis",
+      "No mention of significant legal proceedings found in evidence"
+    ],
+    "risk_assessment": {
+      "risk_score": "4",
+      "verdict": "MEDIUM",
+      "risk_signals": [
+        "FEMA violation case (2017) involving alleged foreign exchange loss of ₹73.6 crore through Knight Riders Sports Pvt Ltd share transfers",
+        "Building regulation violations (2007) at Mannat property with court proceedings",
+        "Son Aryan Khan's arrest in narcotics case (2021) presents reputational risk",
+        "Fraudulent employment offers using company name indicates potential brand exploitation",
+        "Multiple corporate directorships across various sectors may present conflict of interest risks"
+      ]
+    },
+    "revised_report": "## OSINT Intelligence Report: Shah Rukh Khan\n\n**Report Generated:** December 2024\n\n### Executive Summary\nShah Rukh Khan is a prominent Bollywood actor, film producer, and entrepreneur who serves as the founder and managing director of Red Chillies Entertainment Private Limited¹. With a career spanning over three decades, he maintains significant business interests across entertainment, real estate, sports, and technology sectors. Recent intelligence indicates both professional achievements and legal/regulatory challenges requiring monitoring.\n\n### Key Intelligence by Category\n\n**1. Career / Professional Status**\n- Founder and Managing Director of Red Chillies Entertainment (established 2002)¹\n- Active Bollywood actor with recent films including \"Pathaan\" and \"Jawan\" (2023)⁷\n- Made debut appearance at Met Gala (May 5, 2025)³\n- Upcoming film \"King\" confirmed with director Siddharth Anand, featuring daughter Suhana Khan³\n\n**2. Corporate Affiliations & Directorships**\n- Red Chillies Entertainment Private Limited (Founder/MD, 2002)⁴\n- Arclightz and Films Private Limited (Director since 1998)⁴\n- Tuscany Properties Private Limited (Director since 2006)⁴\n- Tuscany Sports LLP (Designated Partner since 2018)⁴\n- Admented Reality LLP (Designated Partner since 2022)⁴\n- Zenroh Beverages Private Limited (Director since 2023)⁴\n\n**3. Legal & Regulatory Issues**\n- **FEMA Violation Case (2017):** Enforcement Directorate issued notices for alleged ₹73.6 crore foreign exchange loss through Knight Riders Sports share transfers⁸\n- **Building Violations (2007):** Bombay High Court proceedings regarding construction violations at Mannat property⁸\n- **Wankhede Stadium Incident (2012):** Five-year ban imposed by Mumbai Cricket Association (lifted 2015)⁸\n- **Fraudulent Employment Offers (2024):** Red Chillies Entertainment issued public warnings against fake job offers¹\n\n**4. Real Estate Holdings**\n- Primary residence: \"Mannat\" - 27,000 sq ft sea-facing bungalow in Bandra, acquired 2001 for ₹13 crore²\n- Rental properties: Two luxury duplex apartments in Pali Hill, Khar (₹8.67 crore for 3 years, 2025)²\n- ₹9 crore refund pending from Maharashtra government for Mannat lease conversion error²\n\n**5. Academic Recognition**\n- Honorary Doctor of Letters - University of Bedfordshire, UK (2009)⁵\n- Honorary Doctor of Letters - University of Edinburgh, Scotland (2015)⁵\n- Honorary Doctor of Letters - Maulana Azad National Urdu University, India (2016)⁵\n- Honorary Doctorate in Philanthropy - The University of Law, London (2019)⁵\n- Honorary Doctor of Letters - La Trobe University, Australia (2019)⁵\n\n**6. Digital Presence**\n- Twitter/X: @iamsrk⁶\n- Instagram: @iamsrk⁶\n- Facebook: @IamSRK⁶\n- Snapchat: @shaahrukh0⁶\n\n### Risk Assessment\n**Overall Risk Score: 4/10 (MEDIUM)**\n\nThe subject presents moderate legal and reputational risks stemming from:\n- Historical regulatory violations (FEMA, building codes)\n- Family member's involvement in criminal proceedings (son's 2021 narcotics case)\n- Potential for brand exploitation through fraudulent schemes\n- Complex corporate structure across multiple sectors\n\nWhile these issues warrant monitoring, Khan's established public profile and active management of corporate interests suggest controlled risk exposure.\n\n### Citations\n¹ Red Chillies Entertainment data (Task 1)\n² Mumbai property records (Task 2)\n³ Mumbai media reports (Task 3)\n⁴ Maharashtra business registry (Task 4)\n⁵ Academic credentials (Task 5)\n⁶ Social media verification (Task 6)\n⁷ Filmography databases (Task 7)\n⁸ Mumbai court records (Task 8)"
+  },
+  "retry_count": null,
+  "provenance": null,
+  "graph": {
+    "nodes": [
+      {
+        "id": "Red Chillies Entertainment",
+        "label": "entity"
+      },
+      {
+        "id": "WhatsApp",
+        "label": "entity"
+      },
+      {
+        "id": "Netflix",
+        "label": "entity"
+      },
+      {
+        "id": "Gauri Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Chennai Express",
+        "label": "entity"
+      },
+      {
+        "id": "Shahrukh Khan's",
+        "label": "entity"
+      },
+      {
+        "id": "Bandra",
+        "label": "entity"
+      },
+      {
+        "id": "Puja Casa",
+        "label": "entity"
+      },
+      {
+        "id": "Vashu Bhagnani",
+        "label": "entity"
+      },
+      {
+        "id": "Shahrukh Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Bandstand",
+        "label": "entity"
+      },
+      {
+        "id": "Jacky Bhagnani",
+        "label": "entity"
+      },
+      {
+        "id": "Mumbai",
+        "label": "entity"
+      },
+      {
+        "id": "Mannat",
+        "label": "entity"
+      },
+      {
+        "id": "Bollywood",
+        "label": "entity"
+      },
+      {
+        "id": "Khar",
+        "label": "entity"
+      },
+      {
+        "id": "Khushi Kapoor",
+        "label": "entity"
+      },
+      {
+        "id": "Manhattan",
+        "label": "entity"
+      },
+      {
+        "id": "indiatvnews.com](https://www.indiatvnews.com",
+        "label": "entity"
+      },
+      {
+        "id": "Aamir Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Shah Rukh Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Sabyasachi Mukherjee",
+        "label": "entity"
+      },
+      {
+        "id": "Junaid Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Aaradhya",
+        "label": "entity"
+      },
+      {
+        "id": "Suhana Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Salman Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Siddharth Anand",
+        "label": "entity"
+      },
+      {
+        "id": "Aishwarya Rai Bachchan's",
+        "label": "entity"
+      },
+      {
+        "id": "Bros Brothers International Limited**",
+        "label": "entity"
+      },
+      {
+        "id": "India",
+        "label": "entity"
+      },
+      {
+        "id": "the Ministry of Corporate Affairs",
+        "label": "entity"
+      },
+      {
+        "id": "the United Kingdom",
+        "label": "entity"
+      },
+      {
+        "id": "Melbourne",
+        "label": "entity"
+      },
+      {
+        "id": "National Urdu University",
+        "label": "entity"
+      },
+      {
+        "id": "Hyderabad",
+        "label": "entity"
+      },
+      {
+        "id": "London",
+        "label": "entity"
+      },
+      {
+        "id": "Scotland",
+        "label": "entity"
+      },
+      {
+        "id": "Philanthropy",
+        "label": "entity"
+      },
+      {
+        "id": "Australia",
+        "label": "entity"
+      },
+      {
+        "id": "The University of Law",
+        "label": "entity"
+      },
+      {
+        "id": "UK",
+        "label": "entity"
+      },
+      {
+        "id": "La Trobe University",
+        "label": "entity"
+      },
+      {
+        "id": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "label": "entity"
+      },
+      {
+        "id": "@IamSRK",
+        "label": "entity"
+      },
+      {
+        "id": "snapchat.com](https://www.snapchat.com",
+        "label": "entity"
+      },
+      {
+        "id": "the Legion of Honour",
+        "label": "entity"
+      },
+      {
+        "id": "Kabhi Alvida Naa Kehna",
+        "label": "entity"
+      },
+      {
+        "id": "Dilip Kumar",
+        "label": "entity"
+      },
+      {
+        "id": "the Government of France",
+        "label": "entity"
+      },
+      {
+        "id": "Deewana",
+        "label": "entity"
+      },
+      {
+        "id": "the Government of India",
+        "label": "entity"
+      },
+      {
+        "id": "Shah Rukh Khan's",
+        "label": "entity"
+      },
+      {
+        "id": "Wikipedia",
+        "label": "entity"
+      },
+      {
+        "id": "Darr",
+        "label": "entity"
+      },
+      {
+        "id": "Kajol",
+        "label": "entity"
+      },
+      {
+        "id": "Jawan",
+        "label": "entity"
+      },
+      {
+        "id": "Asperger",
+        "label": "entity"
+      },
+      {
+        "id": "the Padma Shri",
+        "label": "entity"
+      },
+      {
+        "id": "ED",
+        "label": "entity"
+      },
+      {
+        "id": "aryan-khan",
+        "label": "entity"
+      },
+      {
+        "id": "MCA",
+        "label": "entity"
+      },
+      {
+        "id": "fema",
+        "label": "entity"
+      },
+      {
+        "id": "NCB",
+        "label": "entity"
+      },
+      {
+        "id": "the Kolkata Knight Riders",
+        "label": "entity"
+      },
+      {
+        "id": "Aryan Khan's",
+        "label": "entity"
+      },
+      {
+        "id": "Knight Riders Sports Pvt Ltd",
+        "label": "entity"
+      },
+      {
+        "id": "The Mumbai Cricket Association",
+        "label": "entity"
+      },
+      {
+        "id": "IPL",
+        "label": "entity"
+      },
+      {
+        "id": "FEMA",
+        "label": "entity"
+      },
+      {
+        "id": "indianexpress.com](https://indianexpress.com",
+        "label": "entity"
+      },
+      {
+        "id": "KRSPL",
+        "label": "entity"
+      },
+      {
+        "id": "the Foreign Exchange Management Act",
+        "label": "entity"
+      },
+      {
+        "id": "The Enforcement Directorate (ED",
+        "label": "entity"
+      },
+      {
+        "id": "the Narcotics Control Bureau",
+        "label": "entity"
+      },
+      {
+        "id": "arabnews.com](https://www.arabnews.com",
+        "label": "entity"
+      },
+      {
+        "id": "Aryan Khan",
+        "label": "entity"
+      },
+      {
+        "id": "Shahrukh",
+        "label": "entity"
+      },
+      {
+        "id": "the Bombay High Court",
+        "label": "entity"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Red Chillies Entertainment",
+        "target": "WhatsApp",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Red Chillies Entertainment",
+        "target": "Netflix",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Red Chillies Entertainment",
+        "target": "Gauri Khan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Red Chillies Entertainment",
+        "target": "Khan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Red Chillies Entertainment",
+        "target": "Chennai Express",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "WhatsApp",
+        "target": "Netflix",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "WhatsApp",
+        "target": "Gauri Khan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "WhatsApp",
+        "target": "Khan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "WhatsApp",
+        "target": "Chennai Express",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Netflix",
+        "target": "Gauri Khan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Netflix",
+        "target": "Khan",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Netflix",
+        "target": "Chennai Express",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Khan",
+        "weight": 1.8,
+        "task": "task_1"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Chennai Express",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Shahrukh Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Mumbai",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Mannat",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Shahrukh Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Bandra",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "Bollywood",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Gauri Khan",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "Chennai Express",
+        "weight": 0.9,
+        "task": "task_1"
+      },
+      {
+        "source": "Khan",
+        "target": "Shahrukh Khan's",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Bandra",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Puja Casa",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Vashu Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Shahrukh Khan",
+        "weight": 2.0,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Bandstand",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Mumbai",
+        "weight": 2.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Mannat",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Bollywood",
+        "weight": 3.8,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Khan",
+        "target": "Khushi Kapoor",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Manhattan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "indiatvnews.com](https://www.indiatvnews.com",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Aamir Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khan",
+        "target": "Bros Brothers International Limited**",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khan",
+        "target": "India",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Khan",
+        "target": "the Ministry of Corporate Affairs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khan",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Khan",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "National Urdu University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "Hyderabad",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Khan",
+        "target": "@IamSRK",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Khan",
+        "target": "snapchat.com](https://www.snapchat.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "Khan",
+        "target": "the Legion of Honour",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Kabhi Alvida Naa Kehna",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Dilip Kumar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "the Government of France",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Deewana",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "the Government of India",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Khan",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khan",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Bandra",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Puja Casa",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Vashu Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Shahrukh Khan",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Bandstand",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Mumbai",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Mannat",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Bollywood",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan's",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "Puja Casa",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Vashu Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Shahrukh Khan",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Bandstand",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Mumbai",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Mannat",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Bollywood",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandra",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandra",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Vashu Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Shahrukh Khan",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Bandstand",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Mumbai",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Mannat",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Bollywood",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Puja Casa",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Shahrukh Khan",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Bandstand",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Mumbai",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Mannat",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Bollywood",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Vashu Bhagnani",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Bandstand",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Mumbai",
+        "weight": 2.0,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Mannat",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Bollywood",
+        "weight": 2.0,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Bros Brothers International Limited**",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "India",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "the Ministry of Corporate Affairs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh Khan",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bandstand",
+        "target": "Jacky Bhagnani",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandstand",
+        "target": "Mumbai",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandstand",
+        "target": "Mannat",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandstand",
+        "target": "Bollywood",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bandstand",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Jacky Bhagnani",
+        "target": "Mumbai",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Jacky Bhagnani",
+        "target": "Mannat",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Jacky Bhagnani",
+        "target": "Bollywood",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Jacky Bhagnani",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Mannat",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Bollywood",
+        "weight": 2.9,
+        "task": "task_2"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Khushi Kapoor",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Manhattan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "indiatvnews.com](https://www.indiatvnews.com",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Aamir Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Bros Brothers International Limited**",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mumbai",
+        "target": "India",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mumbai",
+        "target": "the Ministry of Corporate Affairs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mumbai",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Mumbai",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mumbai",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "Bollywood",
+        "weight": 1.1,
+        "task": "task_2"
+      },
+      {
+        "source": "Mannat",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Mannat",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Mannat",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Khar",
+        "weight": 0.2,
+        "task": "task_2"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Khushi Kapoor",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Manhattan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "indiatvnews.com](https://www.indiatvnews.com",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Aamir Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Bros Brothers International Limited**",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Bollywood",
+        "target": "India",
+        "weight": 1.8,
+        "task": "task_4"
+      },
+      {
+        "source": "Bollywood",
+        "target": "the Ministry of Corporate Affairs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Bollywood",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "National Urdu University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Hyderabad",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Bollywood",
+        "target": "ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Bollywood",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Manhattan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "indiatvnews.com](https://www.indiatvnews.com",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Aamir Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Khushi Kapoor",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "indiatvnews.com](https://www.indiatvnews.com",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Aamir Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Manhattan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Aamir Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "indiatvnews.com](https://www.indiatvnews.com",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Shah Rukh Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aamir Khan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Sabyasachi Mukherjee",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Shah Rukh Khan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Sabyasachi Mukherjee",
+        "target": "Junaid Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Sabyasachi Mukherjee",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Sabyasachi Mukherjee",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Sabyasachi Mukherjee",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Sabyasachi Mukherjee",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Sabyasachi Mukherjee",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Junaid Khan",
+        "target": "Aaradhya",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Junaid Khan",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Junaid Khan",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Junaid Khan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Junaid Khan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aaradhya",
+        "target": "Suhana Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aaradhya",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aaradhya",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Aaradhya",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Suhana Khan",
+        "target": "Salman Khan",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Suhana Khan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Suhana Khan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Salman Khan",
+        "target": "Siddharth Anand",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Salman Khan",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Siddharth Anand",
+        "target": "Aishwarya Rai Bachchan's",
+        "weight": 0.9,
+        "task": "task_3"
+      },
+      {
+        "source": "Bros Brothers International Limited**",
+        "target": "India",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Bros Brothers International Limited**",
+        "target": "the Ministry of Corporate Affairs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Bros Brothers International Limited**",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "India",
+        "target": "the Ministry of Corporate Affairs",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "India",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "India",
+        "target": "Melbourne",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "National Urdu University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "Hyderabad",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "India",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "the Ministry of Corporate Affairs",
+        "target": "the United Kingdom",
+        "weight": 0.9,
+        "task": "task_4"
+      },
+      {
+        "source": "Melbourne",
+        "target": "National Urdu University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Hyderabad",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Melbourne",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "Hyderabad",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "National Urdu University",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "London",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Hyderabad",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "Scotland",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "London",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Scotland",
+        "target": "Philanthropy",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Scotland",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Scotland",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Scotland",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Scotland",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Scotland",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Philanthropy",
+        "target": "Australia",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Philanthropy",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Philanthropy",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Philanthropy",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Philanthropy",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Australia",
+        "target": "The University of Law",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Australia",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Australia",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "Australia",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "The University of Law",
+        "target": "UK",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "The University of Law",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "The University of Law",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "UK",
+        "target": "La Trobe University",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "UK",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "La Trobe University",
+        "target": "deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh",
+        "weight": 0.9,
+        "task": "task_5"
+      },
+      {
+        "source": "@IamSRK",
+        "target": "snapchat.com](https://www.snapchat.com",
+        "weight": 0.9,
+        "task": "task_6"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Kabhi Alvida Naa Kehna",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Dilip Kumar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "the Government of France",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Deewana",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "the Government of India",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Legion of Honour",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Dilip Kumar",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "the Government of France",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Deewana",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "the Government of India",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kabhi Alvida Naa Kehna",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "the Government of France",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Deewana",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "the Government of India",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Dilip Kumar",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Deewana",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "the Government of India",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of France",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "the Government of India",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Deewana",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "Shah Rukh Khan's",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "the Government of India",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Shah Rukh Khan's",
+        "target": "Wikipedia",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Shah Rukh Khan's",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Shah Rukh Khan's",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Shah Rukh Khan's",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Shah Rukh Khan's",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Shah Rukh Khan's",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Wikipedia",
+        "target": "Darr",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Wikipedia",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Wikipedia",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Wikipedia",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Wikipedia",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Darr",
+        "target": "Kajol",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Darr",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Darr",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Darr",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kajol",
+        "target": "Jawan",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kajol",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Kajol",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Jawan",
+        "target": "Asperger",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Jawan",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "Asperger",
+        "target": "the Padma Shri",
+        "weight": 0.9,
+        "task": "task_7"
+      },
+      {
+        "source": "ED",
+        "target": "aryan-khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "ED",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "MCA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "aryan-khan",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "fema",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "MCA",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "NCB",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "fema",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "the Kolkata Knight Riders",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "NCB",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "Aryan Khan's",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Kolkata Knight Riders",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "Knight Riders Sports Pvt Ltd",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan's",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "The Mumbai Cricket Association",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Knight Riders Sports Pvt Ltd",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "IPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Mumbai Cricket Association",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "FEMA",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "IPL",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "indianexpress.com](https://indianexpress.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "FEMA",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "KRSPL",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "indianexpress.com](https://indianexpress.com",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "the Foreign Exchange Management Act",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "KRSPL",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Foreign Exchange Management Act",
+        "target": "The Enforcement Directorate (ED",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Foreign Exchange Management Act",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Foreign Exchange Management Act",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Foreign Exchange Management Act",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Foreign Exchange Management Act",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Foreign Exchange Management Act",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Enforcement Directorate (ED",
+        "target": "the Narcotics Control Bureau",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Enforcement Directorate (ED",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Enforcement Directorate (ED",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Enforcement Directorate (ED",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "The Enforcement Directorate (ED",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Narcotics Control Bureau",
+        "target": "arabnews.com](https://www.arabnews.com",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Narcotics Control Bureau",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Narcotics Control Bureau",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "the Narcotics Control Bureau",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "arabnews.com](https://www.arabnews.com",
+        "target": "Aryan Khan",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "arabnews.com](https://www.arabnews.com",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "arabnews.com](https://www.arabnews.com",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan",
+        "target": "Shahrukh",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Aryan Khan",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      },
+      {
+        "source": "Shahrukh",
+        "target": "the Bombay High Court",
+        "weight": 0.9,
+        "task": "task_8"
+      }
+    ]
+  },
+  "deduplicated": {
+    "task_1": {
+      "source": "web_search_preview",
+      "query_used": "Search LinkedIn for current role of Shahrukh Khan at Red Chillies Entertainment",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:04.989342",
+      "data": "Shah Rukh Khan serves as the founder and managing director of Red Chillies Entertainment, a prominent Indian entertainment company he co-founded with his wife, Gauri Khan, in 2002. The company is involved in various aspects of the entertainment industry, including film production, distribution, visual effects, and television commercials. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai))\n\nIn June 2024, Red Chillies Entertainment issued a public notice warning against fraudulent employment offers circulating on social media platforms, particularly WhatsApp. The company emphasized that all genuine opportunities are communicated through their official channels. ([ndtv.com](https://www.ndtv.com/entertainment/shah-rukh-khans-red-chillies-entertainment-warns-against-fraudulent-employment-offers-5828923?utm_source=openai))\n\nAdditionally, in December 2016, Red Chillies Entertainment entered into a long-term agreement with Netflix, making it the global home for both upcoming and past films produced by the company. This partnership marked a significant step in bringing Indian cinema to a global audience. ([business-standard.com](https://www.business-standard.com/article/news-ani/king-khan-s-red-chillies-entertainment-strikes-deal-with-netflix-116121500756_1.html?utm_source=openai))\n\nUnder Khan's leadership, Red Chillies Entertainment has produced several successful films, including \"Om Shanti Om,\" \"Ra.One,\" and \"Chennai Express.\" The company continues to be a significant player in the Indian entertainment industry, contributing to the global reach of Bollywood cinema. ([forbes.com](https://www.forbes.com/sites/dongroves/2017/02/28/shah-rukh-khans-ambitious-vision-for-red-chillies-entertainment/?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "47d23552a5e3d31377369a83d67270673d3ee4755e93fb97b2820ca6394ab4b0",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai",
+          "title": "Red Chillies Entertainment",
+          "start": 340,
+          "end": 436
+        },
+        {
+          "url": "https://www.ndtv.com/entertainment/shah-rukh-khans-red-chillies-entertainment-warns-against-fraudulent-employment-offers-5828923?utm_source=openai",
+          "title": "Shah Rukh Khan's Red Chillies Entertainment Warns Against \"Fraudulent\" Employment Offers",
+          "start": 713,
+          "end": 873
+        }
+      ]
+    },
+    "task_2": {
+      "source": "web_search_preview",
+      "query_used": "Investigate Mumbai municipal property records for residential ownership under Shahrukh Khan's name",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:05.596110",
+      "data": "Shahrukh Khan, the renowned Bollywood actor, owns several residential properties in Mumbai, with his primary residence being the iconic bungalow \"Mannat.\" Located in the upscale Bandstand area of Bandra (West), Mumbai, Mannat is a six-story sea-facing property spanning approximately 27,000 square feet. Khan acquired the heritage bungalow in 2001 for around ₹13 crore and has since invested in its renovation and expansion. ([housing.com](https://housing.com/news/the-mansion-called-mannat//?utm_source=openai))\n\nIn addition to Mannat, Khan has expanded his real estate portfolio in Mumbai. In February 2025, he rented two luxury duplex apartments in the Pali Hill area of Khar for ₹8.67 crore over three years. These duplexes, located in the building named Puja Casa, were rented from film producer Vashu Bhagnani and actor Jacky Bhagnani. The move was reportedly due to renovation and extension work planned for the Mannat annexe. ([hindustantimes.com](https://www.hindustantimes.com/real-estate/shahrukh-khan-takes-on-rent-two-duplex-apartments-in-mumbai-for-rs-8-67-crore-for-three-years-101739960333164.html?utm_source=openai))\n\nFurthermore, in January 2025, Khan was set to receive a ₹9 crore refund from the state following a calculation error by the Mumbai suburban collectorate during the conversion of the lease on Mannat to full ownership. This refund was related to the premium paid for the conversion of the property from a 99-year lease to complete ownership. ([hindustantimes.com](https://www.hindustantimes.com/cities/mumbai-news/shahrukh-to-get-9-cr-refund-from-state-for-mannat-101737746658079.html?utm_source=openai))\n\nThese properties underscore Shahrukh Khan's significant real estate investments in Mumbai, reflecting his prominence in the city's luxury housing market. ",
+      "confidence": 0.2,
+      "decayed_score": 0.2,
+      "hash": "64c629280563751a86960df0348ed070e99c8f8b28305b00ec1c21dd3aab771f",
+      "citations": [
+        {
+          "url": "https://housing.com/news/the-mansion-called-mannat//?utm_source=openai",
+          "title": "Mannat house: Look Inside SRK's expensive 200 cr property",
+          "start": 425,
+          "end": 512
+        },
+        {
+          "url": "https://www.hindustantimes.com/real-estate/shahrukh-khan-takes-on-rent-two-duplex-apartments-in-mumbai-for-rs-8-67-crore-for-three-years-101739960333164.html?utm_source=openai",
+          "title": "Shah Rukh Khan rents two luxury duplex flats in Mumbai for ₹8.7 crore for three years; the reason behind the move - Hindustan Times",
+          "start": 934,
+          "end": 1133
+        }
+      ]
+    },
+    "task_3": {
+      "source": "web_search_preview",
+      "query_used": "Review recent news archives from Mumbai-based media outlets for professional and personal mentions",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:04.982072",
+      "data": "Recent Mumbai-based media outlets have reported on several professional and personal developments involving Bollywood superstar Shah Rukh Khan:\n\n**Professional Updates:**\n\n- **Met Gala Appearance:** On May 5, 2025, Khan made his debut at the Met Gala in Manhattan, becoming the first Bollywood male actor to attend the prestigious event. His ensemble was designed by renowned fashion designer Sabyasachi Mukherjee. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai))\n\n- **Upcoming Film 'King':** In January 2025, Khan confirmed his collaboration with director Siddharth Anand for the film 'King,' which will also mark the theatrical debut of his daughter, Suhana Khan. ([indiatvnews.com](https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai))\n\n**Personal Updates:**\n\n- **Family Moments:** In February 2025, videos of Khan's son, Abram, singing \"Die,\" and Aishwarya Rai Bachchan's daughter, Aaradhya, performing as Goddess Sita, went viral, showcasing the next generation of Bollywood talent. ([indiatvnews.com](https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai))\n\n- **Family Outing:** In February 2025, Khan, along with fellow actors Salman Khan and Aamir Khan, attended the Mumbai screening of 'Loveyapa,' a film featuring Junaid Khan and Khushi Kapoor. The trio's presence garnered significant media attention. ([indiatvnews.com](https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai))\n\nThese updates highlight Shah Rukh Khan's ongoing influence in the entertainment industry and his active participation in both professional projects and family events. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "6b3585d13b98979830b10b7fe06208a80f4e445c6ea2a61fce0b6a99bf28b918",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai",
+          "title": "Shah Rukh Khan",
+          "start": 415,
+          "end": 499
+        },
+        {
+          "url": "https://www.indiatvnews.com/topic/-shahrukh-khan-?utm_source=openai",
+          "title": "Shahrukh Khan Latest News, Photos and Videos - India TV News",
+          "start": 702,
+          "end": 790
+        }
+      ]
+    },
+    "task_4": {
+      "source": "web_search_preview",
+      "query_used": "Check Maharashtra state business registry for company directorships or shareholdings",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:05.386921",
+      "data": "Shahrukh Khan, the renowned Bollywood actor, holds directorial positions in several companies registered in Maharashtra, India. According to records from the Ministry of Corporate Affairs, he is associated with the following entities:\n\n- **Red Chillies Entertainment Private Limited**: Established in 2002, this Mumbai-based company specializes in film production, distribution, and visual effects. Khan serves as the founder and managing director. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai))\n\n- **Arclightz and Films Private Limited**: Incorporated in 1998, this company is involved in recreational, cultural, and sporting activities. Khan has been serving as a director since November 11, 1998. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Tuscany Properties Private Limited**: Founded on August 2, 2006, this real estate and renting company has Khan as a director. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Tuscany Sports LLP**: Established on December 5, 2018, this entity focuses on recreational, cultural, and sporting activities, with Khan as a designated partner. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Admented Reality LLP**: Registered on July 29, 2022, this company operates in the field of augmented reality, with Khan serving as a designated partner. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai))\n\n- **Zenroh Beverages Private Limited**: Incorporated on November 17, 2023, this company is associated with Khan as a director. ([tofler.in](https://www.tofler.in/shahrukh-khan/director/10394581?utm_source=openai))\n\nAdditionally, Khan was briefly associated with **Bros Brothers International Limited**, a company registered in the United Kingdom. He was appointed as a director on January 25, 2017, and resigned on the same day. ([find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk/officers/tCkD2jamUMhEIB5iKbzs5lfJoMs/appointments?utm_source=openai))\n\nThese affiliations highlight Khan's extensive involvement in various sectors, including entertainment, real estate, sports, and technology. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "3f72c6e29078eafcb93fff3d49fefbf44172ae93ee38ef40fba2e49d90883a84",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Red_Chillies_Entertainment?utm_source=openai",
+          "title": "Red Chillies Entertainment",
+          "start": 449,
+          "end": 545
+        },
+        {
+          "url": "https://www.tofler.in/shahrukh-khan/director/00141841?utm_source=openai",
+          "title": "SHAHRUKH KHAN - Get DIN, Appointment Date & Associated Companies | Tofler",
+          "start": 750,
+          "end": 836
+        }
+      ]
+    },
+    "task_5": {
+      "source": "web_search_preview",
+      "query_used": "Search academic databases for any educational credentials or honorary degrees associated with Shahrukh Khan",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:05.081503",
+      "data": "Shah Rukh Khan, the renowned Bollywood actor, has been honored with several honorary degrees from prestigious institutions worldwide:\n\n- **University of Bedfordshire, UK (2009):** Awarded an honorary Doctor of Letters for his contributions to the arts and international philanthropy. ([masala.com](https://www.masala.com/bollywood-news/shah-rukh-khan-and-the-list-of-honors-he-has-from-major-universities-291769?utm_source=openai))\n\n- **University of Edinburgh, Scotland (2015):** Conferred an honorary Doctor of Letters in recognition of his achievements in film and support for charitable causes. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahrukh-khan-to-receive-honorary-doctorate-from-the-university-of-edinburgh/articleshow/49234039.cms?utm_source=openai))\n\n- **Maulana Azad National Urdu University, Hyderabad, India (2016):** Received an honorary Doctor of Letters for promoting the Urdu language and culture. ([deccanherald.com](https://www.deccanherald.com/india/honorary-doctorate-shahrukh-khan-2103574?utm_source=openai))\n\n- **The University of Law, London, UK (2019):** Honored with an honorary doctorate in Philanthropy for his leadership in championing human rights. ([ndtv.com](https://www.ndtv.com/entertainment/webstories/icydk-shah-rukh-khan-holds-five-honorary-doctorates-25317?utm_source=openai))\n\n- **La Trobe University, Melbourne, Australia (2019):** Awarded an honorary Doctor of Letters for his contributions to the film industry and philanthropy. ([ndtv.com](https://www.ndtv.com/entertainment/webstories/icydk-shah-rukh-khan-holds-five-honorary-doctorates-25317?utm_source=openai))\n\nThese accolades reflect Khan's significant impact on cinema and his philanthropic endeavors. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "cf9bd5841316d8eaef096830116ad4252edd983b734767a043bf2172561bb2af",
+      "citations": [
+        {
+          "url": "https://www.masala.com/bollywood-news/shah-rukh-khan-and-the-list-of-honors-he-has-from-major-universities-291769?utm_source=openai",
+          "title": "Shah Rukh Khan and the List of Honors He Has From Major Universities - Masala.com",
+          "start": 284,
+          "end": 431
+        },
+        {
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahrukh-khan-to-receive-honorary-doctorate-from-the-university-of-edinburgh/articleshow/49234039.cms?utm_source=openai",
+          "title": "Shahrukh Khan to receive honorary doctorate from the University of Edinburgh | Hindi Movie News - Times of India",
+          "start": 599,
+          "end": 822
+        }
+      ]
+    },
+    "task_6": {
+      "source": "web_search_preview",
+      "query_used": "Explore social media platforms for verified professional and personal accounts linked to his entertainment career",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:04.025139",
+      "data": "Shah Rukh Khan, often referred to as the \"King of Bollywood,\" maintains an active presence on several social media platforms, offering fans direct access to his professional and personal updates. Here are his verified accounts:\n\n- **Twitter/X**: @iamsrk\n- **Instagram**: @iamsrk\n- **Facebook**: @IamSRK\n- **Snapchat**: @shaahrukh0 ([snapchat.com](https://www.snapchat.com/add/shaahrukh0?utm_source=openai))\n\nThese platforms provide insights into his latest projects, personal moments, and interactions with fans. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "fc9f3c84bd608f285bbfff8a447b73a17d7bc44de66dc971d4752eb6b3d7e735",
+      "citations": [
+        {
+          "url": "https://www.snapchat.com/add/shaahrukh0?utm_source=openai",
+          "title": "Shahrukh Khan ® (@shaahrukh0) | Snapchat Stories, Spotlight & Lenses",
+          "start": 331,
+          "end": 406
+        }
+      ]
+    },
+    "task_7": {
+      "source": "web_search_preview",
+      "query_used": "Analyze film industry databases for comprehensive filmography and production credits",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:06.615743",
+      "data": "Shah Rukh Khan, often referred to as the \"Baadshah of Bollywood,\" has an extensive filmography spanning over three decades. He began his acting career with the television series *Fauji* in 1988, portraying a soldier, which led to his film debut in the romantic drama *Deewana* (1992). His early roles in *Baazigar* (1993) and *Darr* (1993) established him as a versatile actor capable of portraying both romantic and antagonist characters. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai))\n\nIn 1995, Khan starred in *Dilwale Dulhania Le Jayenge*, a film that became the longest-running Indian film of all time. He continued to solidify his status with hits like *Dil To Pagal Hai* (1997) and *Kuch Kuch Hota Hai* (1998). The 2000s saw him in diverse roles, including the period drama *Asoka* (2001) and the romantic epic *Veer-Zaara* (2004). His performance in *Kabhi Alvida Naa Kehna* (2006) marked a departure from his usual roles, showcasing his range as an actor. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai))\n\nThe 2010s featured Khan in films like *My Name Is Khan* (2010), where he portrayed a man with Asperger syndrome, and *Ra.One* (2011), a science fiction action film. He reunited with Kajol in *Dilwale* (2015) and starred in the action-comedy *Chennai Express* (2013). In 2023, Khan made a significant comeback with the action thriller *Pathaan*, which became one of the highest-grossing Indian films, and *Jawan*, where he played dual roles as father and son. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai))\n\nThroughout his career, Khan has received numerous accolades, including eight Filmfare Awards for Best Actor, tying him with Dilip Kumar for the most wins in this category. He has also been honored with the Padma Shri by the Government of India and the Legion of Honour by the Government of France. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai))\n\nFor a comprehensive list of Shah Rukh Khan's films, including box office collections and verdicts, you can refer to his filmography on Wikipedia. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai)) ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "39c9c82874fbd7beef0a14fa8e0982a1ab1d2f19fcfc5ac6d33845e9989aca2d",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai",
+          "title": "Shah Rukh Khan filmography",
+          "start": 440,
+          "end": 536
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography?utm_source=openai",
+          "title": "Shah Rukh Khan filmography",
+          "start": 1015,
+          "end": 1111
+        }
+      ]
+    },
+    "task_8": {
+      "source": "web_search_preview",
+      "query_used": "Review legal and court records in Mumbai jurisdiction for any significant legal proceedings or corporate filings",
+      "published": "2025-06-13",
+      "retrieved": "2025-06-13T17:19:07.027377",
+      "data": "Shahrukh Khan, a prominent Bollywood actor, has been involved in several legal proceedings within Mumbai's jurisdiction:\n\n1. **FEMA Violation Case (2017):** The Enforcement Directorate (ED) issued notices to Shahrukh Khan and his wife, Gauri Khan, in connection with an alleged violation of the Foreign Exchange Management Act (FEMA). The case involved a loss of ₹73.6 crore due to the transfer of shares in Knight Riders Sports Pvt Ltd (KRSPL), which owns the Kolkata Knight Riders IPL team, to a Mauritius-based firm at a value lower than its actual worth. The ED alleged this resulted in a foreign exchange loss. Both Shahrukh and Gauri Khan were asked to participate in adjudication proceedings scheduled for August 23, 2017. ([indianexpress.com](https://indianexpress.com/article/india/fema-violation-case-ed-notices-to-shahrukh-gauri-khan-ipl-kkr-4760306/?utm_source=openai))\n\n2. **Building Regulations Violation (2007):** In 2007, the Bombay High Court sought an explanation from Shahrukh Khan regarding alleged violations of building regulations for a structure constructed adjacent to his bungalow, Mannat, in Bandra, Mumbai. A public interest litigation filed by an NGO claimed that the building encroached upon a proposed road in the development plan. The court directed Khan to file a detailed affidavit in response to these allegations. ([arabnews.com](https://www.arabnews.com/node/303382?utm_source=openai))\n\n3. **Wankhede Stadium Incident (2012):** After an IPL match in 2012, Shahrukh Khan was involved in a brawl with security personnel at the Wankhede Stadium. The Mumbai Cricket Association (MCA) initially imposed a five-year ban on Khan's entry to the stadium. However, in 2015, the MCA lifted the ban, and in 2016, the Mumbai Police informed that no cognizable offence was made out against Khan, stating he was not drunk and did not use abusive language before minors during the incident. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shah_Rukh_Khan?utm_source=openai))\n\n4. **Aryan Khan's Arrest and Bail (2021):** In October 2021, Shahrukh Khan's son, Aryan Khan, was arrested by the Narcotics Control Bureau (NCB) in connection with a drug bust on a cruise ship off the Mumbai coast. Aryan Khan was granted bail by the Bombay High Court on October 28, 2021, after spending three weeks in custody. ([indianexpress.com](https://indianexpress.com/article/cities/mumbai/aryan-khan-bail-live-updates-bombay-high-court-7592717/?utm_source=openai))\n\nThese instances highlight the legal challenges faced by Shahrukh Khan and his family within Mumbai's jurisdiction. ",
+      "confidence": 0.9,
+      "decayed_score": 0.9,
+      "hash": "b5bb68acd7ae8f1079e0a250b628e52ca9d31ede9155c81b9d91f589b76533d0",
+      "citations": [
+        {
+          "url": "https://indianexpress.com/article/india/fema-violation-case-ed-notices-to-shahrukh-gauri-khan-ipl-kkr-4760306/?utm_source=openai",
+          "title": "FEMA ‘Violation’ Case: ED notices to Shahrukh, Gauri Khan | India News - The Indian Express",
+          "start": 730,
+          "end": 881
+        },
+        {
+          "url": "https://www.arabnews.com/node/303382?utm_source=openai",
+          "title": "Building Lands Shahrukh in Trouble | Arab News",
+          "start": 1350,
+          "end": 1422
+        }
+      ]
+    }
+  },
+  "retrieval_model": "gpt-4o-mini-search-preview",
+  "synthesis_model": "gemini-2.0-flash"
+}
